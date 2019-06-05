@@ -35,15 +35,13 @@ I dream of digitally-native books that grow through your browser as you read the
 
 Moreover, it can’t be done on some kind of [closed platform](https://www.gitbook.com/pricing) that could take it away on a whim, or simply charge you out of your online practice. 
 
-It must be a framework that can be easily transported, and published anywhere. I am a [part-time mathemetician](https://observablehq.com/@andytudhope/embedded-discover) after all, and the domain you choose really matters.
-
 This open source framework must render readable text on mobile phones (seeing as most of the world is looking at this right now through a small screen). It must require only an elementary understanding of “code” to use, and anyone should be able to build with it following some simple instructions. It should be as clean and efficient as possible and use the best open source tech so that it loads fast, no matter where you are or what kind of connection you have.
 
 Not many “serious” authors are thinking about stuff like that...
 
 Anyway, fools who seek long enough are sometimes found by their quest. Thanks to the people at [Status](https://status.im), there’s an awesome, open source website framework which seemed like it could be adapted...
 
-So I did that, and it worked quite well. Then I stripped all my own words and published it as an empty template with instructions, given in Fugue I, so that anyone can use it to build whatever they’d like and express their idea of love.
+So [I did that](../fugue-i/), and it worked quite well. Then I stripped my own linguistic patterns and published it as an [empty template with instructions](https://github.com/andytudhope/proofoflove), given in Fugue I, so that anyone can use it to build whatever they’d like and express their idea of love.
 
 
 ## No More Audiences

@@ -25,7 +25,7 @@ Johann actually focusses on games more than literature which, though appropriate
 
 Moreover, revolutions in publishing and disseminating text have also resulted in revolutions of wider social consciousness, which means books are also - in a very literal way - the original forms of social computation that memes have been using to build the [Seventh Kingdom](https://www.youtube.com/watch?v=TfkRZWFHpss "See also https://techgnosis.com/shots-of-awe-interview/").
 
-So, what if we could make it really easy for people to publish digitally-native books, made by and born on the internet, as a means of spreading patterns of knowledge that can be used to tweak the automated algorithms which are driving us further apart, into our own little echo-chambers and filter-bubbles, rather than bringing us together and showing us what really connects?
+So, what if we could make it really easy for people to publish digitally-native books, made by and born on the internet, as a means of spreading patterns of knowledge that can be used to tweak the automated algorithms we're building so that they can help bring us together and show us what really connects?
 
 What if the pattern of mind books have always carried, that particular piece of captured soul that can travel across time, could be literalised and fed to the machines we are building to augment our memories and imagine delightful and different ways of being?
 
@@ -37,7 +37,7 @@ What if everyone could easily build something about what they love? What happens
 
 ## Where would you start? ... [start, start](https://www.youtube.com/watch?v=E-QGkYNc0Ls).
 
-At first, I thought Gitbook might be the way to go. But, they've moved away from their old static site generator to a rich JSON format that is far more propietary and cannot be hosted anywhere but their servers, which is not cool. I don't want to have to "sign in" to my own book, I don't want to have to pay a fee to collaborate with more than two other people, and I want a site that I can transport easily, and [host anywhere](../fugue-ii/) at the click of a few buttons.
+At first, I thought Gitbook might be the way to go. But, they've moved away from their old static site generator to a rich JSON format that is far more propietary and cannot be hosted anywhere but their servers, which is not cool. I don't want to have to "sign in" to my own book, I don't want to have to pay a fee to collaborate with more than two other people, and I want a site that I can transport easily, and host anywhere at the click of a few buttons. I am a [part-time mathemetician](https://observablehq.com/@andytudhope/embedded-discover) after all, and the domain you choose really matters.
 
 So, I downloaded the legacy editor and `gitbook-cli` and, while these are great tools, there was a glaring problem. The legacy gitbook software doesn't let you nest your sidebar content and structure the links properly - and that really matters.
 
@@ -45,7 +45,7 @@ So, I downloaded the legacy editor and `gitbook-cli` and, while these are great 
 
 Strange, isn't it, how the significance of words is constantly slipping?
 
-[Author exits, stage left](http://www.tbook.constantvzw.org/wp-content/death_authorbarthes.pdf)
+[Author exits, stage left](http://www.tbook.constantvzw.org/wp-content/death_authorbarthes.pdf "Roland Barthes")
 
 ## No, really, it's all about the sidebar!
 
@@ -110,7 +110,7 @@ code .
 
 This will open the code editor with your project loaded into it's sidebar and allow you to see it visually, rather than just in a terminal.
 
-2. Go to the `source` [folder](https://github.com/andytudhope/thebluebook/tree/book/source/) - this is where you will put all of your chapters, sections and content. You can create as many chapters (folders) as you like, and put as many files beneath each chapter as you like, each of which will appear in it's own place on the sidebar.
+2. Go to the `source` [folder](https://github.com/andytudhope/proofoflove/tree/master/source/) - this is where you will put all of your chapters, sections and content. You can create as many chapters (folders) as you like, and put as many files beneath each chapter as you like, each of which will appear in it's own place on the sidebar.
 
 3. The sidebar will expand for the content beneath each specific chapter. So, if you go to [Canto I](../canto-i/), for instance, you'll see that only the files beneath the `canto-i` [folder](https://github.com/andytudhope/thebluebook/tree/book/source/canto-i/) appear, and the rest of the Cantos are flattened. This is for easier navigation, and becomes even more important on mobile.
 
@@ -118,6 +118,7 @@ This will open the code editor with your project loaded into it's sidebar and al
     1. `source/_data/sidebar.yml`, which is where you control what each link resolves to, and 
     2. `themes/navy/languages/en.yml`, which is where you control the text that is shown to the reader. 
     Follow the patterns set up in those 2 files already and you should be fine.
+    3. Happily, the whole process can be condensed into a [single link](https://github.com/andytudhope/proofoflove/commit/dad3ad50e3b7ce5bcc5e7aef6e06b732836b3288) that will show you exactly what files to change to add a new page to a specific chapter.
 
 5. One note about that `languages` folder - it can be used to handle translations quite elegantly, check out the [Hexo](https://hexo.io/docs/internationalization) docs for more on that.
 
@@ -125,15 +126,15 @@ This will open the code editor with your project loaded into it's sidebar and al
 
 7. Oh, there are also [some great plugins and tricks](https://hexo.io/docs/tag-plugins) that come with Hexo by default to help you enrich your MD files with everything from quotes to images, videos and more.
 
-8. If you want to add images, do it in `themes/navy/source/img` - the gulp build pipeline will put them in the right place so that you can simply link to them like [this](https://github.com/andytudhope/thebluebook/tree/book/source/fugue-i/index.md##L130):
+8. If you want to add images, do it in `themes/navy/source/img` - the gulp build pipeline will put them in the right place so that you can simply link to them like [this](https://github.com/andytudhope/thebluebook/tree/book/source/fugue-i/index.md#L130):
 
 ![Lion](../img/lion.png)
 
-9. If you want to change the page layout, or the home page, or the header and footer and other common elements, then you'll need to adventure into the `themes/navy/layout` folder, where you will find the few extended javascript `.ejs` files used to stitch it all together. Don't stress! This is just plain old HTML with a few fancy tags added to it to make fun things happen. If, for instance, you want to change the title of one the header items, all you need to do is go to this line in [themes/navy/layout/partial/header.js](https://github.com/andytudhope/proofoflove/tree/master/themes/navy/layout/partial/header.js#L27) and edit the text there. You can just leave the rest of it as is, or explore the patterns to build your own, unique navigation elements.
+9. If you want to change the page layout, or the home page, or the header and footer and other common elements, then you'll need to adventure into the `themes/navy/layout` folder, where you will find the few extend-with-javascript `.ejs` files used to stitch it all together. Don't stress! This is just plain old HTML with a few fancy tags added to it to make fun things happen. If, for instance, you want to change the title of one the header items, all you need to do is go to this line in [themes/navy/layout/partial/header.js](https://github.com/andytudhope/proofoflove/tree/master/themes/navy/layout/partial/header.js#L27) and edit the text there. You can just leave the rest of it as is, or explore the patterns to build your own, unique navigation elements.
 
-10. If you want to change the styles, then you'll need to edit the CSS in `themes/navy/source/scss/main.scss`. I have tried to keep it as clean as possible, and suggest using the marked section at the bottom to insert your own styles so that you don't inadvertently break anything (or, more accurately, can find the problem easily when you do). We can get even more meta than linking to specific lines of code, though - I can show you how to edit CSS through [my very commit trail](https://github.com/andytudhope/proofoflove/commits/master). :mind_blown:
+10. If you want to change the styles, then you'll need to edit the CSS in `themes/navy/source/scss/main.scss`. I have tried to keep it as clean as possible, and suggest using the marked section at the bottom to insert your own styles so that you don't inadvertently break anything (or, more accurately, can find the problem easily when you do). We can get even more meta than linking to specific lines of code, though - I can show you how to edit CSS through [the commit trail](https://github.com/andytudhope/proofoflove/commits/master). **:mind_blown:**
 
-11. The same goes for editing the JS in `themes/navy/source/js/dev.js`. Note that work shoul happen in the `dev.js` file, as that is how [build pipline](https://github.com/andytudhope/proofoflove/tree/master/gulpfile.js#L42) is set up. I think it's awesome if you can, and it would be great to see developer-writers take this much further than I currently have.
+11. The same goes for editing the JS in `themes/navy/source/js/dev.js`. Note that work shoul happen in the `dev.js` file, as that is how [build pipline](https://github.com/andytudhope/proofoflove/tree/master/gulpfile.js#L42) is set up. I think it's awesome if you can write custom JS, and it would be great to see developer-writers take this much further than I currently have.
 
 12. When you're ready, you'll need to create your own respository. Do this through Github in your browser, then return to the root of your project, and run the following commands:
 
