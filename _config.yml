@@ -12,7 +12,7 @@ permalink_defaults:
   lang: en
 i18n_dir: :lang
 
-url: https://thebluebook.ico.za/
+url: https://thebluebook.co.za/
 root: /
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
