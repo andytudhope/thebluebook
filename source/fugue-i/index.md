@@ -3,7 +3,7 @@ id: fugue-i
 title: Fugue I
 ---
 
->“Regis Iusfu Cantio Et Reliqua Canonica Arte Refolula”
+>“Regis Iussu Cantio Et Reliqua Canonica Arte Refolula”
 
 ## RTFM
 
@@ -15,9 +15,9 @@ One trace I want to follow explicitly is hidden deep in the tangled bank: that o
 
 > “Finally, let us return to Turing’s original contribution. The Universal Machine was, and remains, a crucial device for making our thinking about computation sharp, and allowing, for the first time in history, precise mathematical results on the power and limitations of what is computable. But there is a further question. Can there be a similar universal format for the behavior produced by social computation in the sense of this paper? We still lack a ‘new Turing’, but my guess is that the answer will come in the form of an abstract conceptual analysis of what it really means to be a game – beyond the details of current game theory.”
 
-## Social Computation
+## Social computation
 
-Honestly, the rest of the paper is a little technical for me, but that one question really got me thinking: 
+Honestly, the rest of the paper is a little technical for me, but that one question stuck with me: 
 
 `Can there be a similar universal format for the behavior produced by social computation?`
 
@@ -25,9 +25,9 @@ Johann actually focusses on games more than literature which, though appropriate
 
 Moreover, revolutions in publishing and disseminating text have also resulted in revolutions of wider social consciousness, which means books are also - in a very literal way - the original forms of social computation that memes have been using to build the [Seventh Kingdom](https://www.youtube.com/watch?v=TfkRZWFHpss "See also https://techgnosis.com/shots-of-awe-interview/").
 
-So, what if we could make it really easy for people to publish digitally-native books, made by and born on the internet, as a means of spreading patterns of knowledge that can be used to tweak the automated algorithms we're building so that they can help bring us together and show us what really connects?
+So, what if we could make it easier for people to publish digitally-native books, made by and born on the internet, as a means of spreading patterns of knowledge that can be used to tweak the automated algorithms we're building so that they can help bring us together and show us what really connects?
 
-What if the pattern of mind books have always carried, that particular piece of captured soul that can travel across time, could be literalised and fed to the machines we are building to augment our memories and imagine delightful and different ways of being?
+What if the pattern of mind books have always carried, that particular piece of captured soul that can travel across time, could be literalised and fed to the machines we are building to augment our memories and imagine delightfully different ways of being?
 
 What if everyone could easily build something about what they love? What happens if we open source the language(s) they used to create it? 
 
@@ -35,7 +35,7 @@ What if everyone could easily build something about what they love? What happens
 
 `What could we do with the results?`
 
-## Where would you start? ... [start, start](https://www.youtube.com/watch?v=E-QGkYNc0Ls).
+## Where would you start? ... [start, start](https://www.youtube.com/watch?v=E-QGkYNc0Ls)
 
 At first, I thought Gitbook might be the way to go. But, they've moved away from their old static site generator to a rich JSON format that is far more propietary and cannot be hosted anywhere but their servers, which is not cool. I don't want to have to "sign in" to my own book, I don't want to have to pay a fee to collaborate with more than two other people, and I want a site that I can transport easily, and host anywhere at the click of a few buttons. I am a [part-time mathemetician](https://observablehq.com/@andytudhope/embedded-discover) after all, and the domain you choose really matters.
 
@@ -59,8 +59,8 @@ I built my own framework by adapting one I helped build for a community called [
 
 **Dependencies**
 
-1. Try get a Linux machine. I haven't tested this anywhere else. Mac should work fine, but Windows might be a problem ([OS](https://www.youtube.com/watch?v=4vW62KqKJ5 "Revolution!") with [training wheels](https://github.com/andytudhope/APerspectiveonTechnologyA) that it is).
-2. Download a good "code" editor. I use - wtih tongue in cheek after the OS video link - [VSCode](https://code.visualstudio.com/download); but Atom, Sublime, or even NoteBook++ will do, depending on if you already have a preference.
+1. Try get a Linux machine. I haven't tested this anywhere else. Mac should work fine, but Windows might be a problem ([OS](https://www.youtube.com/watch?v=4vW62KqKJ5A "Revolution!") with [training wheels](https://github.com/andytudhope/APerspectiveonTechnologyA) that it is).
+2. Download a good "code" editor. I use - wtih [tongue in cheek](https://www.reddit.com/r/QuotesPorn/comments/3i7e2v/do_i_contradict_myself_walt_whitman_1680x1050_oc/) after the OS video link - [VSCode](https://code.visualstudio.com/download); but Atom, Sublime, or even NoteBook++ will do, depending on if you already have a preference.
 3. Once that is set up, install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 4. Then install Node and NPM (the Node Package Manager). The easiest way to do this, imo, is through [nvm](https://github.com/nvm-sh/nvm).
 
@@ -98,7 +98,7 @@ npm i
 
 With just four global dependencies, and four quick steps, we have a template for an online book! While I appreciate that this process is nowhere near as smooth as a professional platform like Gitbook, I still think that's pretty cool.
 
-## How to Edit Stuff - a 12 Step Program
+## How to edit stuff - a 12 step program
 
 Now that you have the site up and running, you'll need to know where to go to change, add, and edit things.
 
@@ -130,11 +130,11 @@ This will open the code editor with your project loaded into it's sidebar and al
 
 ![Lion](../img/lion.png)
 
-9. If you want to change the page layout, or the home page, or the header and footer and other common elements, then you'll need to adventure into the `themes/navy/layout` folder, where you will find the few extend-with-javascript `.ejs` files used to stitch it all together. Don't stress! This is just plain old HTML with a few fancy tags added to it to make fun things happen. If, for instance, you want to change the title of one the header items, all you need to do is go to this line in [themes/navy/layout/partial/header.js](https://github.com/andytudhope/proofoflove/tree/master/themes/navy/layout/partial/header.js#L27) and edit the text there. You can just leave the rest of it as is, or explore the patterns to build your own, unique navigation elements.
+9. If you want to change the page layout, or the home page, or the header and footer and other common elements, then you'll need to adventure into the `themes/navy/layout` folder, where you will find the few extend-with-javascript `.ejs` files used to stitch it all together. Don't stress! This is just plain old HTML with a few fancy tags added to it to make fun things happen. If, for instance, you want to change the title of one the header items, all you need to do is go to this line in [themes/navy/layout/partial/header.ejs](https://github.com/andytudhope/proofoflove/tree/master/themes/navy/layout/partial/header.ejs#L27) and edit the text there. You can just leave the rest of it as is, or explore the patterns to build your own, unique navigation elements.
 
 10. If you want to change the styles, then you'll need to edit the CSS in `themes/navy/source/scss/main.scss`. I have tried to keep it as clean as possible, and suggest using the marked section at the bottom to insert your own styles so that you don't inadvertently break anything (or, more accurately, can find the problem easily when you do). We can get even more meta than linking to specific lines of code, though - I can show you how to edit CSS through [the commit trail](https://github.com/andytudhope/proofoflove/commits/master). **:mind_blown:**
 
-11. The same goes for editing the JS in `themes/navy/source/js/dev.js`. Note that work shoul happen in the `dev.js` file, as that is how [build pipline](https://github.com/andytudhope/proofoflove/tree/master/gulpfile.js#L42) is set up. I think it's awesome if you can write custom JS, and it would be great to see developer-writers take this much further than I currently have.
+11. The same goes for editing the JS in `themes/navy/source/js/dev.js`. Note that work should happen in the `dev.js` file, as that is how [build pipline](https://github.com/andytudhope/proofoflove/tree/master/gulpfile.js#L42) is set up. I think it's awesome if you can write custom JS, and it would be great to see developer-writers take this much further than I currently have.
 
 12. When you're ready, you'll need to create your own respository. Do this through Github in your browser, then return to the root of your project, and run the following commands:
 
@@ -146,3 +146,7 @@ git add .
 git commit -m "Initial setup done"
 git push -u origin master
 ```
+
+## Traced Out
+
+“The literature of illumination reveals this above all: although it comes to those who wait for it, it is always, even to the most practiced and adept, a gift and a total surprise… I cannot cause light; the most I can do is try to put myself in the path of its beam. It is possible, in deep space, to sail on solar wind. Light, be it particle or wave, has force: you rig a giant sail and go. The secret of seeing is to sail on solar wind. Hone and spread your spirit till you yourself are a sail, whetted, translucent, broadside to the merest puff.” — Annie Dillard

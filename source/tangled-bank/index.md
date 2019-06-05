@@ -169,7 +169,7 @@ Anthony: ‘Tis so; and the tears of it are wet. — Shakespeare
 that springs from Order, Union, full Consent of things; 
 Where small and great, where weak and mighty, 
 made to serve, not suffer; 
-strengthen, no invade; 
+strengthen, not invade; 
 Parts relate to Whole; 
 All served, all serving; 
 nothing stands alone” — Alexander Pope
@@ -249,7 +249,7 @@ There seems to be more to the universe than random, chaotic, purposeless movemen
 
 “From this I reach what I might call a philosophy; at any rate it is a constant idea of mine; that behind the cotton wool is hidden a pattern; that we — I mean all human beings — are connected with this; that the whole world is a work of art; that we are parts of the work of art. Hamlet or a Beethoven quartet is the truth about this vast mass that we call the world. But there is no Shakespeare, there is no Beethoven; certainly and emphatically there is no God; we are the words; we are the music; we are the thing itself. And I see this when I have a shock.” — Virginia Woolf
 
-“[Stillness] strikes me. This bottle, this glass, a big stone on a deserted beach — these are motionless things, but they set loose great movements in my mind… People who go bathing on a beach and who move about, touch me much less than the [stillness] of a pebble. (Motionless things become grand, much grander than moving things.) [Stillness] makes me think of great spaces in which movements take place which do not stop at a given moment, movements which have no end. It is, as Kant said, the immediate irruption of the infinite in the finite. A pebble which is a finite and motionless object suggests to me not only movements, but movements without end […] What I am seeking, in fact, is a motionless movement, something equivalent to what is called the eloquence of silence, or what St. John of the Cross meant by the words, I believe, of dumb music” — Joan Miro
+“[Stillness] strikes me. This bottle, this glass, a big stone on a deserted beach — these are motionless things, but they set loose great movements in my mind… People who go bathing on a beach and who move about, touch me much less than the [stillness] of a pebble. (Motionless things become grand, much grander than moving things.) [Stillness] makes me think of great spaces in which movements take place which do not stop at a given moment, movements which have no end. It is, as Kant said, the immediate eruption of the infinite in the finite. A pebble which is a finite and motionless object suggests to me not only movements, but movements without end […] What I am seeking, in fact, is a motionless movement, something equivalent to what is called the eloquence of silence, or what St. John of the Cross meant by the words, I believe, of dumb music” — Joan Miro
 
 “Picasso paints what is true; true movements, true feelings. He is sane and strong and simple and sensitive… Picasso is an enthusiast. He says so, and that is why his works are young. Skepticism is the beginning of decadence. It’s a form of abdication and bankruptcy.” — Louise Bourgeois
 
@@ -265,15 +265,7 @@ There seems to be more to the universe than random, chaotic, purposeless movemen
 
 “That is precisely the biochemical picture we now have of the living system: compartments, micro-compartments and micro-domains, right down to molecular machines, each functioning autonomously, doing very different things at their own rates, generating flow patterns and cycles of different spatial extensions, yet all coupled together, syncopating and harmonising in complex rhythms, a veritable quantum jazz of life” — Mae-Won Ho
 
-“What would you have me say? That I think apartheid is stupid and vicious? I do. That I’m sorry? I am, I am. That I’m not like the rest of them? If you’d met me a few years ago, in a bar in London or New York, I would have told you that. I would have told you that only I, of all my blind clan and tribe, had eyes that could truly see, and that what I saw appalled me. I would have passed myself off as a political exile, an enlightened sort who took black women into his bed and fled his country rather than carry a gun for the abominable doctrine of white supremacy. You would probably have believed me. I almost believed myself, you see, but in truth I was always one of them. I am a white man born in Africa and all else flows from there.” — Rian Malan
-
-“And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit. For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.” — Song of Solomon
-
 “We say that we draw upon knowledge. Perhaps we know that what we draw upon is really being together, being human, in the wilderness” (McHenry 1997: 357)
-
-“That we are so afraid of annihilation or, what is the same thing, that we so wish to live, merely means that we ourselves are nothing else but this desire to live, and know nothing but it.” — Arthur Schopenhauer
-
-“The life of the mind is not one that shuns death, and keeps clear of destruction; it endures death and in death maintains its being. It only wins to its truth when it finds itself utterly torn asunder.” — Georg Hegel
 
 “I perceived that to understand the meaning of life it is necessary first that life should not be meaningless and evil, then we can apply reason to explain it” — Leo Tolstoy
 
@@ -292,7 +284,7 @@ the only life you could save.” — Mary Oliver
 
 “I turned again to the child, the ugliest but the latest and therefore, biologically, the most advanced human being on earth. What did he know? It is our knowledge — the things we are sure of — that makes the world go wrong and keeps us from seeing and learning from God’s everyday revelations of the truth. This “knowledge and belief” that is so false and so impious is said to be inborn. Is it? I asked my new-born baby boy and he answered; and his answer is the best news I, a veteran reporter, have ever had to report […] I can afford to let the mother, with her brains, provide the science and the business side of my child’s up-bringing; I, the father, will furnish the love (which women call “spoiling”), the art, the sport, the doubt divine. She can impart knowledge, I the highly cultivated ignorance. As I explained to Pete one day when we lay back bloated and contemplative after a deep feed of mother’s milk, his dear mamma will make of him a strong, knowing, successful man, I will leave him a fine fellow, who, whether he is a poet or a politician, a businessman, a reporter or a lounge lizard, can play the game and win, without believing in it or in his own lies: a humorous man of the world, a true prophet of the beautiful life to come on this earth and, perhaps, if he is good, the father of a girl baby.” — Lincoln Steffens
 
-“Deep down, we know our devotion to reality is just a marriage of convenience, and we leave it to the seers, the shamans, the ascetics, the religious teachers, the artists among us to reach a higher state of awareness, from which they transcend our rigorous but routinely analyzing senses and become closer to the raw experience of nature that pours into the unconscious, the world of dreams, the source of myth […] Our several senses, which feel so personal and impromptu, and seem at times to divorce us from other people, reach far beyond us. They’re an extension of the genetic chain that connects us to everyone who has ever lived; they bind us to other people and to animals, across time and country and happenstance. They bridge the personal and the impersonal, the one private soul with its many relatives, the individual with the universe, all of life on Earth. In REM sleep, our brain waves range between eight and thirteen hertz, a frequency at which flickering light can trigger epileptic seizures. The tremulous earth quivers gently at around ten hertz. So, in our deepest sleep, we enter synchrony with the trembling of the earth. Dreaming, we become the Earth’s dream.” — Diane Ackerman
+“Our several senses, which feel so personal and impromptu, and seem at times to divorce us from other people, reach far beyond us. They’re an extension of the genetic chain that connects us to everyone who has ever lived; they bind us to other people and to animals, across time and country and happenstance. They bridge the personal and the impersonal, the one private soul with its many relatives, the individual with the universe, all of life on Earth. In REM sleep, our brain waves range between eight and thirteen hertz, a frequency at which flickering light can trigger epileptic seizures. The tremulous earth quivers gently at around ten hertz. So, in our deepest sleep, we enter synchrony with the trembling of the earth. Dreaming, we become the Earth’s dream.” — Diane Ackerman
 
 “Love is reckless; not reason.
 Reason seeks a profit.
@@ -310,16 +302,6 @@ Love gambles away every gift God bestows.
 Without cause God gave us Being;
 without cause, give it back again.” — Rumi
 
-“Take hold of your own life.
-See that the whole existence is celebrating.
-These trees are not serious, these birds are not serious.
-The rivers and the oceans are wild,
-and everywhere there is fun,
-everywhere there is joy and delight.
-Watch existence,
-listen to the existence and become part of it.”
-— Osho
-
 “I have found that in rejecting the social values of my white background, by despising it and in turn being despised by it, I now inhabit a kind of disguise because I tell you, when they offer me that privilege, the business network at the country club, or in the church, I fume inside. I rave and seethe against the sycophantic drivel that is white culture and yearn for mad shamanic rituals and art’s rhythms and a deeper more universal grasp of my humanity. Don’t give me white privilege, I’ll stay here in my old servant’s quarters and make my art about what I see in front of me and the people I meet on the street. Don’t confront your white privilege, spit on your white privilege and confront your humanity. Kick your own front door off it’s hinges and give all your things away. It frees you to work and gives you focus on the truth. We have not yet had a civilisation, and the thing they told you was one in school was a lie. Love is the truth” — Jeremiah
 
 “It must be that when God speaketh he should communicate, not one thing, but all things; should fill the world with his voice, should scatter forth light, nature, time, souls, from the center of the present though; and new date and new create the whole. Whenever a mind is simple and receives a divine wisdom, old things pass away – means, teachers, texts, temples fall; it lives now and absorbs past and future into the present hour. All things are made sacred by relation to it – one as much as another. All things are dissolved to their center by their cause, and in the universal miracle, petty and particular miracles disappear […] Whence then this worship of the past? The centuries are conspirators against the sanity and authority of the Soul. Time and space are but physiological colors which the eye makes, but the soul is light, where it is, is day; where it was, is night; and history is an impertinence and an injury if it be any thing more than a cheerful apologue or parable of my being and becoming” — Ralph Waldo Emerson
@@ -328,8 +310,6 @@ listen to the existence and become part of it.”
 
 “So it is with the places preparing to teach us. It’s only when the heart begins to beat wildly and without pattern – when it begins to realize its boundlessness – that its newly adamant pulse bangs on the walls of its cage and is bruised by its enclosure. To feel the heart pound is only the beginning. Next is to feel the hurt – the tearing of the psyche – the prelude of entry into the place one has always feared. One fears that place because of being drawn to it, loving it, and wanting to be taught by it. Without the need to be taught, who would feel the psyche rip? Without the bruise, who would know where the walls are? […] Bruised and bloodied by throwing himself against the four walls of his enclosure, and deeply shaken by his shrieking emotions, Cage stopped pacing his confinement and realized that his container has no roof. Looking up, he could see the sky. Fascinated, he set out to explore this new dimension.
 What he found was a language of silence and immanence.” — Kay Larson
-
-“There are no mistakes in these things [i.e. his sermons to the dead]” Philemon replied, “there are only different levels of knowledge. These things are as you know them. Only in your world are things other than you know them, and therefore there are only mistakes in your world” — C. G. Jung
 
 “The world you see is just a movie in your mind.
 Rocks dont see it.
@@ -379,7 +359,7 @@ Softly down on the hair of my belovèd” — Kenneth Patchen
 
 “What astonishes us in both poets [Cesaire and Perse] is their elation, their staggering elation in possibility […] the possibility of the individual Caribbean man, African, European or Asian in ancestry, the enormous, gently opening morning of his possibility, his body touched with dew, his nerves as subtilized to sensation as the mimosa, his memory, whether of grandeur or of pain, gradually erasing itself as recurrent drizzles cleanse the ancestral or tribal markings from the coral skull, the possibility of a man and his language waking to wonder here” — Derek Walcott
 
-“This is what Proust meant when he claimed that certain truths about the human emotions can be best conveyed, in verbal and textual form, only by a narrative work of art: only such a work will accurately and fully show the interrelated temporal structure of emotional “thoughts,” prominently including the heart’s intermittences between recognition and denial of neediness.” –Martha Nassbaum
+“This is what Proust meant when he claimed that certain truths about the human emotions can be best conveyed, in verbal and textual form, only by a narrative work of art: only such a work will accurately and fully show the interrelated temporal structure of emotional “thoughts,” prominently including the heart’s intermittences between recognition and denial of neediness.” – Martha Nassbaum
 
 “Generally my spirits are high and my life is certainly very interesting and more emotionally rich than before. I am being taught many things and I welcome this. And I welcome the love and support of friends, this is a mad and wild adventure at the fractal edge of life and death and space and time. Just where we love to be, right, shipmates” — Terrence McKenna
 
@@ -414,21 +394,9 @@ Not bad! Rest in peace!” — Kurt Vonnegut
 
 “We have to learn, so to speak, to get out of our own light, because with our personal self — this idolatrously worshiped self — we are continually standing in the light of this wider self — this not-self, if you like — which is associated with us and which this standing in the light prevents. We eclipse the illumination from within. And in all the activities of life, from the simplest physical activities to the highest intellectual and spiritual activities, our whole effort must be to get out of our own light.” — Aldous Huxley
 
-Life as an art and art as a game – as action for its own sake, without thought of gain or loss, praise or blame – is the key, then, to the turning of living itself into a yoga, and art into the means to such a life” — Joseph Campbell
+“Life as an art and art as a game – as action for its own sake, without thought of gain or loss, praise or blame – is the key, then, to the turning of living itself into a yoga, and art into the means to such a life” — Joseph Campbell
 
 “There lay all my love of life: a silent passion for what would perhaps escape me, a bitterness beneath a flame. Each day I would leave this cloister like a man lifted from himself, inscribed for a brief moment in the continuance of the world… There is no love of life without despair of life […] At the moment, my whole kingdom is of this world. This sun and these shadows, this warmth and this cold rising from the depths of the air: why wonder if something is dying or if men suffer, since everything is written on this window where the sun sheds its plenty as a greeting to my pity? I can say and in a moment I shall say that what counts is to be human and simple. No, what counts is to be true, and then everything fits in, humanity and simplicity. When am I truer than when I am the world? My cup brims over before I have time to desire. Eternity is there and I was hoping for it. What I wish for now is no longer happiness but simply awareness.” — Albert Camus
-
-“This is the simple poem I have made.
-Tell me you understand. But when you do
-Don’t ask me in return if I have said
-All that I meant, or whether it is true.” — Anthony Thwaite
-
-“But all the clocks in the city began to whir and chime,
-O let not time deceive you, you cannot conquer time.
-In the burrows of the nightmare where justice naked is
-time watches from the shadows and coughs when you would kiss. 
-In headaches and in worry vaguely life leaks away
-and time will have his fantasy tomorrow or today” — W H Auden
 
 “Everyone suddenly burst out singing;
 And I was filled with such delight
@@ -442,6 +410,11 @@ My heart was shaken with tears: and horror
 Drifted away … O, but Everyone
 Was a bird; and the song was wordless; the singing will never be done.” — Siegfried Sassoon
 
+“This is the simple poem I have made.
+Tell me you understand. But when you do
+Don’t ask me in return if I have said
+All that I meant, or whether it is true.” — Anthony Thwaite
+
 “A single speck of dust that danced with Love
 will conquer this world and the next” — Rumi
 
@@ -449,18 +422,15 @@ will conquer this world and the next” — Rumi
 That exchange brought home to me for the first time a precious idea: that all of humanity is somehow together…
 It won’t surprise you then that I attempted to give something resiny, earthlike, and fragrant in exchange for human brotherhood. Just as I once left the pinecone by the fence, I have since left my words on the door of so many people who were unknown to me, people in prison, or hunted, or alone.” — Pablo Neruda
 
-“One of the strange things about living in the world is that it is only now and then one is quite sure one is going to live forever and ever and ever. One knows it sometimes when one gets up at the tender solemn dawn-time and goes out and stands alone and throws one’s head far back and looks up and up and watches the pale sky slowly changing and flushing and marvelous unknown things happening until the East almost makes one cry out and one’s heart stands still at the strange unchanging majesty of the rising of the sun–which has been happening every morning for thousands and thousands and thousands of years. One knows it then for a moment or so. And one knows it sometimes when one stands by oneself in a wood at sunset and the mysterious deep gold stillness slanting through and under the branches seems to be saying slowly again and again something one cannot quite hear, however much one tries. Then sometimes the immense quiet of the dark blue at night with millions of stars waiting and watching makes one sure; and sometimes a sound of far-off music makes it true; and sometimes a look in some one’s eyes” — Francis Burnett
+“One of the strange things about living in the world is that it is only now and then one is quite sure one is going to live forever and ever and ever. One knows it sometimes when one gets up at the tender solemn dawn-time and goes out and stands alone and throws one’s head far back and looks up and up and watches the pale sky slowly changing and flushing and marvelous unknown things happening until the East almost makes one cry out, and one’s heart still at the strange unchanging majesty of the rising of the sun–which has been happening every morning for thousands and thousands and thousands of years. One knows it then for a moment or so. And one knows it sometimes when one stands by oneself in a wood at sunset and the mysterious deep gold stillness slanting through and under the branches seems to be saying slowly again and again something one cannot quite hear, however much one tries. Then sometimes the immense quiet of the dark blue at night with millions of stars waiting and watching makes one sure; and sometimes a sound of far-off music makes it true; and sometimes a look in some one’s eyes” — Francis Burnett
 
 “… and in these moments we experience afresh the hardly-bearable ecstasy of direct energy exploding on our nerve endings. This is the rhapsodic, ecstatic bursting forth of awe that expands our perceptual parameters beyond all previous limits and we literally have to reconfigure our mental models of the world in order to assimilate the beauty of that download. That is what it means to be inspired; the Greek root of the term means ‘to breathe in’, to take it in. We fit the universe through our brains and it comes out in nothing less than the form of poetry. We have a responsibility to awe.” — Jason Silva
 
-“It doesn’t interest me what planets are squaring your moon. I want to know if you have touched the center of your own sorrow, if you have been opened by life’s betrayals or have become shriveled and closed from fear of further pain! I want to know if you can sit with pain, mine or your own, without moving to hide it or fade it, or fix it.
-I want to know if you can be with joy, mine or your own, if you can dance with wildness and let the ecstasy fill you to the tips of your fingers and toes without cautioning us to be careful, to be realistic, to remember the limitations of being human.” — Oriah Mountain Dreamer
-
-“A fundamental conclusion of the new physics also acknowledges that the observer creates the reality. As observers, we are personally involved with the creation of our own reality. Physicists are being forced to admit that the universe is a “mental” construction. Pioneering physicist Sir James Jeans wrote: “The stream of knowledge is heading toward a non-mechanical reality; the universe begins to look more like a great thought than like a great machine. Mind no longer appears to be an accidental intruder into the realm of matter, we ought rather hail it as the creator and governor of the realm of matter. Get over it, and accept the inarguable conclusion. The universe is immaterial-mental and spiritual” – R. C. Henry, “The Mental Universe”; Nature 436:29, 2005, Professor of Physics and Astronomy at Johns Hopkins University)
+“A fundamental conclusion of the new physics also acknowledges that the observer creates the reality. As observers, we are personally involved with the creation of our own reality. Physicists are being forced to admit that the universe is a “mental” construction. Pioneering physicist Sir James Jeans wrote: “The stream of knowledge is heading toward a non-mechanical reality; the universe begins to look more like a great thought than like a great machine. Mind no longer appears to be an accidental intruder into the realm of matter, we ought rather hail it as the creator and governor of the realm of matter. Get over it, and accept the inarguable conclusion. The universe is immaterial-mental and spiritual” – R. C. Henry, “The Mental Universe”
 
 “I had a discussion with a great master in Japan… and we were talking about the various people who are working to translate the Zen books into English, and he said, ‘That’s a waste of time. If you really understand Zen… you can use any book. You could use the Bible. You could use Alice in Wonderland. You could use the dictionary, because… the sound of the rain needs no translation.’” – Alan Watts
 
-“In seeing that all sentient beings are expressions of one Self, then all beings are treated as one’s Self. And that realization – a profound fruition of the decentering thrust of evolution – is the only source of true compassion, a compassion that does not put self first, or or a particular society first, or humans first, nor does it try merely in thought to act as if we were all united, but directly and immediately breathes the common air and beats the common blood of a Heart and Body that is one with all beings” — Ken Wilber
+“In seeing that all sentient beings are expressions of one Self, then all beings are treated as one’s Self. And that realization – a profound fruition of the decentering thrust of evolution – is the only source of true compassion, a compassion that does not put self first, or a particular society first, or humans first, nor does it try merely in thought to act as if we were all united, but directly and immediately breathes the common air and beats the common blood of a Heart and Body that is one with all beings” — Ken Wilber
 
 “All phenomena of samsara and nirvana arise like a rainbow, and like a rainbow they are devoid of any tangible existence. Once you have recognised the true nature of reality, which is empty and at the same time appears as the phenomenal world, your mind will cease to be under the power of delusion. If you know how to leave your thoughts free to dissovle by themselves as they arise, they will cross your mind as a bird crosses the sky without leaving any trace […] When a reflection appears in a mirror, you cannot say that it is part of the mirror, nor that it lies elsewhere. In the same way, perceptions of exterior phenomena take place neither in the mind nor outside. Phenomena are not really existent or nonexistent. So the realization of the ultimate nature of things lies beyond the concepts of being or nonbeing.” — Khyentse Rinpoche, quoted in ‘The Quantum and the Lotus’
 
@@ -471,8 +441,6 @@ I want to know if you can be with joy, mine or your own, if you can dance with w
 “One should worship with the thought that he is one’s self, for therein all these become one. This Self is the footprint of that All, for by it one knows the All – just as, verily, by following a footprint one finds cattle that have been lost” — Brhadaranyaka Upanisad 1.4.6-7.
 
 “Man is least himself when he talks in his own person. Give him a mask and he will tell you the truth” — Oscar Wilde
-
-“Because true belonging only happens when we present our authentic, imperfect selves to the world, our sense of belonging can never be greater than our level of self-acceptance.” — Brené Brown
 
 “Be silly. Be honest. Be kind… What you do speaks so loudly that I cannot hear what you say.” – Ralph Waldo Emerson
 
@@ -491,27 +459,21 @@ I want to know if you can be with joy, mine or your own, if you can dance with w
 “Free will is the effort to thank God for his gifts” — Rumi
 
 “O Heart O Love everything is suddenly turned to gold! Don’t be afraid don’t worry the most astounding beautiful thing has happened here! […] It seems [William S. Burroughs] stopped writing and sat on his bed all afternoons thinking and meditating alone &amp; stopped drinking — and finally dawned on his consciousness, slowly and repeatedly, every day, for several months — awareness of “a benevolent sentient (feeling) center to the whole Creation” — he had apparently, in his own way, what I have been so hung up in myself and you, a vision of big peaceful Lovebrain...
-I woke up this morning with great bliss of freedom &amp; joy in my heart, Bill’s saved, I’m saved, you’re saved, we’re all saved, everything has been all rapturous ever since — I only feel sad that perhaps you left as worried when we waved goodby and kissed so awkwardly” — Allen Ginsberg [to Peter Orlovsky]
+I woke up this morning with great bliss of freedom &amp; joy in my heart, Bill’s saved, I’m saved, you’re saved, we’re all saved, everything has been all rapturous ever since — I only feel sad that perhaps you left as worried when we waved goodbye and kissed so awkwardly” — Allen Ginsberg [to Peter Orlovsky]
 
-“The search for peace is a form of prayer that generates light and heat. Forget about yourself for a while and understand that in that light there lies wisdom and in that heat lies compassion. As you travel this planet, try to perceive the true form of the heavens and the earth. That will only be possible if you can stop yourself becoming paralysed by fear and ensures that all your gestures and attitudes are in keeping with your thoughts” — Paulo Coelho
+“The search for peace is a form of prayer that generates light and heat. Forget about yourself for a while and understand that in that light there lies wisdom and in that heat lies compassion. As you travel this planet, try to perceive the true form of the heavens and the earth. That will only be possible if you can stop yourself becoming paralysed by fear and ensure that all your gestures and attitudes are in keeping with your thoughts” — Paulo Coelho
 
 “In fact, as always, our capacity for imagining liberation – and liberating our imagination – will at least in part be measured by the extent to which we functionally recognise and receive the dignified human in the other.” — Breyten Breytenbach
-
-“If you surrendered to the air, you could ride it” — Toni Morrison
 
 “Human beings are sparks that crackle with being and intuition” — Erik Davis
 
 “We seek to stay present, even as the ghosts attempt to draw us away. Our father manning the loom of eternal return. Our mother wandering toward paradise, releasing the thread. In my way of thinking, anything is possible. Life is at the bottom of things and belief at the top, while the creative impulse, dwelling in the center, informs all. We imagine a house, a rectangle of hope. A room with a single bed with a pale coverlet, a few precious books, a stamp album. Walls papered in faded floral fall away and burst as a newborn meadow speckled with sun and a stream emptying into a greater stream where a small boat awaits with two glowing oars and one blue sail.” — Patti Smith
-
-“The human mind lives in the liminal zone. It is not bound by time, by space, by distance. There is a natural intuition to live in these spaces of dream, these spaces between […] the human mind has no problem orienting its awareness into dimensions in which time is no longer linear. We enter these virtual realities, or really they’re real virtualities and we believe them! We actively metabolise belief. We become immersed.” – Jason Silva
 
 “On romantic evenings of self, I go salsa dancing with my own confusion” — Waking Life
 
 “I beg you, to have patience with everything unresolved in your heart and to try to love the questions themselves as if they were locked rooms or books written in a very foreign language. Don’t search for the answers, which could not be given to you now, because you would not be able to live them. And the point is to live everything. Live the questions now. Perhaps then, someday far in the future, you will gradually, without even noticing it, live your way into the answer.” — Rainer Maria Rilke
 
 “Apart from its ignorant errors, the greatest folly of racism is to impoverish – by imprisoning in a foolhardy superior cocoon, enforcing famine amidst the riches of a sumptuous feast of otherness, differentness and diversity […] Diversity is about listening. The Constitution ensures that we hear. It is our choice to do so joyfully.” — Justice Edwon Cameron
-
-“Follow you bliss and the universe will open doors for you where there were only walls” — (adapted from) Joseph Campbell
 
 “Life’s but a walking shadow, a poor player
 That struts and frets his hour upon the stage
@@ -567,11 +529,7 @@ and I am not who I was” — Stanley Kunitz
 
 “There was a time when the world, too, was a woman, and her energy was very beautiful. People believed in miracles, the present moment was all there was and so time did not exist. The Greeks have two words for time, the first of which is kairos, meaning God’s time, eternity. Then a change occurred. The battle for survival, the need to know when to plant crops so that they could be harvested. That was when time as we know it now became part of our history. The Greeks call it chronos;  the Romans called it Saturn, a god whose first act was to devour his own children. We became the slaves of memory. Keep playing and I’ll explain more clearly” — Paulo Coelho
 
-“The old hunger for voyages fed at his heart….To go alone…into strange cities; to meet strange people and to pass again before they could know him; to wander, like his own legend, across the earth–it seemed to him there could be no better thing than that.” — Thomas Wolfe
-
-“Some days I delight in the fact that my soul is deposited in several pockets of the world. Other days it makes me feel empty. I wonder if I’ll ever be able to retrieve those parts of myself, or if they were meant to stay there, unknown to all those who come after me.” — Vina Chanel
-
-“What I must do is all that concerns me, not what people think. This rule, equally arduous in actual and in intellectual life, may serve for the whole distinction between greatness and meanness [being average]. It is the harder, because you will always find those who think they know what is your duty better than you know it. It is easy in the world to live after the world’s opinion;it is easy in solitude to live after our own;but the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude” — Ralph Waldo Emerson
+“What I must do is all that concerns me, not what people think. This rule, equally arduous in actual and in intellectual life, may serve for the whole distinction between greatness and meanness. It is the harder, because you will always find those who think they know what is your duty better than you know it. It is easy in the world to live after the world’s opinion; it is easy in solitude to live after our own; but the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude” — Ralph Waldo Emerson
 
 “Love, the strongest and deepest element in all life, the harbinger of hope, of joy, of ecstasy; love, the defier of all laws, of all conventions; love, the freest, the most powerful moulder of human destiny; how can such an all-compelling force be synonymous with that poor little State and Church-begotten weed, marriage?
 Love is free; it can dwell in no other atmosphere. In freedom it gives itself unreservedly, abundantly, completely. All the laws on the statutes, all the courts in the universe, cannot tear it from the soil, once love has taken root. Love needs no protection; it is its own protection.
@@ -579,13 +537,11 @@ Some day, some day men and women will rise, they will reach the mountain peak, t
 
 “It is not death that we wish to avoid, but life that we wish to live. You, who have lost the concept of the difference, you who claim that fear and joy are incentives of equal power—and secretly add that fear is the more “practical”—you do not wish to live, and only fear of death still holds you to the existence you have damned.” — Ayn Rand
 
-“In the first place you can’t see anything from a car; you’ve got to get out of the goddamned contraption and walk, better yet crawl, on hands and knees, over the sandstone and through the thornbush and cactus. When traces of blood begin to mark your trail you’ll see something, maybe. Probably not. In the second place most of what I write about in this book is already gone or going under fast. This is not a travel guide but an elegy. A memorial. You’re holding a tombstone in your hands. A bloody rock. Don’t drop it on your foot — throw it at something big and glassy. What do you have to lose?” — Edward Abbey
-
 “When the truncheon may be used in lieu of conversation,
 Words will always retain their power.
 Words offer the means to meaning,
 And, for those who will listen,
-The enunciation of truth.” — V in ‘V for Vendetta’
+The enunciation of truth.” — V
 
 “Time is not a factor, by itself. Time is a consequence of cyclical movements in the physical reality” — Sadhguru
 
@@ -635,9 +591,6 @@ het jy vir altyd gesien” — Poem by Antjie Krog’s student ‘from Ladybrand
 “Philosophy is to be studied, not for the sake of any definite answers to its questions, since no definite answers can, as a rule, be known to be true, but rather for the sake of the questions themselves; because these questions enlarge our conception of what is possible, enrich our intellectual imagination and diminish the dogmatic assurance which closes our mind against speculation; but above all because, through the greatness of the universe which philosophy contemplates, the mind is also rendered great, and becomes capable of that union with the universe which constitutes its highest good” — Bertrand Russell
 
 “Therein lies the book’s greatest reward — the gift of perspective. The existence of parallel truths is what gives our world its tremendous richness, and the grand scheme of things is far grander than our minds habitually imagine. “The future enters into us in this way in order to transform itself in us long before it happens,” Rilke wrote.” — Maria Popova
-
-“There is something that does not arise or remain or pass – the simple opening, the immediateness of awareness, the simple feeling of Being, of which all particular states and particular experiences are simply ripples, wrinkles, gestures, folds: the clouds that come and go in the sky… and you are the sky. You are not behind your eyes staring out at the clouds that pass; you are the sky in which, and through which, the clouds float endlessly, ceaselessly, spontaneously, freely, with no obstruction, no barriers, no contradictions, no glitches: no moving parts in one’s true nature, nothing to break down. In spring it rains, in winter it snows. Remarkable, this empty clearing.
-You do not become this opening or clearing; you do not become the sky. You are not always the sky, nor are you already the sky: you are always already the sky: it is always already spontaneously accomplished: and this is why the clouds can come and go in the first place. The sunlight freely plays on the water. Remarkable! Birds are already singing in the woods. Amazing! The ocean washes on the shore, freely wetting the pebbles and shells. What is not accomplished? Hear that distant bell ringing? Who is not enlightened?” – Ken Wilber
 
 “For thought cannot grasp the soul which forgetting itself plunges out of space and time into a presentiment of infinity, and now reawakens. Whoever wanted to speak of this to others, though he spoke with the tongues of angels, would feel the poverty of words” — Hegel to Holderlin
 
@@ -702,7 +655,7 @@ To put it still more plainly: the desire for security and the feeling of insecur
 
 “Western civilization, it seems to me, stands by two great heritages. One is the scientific spirit of adventure–the adventure into the unknown, an unknown which must be recognized as being unknown in order to be explored; the demand that the unanswerable mysteries of the universe remain unanswered; the attitude that all is uncertain; to summarize it — the humility of the intellect. The other great heritage is Christian ethics — the basis of action on love, the brotherhood of all men, the value of the individual — the humility of the spirit. These two heritages are logically, thoroughly consistent. But logic is not all; one needs one’s heart to follow an idea. If people are going back to religion, what are they going back to? Is the modern church a place to give comfort to a man who doubts God — more, one who disbelieves in God? Is the modern church a place to give comfort and encouragement to the value of such doubts? So far, have we not drawn strength and comfort to maintain the one or the other of these consistent heritages in a way which attacks the values of the other? Is this unavoidable? How can we draw inspiration to support these two pillars of Western civilization so that they may stand together in full vigor, mutually unafraid? Is this not the central problem of our time?” — Richard Feynman
 
-“But, my master and my brother, I believe you have completed your work, since the one who has given his life, his entire truth, all his love, his entire soul, has completed his work. What one individual can do for men, you have done and accomplished and fulfilled. The time has come when each must do his own work of redemption. Mankind has grown older and a new month has begun […] Philemon dissolved into the darkness and I decided to do what was required of me. I accepted all the joy and every torment of my nature and remained true to my love, to suffer what comes to everyone in their own way. And I stood alone and was afraid” — C. G. Jung
+“But, my master and my brother, I believe you have completed your work, since the one who has given his life, his entire truth, all his love, his entire soul, has completed his work. What one individual can do for men, you have done and accomplished and fulfilled. The time has come when each must do his own work of redemption. Mankind has grown older and a new month has begun […] Philemon dissolved into the darkness and I decided to do what was required of me. I accepted all the joy and every torment of my nature and remained true to my love, to suffer what comes to everyone in their own way.” — C. G. Jung
 
 “We wake, if we ever wake at all, to mystery, rumors of death, beauty, violence… “Seem like we’re just set down here,” a woman said to me recently, “and don’t nobody know why.” […] I live by a creek, Tinker Creek, in a valley in Virginia’s Blue Ridge. An anchorite’s hermitage is called an anchor-hold; some anchor-holds were simple sheds clamped to the side of a church like a barnacle to a rock. I think of this house clamped to the side of Tinker Creek as an anchor-hold. It holds me at anchor to the rock bottom of the creek itself and it keeps me steadied in the current, as a sea anchor does, facing the stream of light pouring down. It’s a good place to live; there’s a lot to think about. The creeks … are an active mystery, fresh every minute. Theirs is the mystery of the continuous creation and all that providence implies: the uncertainty of vision, the horror of the fixed, the dissolution of the present, the intricacy of beauty, the pressure of fecundity, the elusiveness of the free, and the flawed nature of perfection.” — Annie Dillard
 
@@ -750,23 +703,13 @@ Again, the mystics of many centuries, independently, yet in perfect harmony with
 
 “He seemed to live in a state of uninterrupted marvel, and he encouraged [his students] to do the same. He didn’t so much teach them how to write poetry, they said, but why: because of delight. Because of stubborn gladness. He told them that they must live their most creative lives as a means of fighting back against the ruthless furnace of this world. Most of all, though, he asked his students to be brave. Without bravery, he instructed, they would never be able to realize the vaulting scope of their own capacities. Without bravery, they would never know the world as richly as it longs to be known. Without bravery, their lives would remain small — far smaller than they probably wanted their lives to be.” — Elizabeth Gilbert (writing about Jack Gilbert)
 
-“But if you break down the walls that confine your view, and if the immensity and its endless uncertainty inspire you with fear, then the ancient sleeper awakens in you, whose messenger is the white bird. Then you need the message of the old tamer of chaos. There in the whirl of chaos dwells eternal wonder. Your world begins to become wonderful. Man belongs not only to an ordered world, he also belongs in the wonder-world of his soul” — C. G. Jung
+“But if you break down the walls that confine your view, and if the immensity and its endless uncertainty inspire you with fear, then the ancient sleeper awakens in you, whose messenger is the white bird. Then you need the message of the old tamer of chaos. There in the [whirl of chaos](https://www.goodreads.com/book/show/64582.Chaos "James Gleick") dwells eternal wonder. Your world begins to become wonderful. Man belongs not only to an ordered world, he also belongs in the wonder-world of his soul” — C. G. Jung
 
 “Oh as I was young and easy in the mercy of his means,
 Time held me green and dying
 Though I sang in my chains like the sea” — Dylan Thomas
 
 “Love which works good to all things, pre-existing overflowingly in the Good, moved itself to creation, as befits the superabundance by which all things are created. The Good by being extends its Goodness to all things. For as our sun, not by choosing or taking thought but merely by being, enlightens all things, so the Good by its mere existence sends forth upon all things the beams of its Goodness” — Saint Dionysius
-
-“What would the world be, once bereft
-Of wet and of wildness? Let them be left,
-O let them be left, wildness and wet;
-Long live the weeds and the wilderness yet.” — Gerard Manley Hopkins
-
-“Away down the river,
-A hundred miles or more,
-Other little children
-Shall bring my boats ashore” — Robert Louis Stevenson
 
 “Look at the stars! look, look up at the skies!
 O look at all the fire-folk sitting in the air!” — Gerald Manley Hopkins

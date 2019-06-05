@@ -3,10 +3,10 @@ id: fugue-ii
 title: Fugue II
 ---
 
->“Regis Iusfu Cantio Et Reliqua Canonica Arte Refolula”
+>“Regis Iussu Cantio Et Reliqua Canonica Arte Refolula”
 
 
-## Strange Loops Building
+## Strange loops building
 
 This site has nothing to do with publishers, or “the industry”, or “EvilCorp”, or any in-born aversion to using more “traditional channels” to get a book before people’s eyes. After a winter in England spent studying The Book as Object, the real problem is knowing that books, rightly seen, have always been the cutting edge when it comes to technologies of [communication](http://lab404.com/misc/ltdinc.pdf).
 
@@ -17,9 +17,9 @@ Moreover, some books are perhaps better termed “language events” - in that t
 What would such a book look like today? How would you render Middle Earth online?
 
 
-## Open Source
+## Open source
 
-The first problem the above thoughts present is that people need to speak “[the language of revelation](https://xkcd.com/224/)” (or whatever name you prefer) in order to _really get it_, and it helps a lot if they’re in the same cultural context as the author(s). The Quran is beautiful, there’s no two ways about it, but some of it’s deeper gems are only really accessible if you can decode information natively in Arabic and understand the culture and history within which it was written.
+The first problem the above thoughts present is that people need to speak “[the language of revelation](https://xkcd.com/224/)” (or whatever name you prefer) in order to _really get it_, and it helps a lot if they’re in the same cultural context as the author(s). The Quran is beautiful, there’s no two ways about it, but some of its deeper gems are only really accessible if you can decode information natively in Arabic and understand the culture and history within which it was written.
 
 However, we now have access to many more languages than were available even fifty years ago, and a lot of these languages
 
@@ -31,52 +31,51 @@ There are also things actually called [libraries](https://www.i18next.com/) whic
 
 Books need to be alive to these sorts of possibilities. It’s not just about how many formats and e-publications you can put together, or the [grand marketing campaign](https://jsomers.net/DFW_TV.pdf). 
 
-I dream of digitally-native books that grow through your browser as you read them. Books that alter your algorithms as you experience them. Books that carry literal patterns through the network which readers can use to train automated machinery to produce better outputs, if they so choose.
+I dream of digitally-native books that grow through your browser as you read them. Books that alter your algorithms as you experience them. Books that carry literal patterns through the network which readers can use to train automated machinery to produce better outputs, if they so choose. I dream, like Engelbart, of dynamic repositories of knowledge and cooperative computing at scales never before imagined.
 
 Moreover, it can’t be done on some kind of [closed platform](https://www.gitbook.com/pricing) that could take it away on a whim, or simply charge you out of your online practice. 
 
-This open source framework must render readable text on mobile phones (seeing as most of the world is looking at this right now through a small screen). It must require only an elementary understanding of “code” to use, and anyone should be able to build with it following some simple instructions. It should be as clean and efficient as possible and use the best open source tech so that it loads fast, no matter where you are or what kind of connection you have.
+This open source framework must also render readable text on mobile phones (seeing as most of the world is looking at this right now through a small screen). It must require only an elementary understanding of “code” to use, and anyone should be able to build with it following some simple instructions. It should be as clean and efficient as possible and use the best open source tech so that it loads fast, no matter where you are or what kind of connection you have.
 
 Not many “serious” authors are thinking about stuff like that...
 
-Anyway, fools who seek long enough are sometimes found by their quest. Thanks to the people at [Status](https://status.im), there’s an awesome, open source website framework which seemed like it could be adapted...
+Anyway, I eventually just built my own site, and it seemed to work quite well. So I stripped my own linguistic patterns and published it as an [empty template with instructions](https://github.com/andytudhope/proofoflove), given in [Fugue I](../fugue-i/), so that anyone can use it to build whatever they’d like and express their idea of love.
 
-So [I did that](../fugue-i/), and it worked quite well. Then I stripped my own linguistic patterns and published it as an [empty template with instructions](https://github.com/andytudhope/proofoflove), given in Fugue I, so that anyone can use it to build whatever they’d like and express their idea of love.
-
-
-## No More Audiences
+## No more audiences
 
 Books of today must be better able to represent the dynamic media their authors are increasingly connected to, more or less constantly. We exist within webs of influence, both digital and physical, and [all the wired places between](https://www.wired.com/1996/12/ffglass/). Our communication needs to reflect this more accurately. A simple fact: you cannot embed some cut-together scenes from _V for Vendetta_, overlaid with Tchaikovsky’s 1812 Overture, into your beautifully pristine, printed piece of poetry. “Embed” has an entirely different meaning.
 
 We could say that the context has changed, the signature expanded, the trace grown. Ever since I was forced to spend a good deal of time deciphering Jacques Derrida’s _Signature, Event, Context_, I’ve been a little obsessed with it. Possessed, some might say. 
 
-While merrily deconstructing everything - [vive la révolution](https://youtu.be/gpDbvlAI_A0?t=100) - he goes on at some length about [traces](https://twitter.com/cryptowanderer/status/1134017760466481153) and _differánce_ (basically “difference”, but French). Doing away with all the dry bits, I’ve always thought that - at [one layer further up the abstraction](http://worrydream.com/LadderOfAbstraction/) - the trace of poetry, in general, had to be music.
+While merrily deconstructing everything - [vive la révolution](https://youtu.be/gpDbvlAI_A0?t=100) - he goes on at some length about [traces](https://twitter.com/cryptowanderer/status/1134017760466481153) and _differánce_ (basically “difference”, but French). Doing away with all the dry bits, I’ve always thought that - at [one layer further up the abstraction](http://worrydream.com/LadderOfAbstraction/) - the trace of poetry, in general, has to be music.
 
 But, how to test this theory sensibly? While the best poems approach the condition of the best symphonies, it seems to me that _all_ poetry must contain a trace of music. And, I’m interested in hearing that. Really - what would the playlist for _Paradise Lost_ have been?
 
-Whenever I’m writing poetry, I’m not really trying to capture some notable event, be it mundane or extraordinary - I want to render more accurately _the experience_ (some might say _feeling_, but I think the connotations are not worth fighting over). Often, such experiences happen while a song is a playing, or a song I stumbled over somehow expresses something similar to my own experiences. 
+Whenever I’m writing poetry, I’m not trying to capture some notable event, be it mundane or extraordinary - I want to render more accurately _the experience_ (some might say _feeling_, but I think the connotations are not worth fighting over). Often, such experiences happen while a song is a playing, or a song I stumbled over somehow expresses something similar to my own experiences. 
 
-I can’t answer the question about Milton, but I can [show you what the soundtrack for The Blue Book looks like](https://www.youtube.com/playlist?list=PL5ClmaG2tnPNgqWDBGCWAQxD0sYpbfPRK). And I can tell you that it’s mostly music, through no real intention of mine. I just read through all the poems and linked to the things of which they reminded me. It was only later that I realised how many went to YouTube, and thought about putting an ordered list there as another entry point to the book’s web.
+I can’t answer the question about Milton, but I can [show you what the sound-trace for The Blue Book looks like](https://www.youtube.com/playlist?list=PL5ClmaG2tnPNgqWDBGCWAQxD0sYpbfPRK). And I can tell you that it’s mostly music, through no real intention of mine. I just read through all the poems and linked to the things of which they reminded me. It was only later that I realised how many went to YouTube, and thought about putting an ordered list there as another entry point to the book’s web.
 
 
-## Let’s Talk Links
+## Let’s talk links
 
-[Others have written](https://inference-review.com/article/the-perfect-language) about the perfect language and Gottfried Leibniz, so let me summarise here by saying that I, too, am interested in how to shove the most ontological complexity into the simplest possible set of symbols. Real genius is simplicity; that’s another truism for you.
+[Others have written](https://inference-review.com/article/the-perfect-language) about the perfect language and Gottfried Leibniz, so let me summarise here by saying that I, too, am interested in how to shove the most ontological complexity into the simplest possible set of symbols. Real genius is simplicity; there's a truism for you.
 
-Links, consciously mapped, take on many added layers of significance. Rather than linking exact words or phrases I’ve borrowed to the context they come from, I’ve “traced” each poem out. This has given me the opportunity to add a few, stray words to the bottom, and have those words then form a track from the poem to just about any other place on our motherEarth_motherBoard. 
+Links, consciously mapped, take on many added layers of significance. Rather than linking exact words or phrases I’ve borrowed to the context they come from, I’ve “traced” each poem out. This has given me the opportunity to add a few, stray words to the bottom of each piece, and have those words then form a track from the poem to just about any other place on our motherEarth_motherBoard. 
 
 The result of “coding” the links by hand is that I’ve got to look at the actual URLs quite closely, and there are many hidden delights in them. Like the fact that an Ibn ‘Arabi link points to Plato, Stanford, and education in general; or how only one poem lacks any trace, and only one other uses a link in it’s actual body, and that link goes to Twitter (of all places!) for the definition of a Greek word.
 
 We can do even weirder things though, right? Each link can have a description, which is great, because I can add metalinguistic significance to my words (which only shows up if you hover above the links on certain screens). This served a practical purpose at first - I’m worried about decaying YouTube links, so need to leave notes for myself about what links to what in case the content disappears in the future. Links to other places are often self-explanatory, and carry treasures that are best left to discover on your own, so I have left those undescribed. 
 
-The Blue Book's [source code awaits you here](https://github.com/andytudhope/thebluebook/tree/book/source/). Be sure to take the [grey pill](https://breakingsmart.substack.com/p/the-internet-is-one-big-grey-pill) if you find yourself disoriented.
+The Blue Book's [source code awaits you here](https://github.com/andytudhope/thebluebook/tree/book/source/ "Dive in!"). Be sure to take the [grey pill](https://breakingsmart.substack.com/p/the-internet-is-one-big-grey-pill) if you find yourself disoriented.
 
 Links are an opportunity Leibniz never had. Take the “Society” link in _Who Are You?_ It refers to an Eddie Vedder song of the same name and explains a line in the poem - I really did sing Society to a bunch of sticks in a desert with a friend playing a ukulele. However, it actually links to the version of the song from the soundtrack of the movie of the book “Into the Wild” by Jon Krakauer, and it’s description tag reads “Alexander Supertramp” - the name Christopher McCandless takes on in his travels. 
 
 One word; and a whole matrix of meaning comes with it.  I hope you enjoy finding and deciphering the many others in the book.
 
+> My personal favorite can be found in "[For Shame](https://www.youtube.com/watch?v=Qzm_1Tuor1A "Just like this")".
 
-## Encoding Time
+
+## Encoding time
 
 Two more important notes about links. Firstly: they can carry time. By adding a simple query string to the end of the URLs that compose the work, I can pass time information along with content. I can be conscious of the amount of attention each link I add requires from any reader. This goes to the heart of producing a digitally-native book. People’s attention spans online are probably just not long enough to go through fourteen cantos and some added blues in their browser.
 
@@ -87,7 +86,7 @@ Secondly, you can do some really loopy stuff (in the Hofstadter sense). While it
 Hopefully they’ll be as confused, exasperated, and exulting  as me.
 
 
-## What to Make of it All?
+## What to make of it all?
 
 It’s been a tonne of fun building all this, slipping between so many different languages to craft something that I can drop into the flow of life, something  that can be replicated by others, and remixed into better versions more appropriate to their spaces and times.
 
