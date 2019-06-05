@@ -125,7 +125,7 @@ This will open the code editor with your project loaded into it's sidebar and al
 
 7. Oh, there are also [some great plugins and tricks](https://hexo.io/docs/tag-plugins) that come with Hexo by default to help you enrich your MD files with everything from quotes to images, videos and more.
 
-8. If you want to add images, do it in `themes/navy/source/img` - the gulp build pipeline will put them in the right place so that you can simply link to them like [this](https://github.com/andytudhope/thebluebook/tree/book/source/fugue-i/index.md#):
+8. If you want to add images, do it in `themes/navy/source/img` - the gulp build pipeline will put them in the right place so that you can simply link to them like [this](https://github.com/andytudhope/thebluebook/tree/book/source/fugue-i/index.md##L130):
 
 ![Lion](../img/lion.png)
 
