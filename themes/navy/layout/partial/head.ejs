@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="<%= page.lang %>">
+<head>
+    <!-- Document Settings -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- Page Meta -->
+    <title><% if (page.title) { %><%= page.title %><% } %></title>
+    <% if (page.description) { %><meta name="description" content="<%= page.description %>" /><% } %>
+
+    <!-- Mobile Meta -->
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- favicon -->
+    <link rel="icon" type="image/png" href="/img/favicon.png">
+    <link rel="manifest" href="/img/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#4360DF">
+    <meta name="theme-color" content="#4360DF">
+
+    <meta property="og:site_name" content="The Blue Book" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="<% if (page.title) { %>- <%= page.title %><% } %>" />
+    <% if (page.description) { %><meta property="og:description" content="<%= page.description %>" /><% } %>
+    <meta property="og:url" content="<%= page.permalink %>" />
+    <% if (page.layout) { %><meta property="og:image" content="<%= config.url %>/img/shahada.png" /><% } %>
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="<% if (page.title) { %>- <%= page.title %><% } %>" />
+    <% if (page.description) { %><meta property="twitter:description" content="<%= page.description %>" /><% } %>
+    <meta name="twitter:url" content="<%= page.permalink %>" />
+    <% if (page.layout) { %><meta property="twitter:image" content="<%= config.url %>/img/shahada.png" /><% } %>
+    <meta name="twitter:site" content="@cryptowanderer" />
+    <meta property="og:image:width" content="388" />
+    <meta property="og:image:height" content="400" />
+
+    <!-- Styles'n'Scripts -->
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/monokai-sublime.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:400,600|IBM+Plex+Sans:400,500,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Euphoria+Script&display=swap" rel="stylesheet"> 
+    <%- css('css/main') %>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" crossorigin="anonymous"></script>
+</head>
