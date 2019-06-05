@@ -22,7 +22,7 @@ _Gesang ist Dasein_
 hear, in your pulse the drumroll
 that has gone before 
 to come again: 
-dream-life born of spent 
+dream-life born of spent, 
 aged things made anew
 in the tremendous silence 
 between beats.

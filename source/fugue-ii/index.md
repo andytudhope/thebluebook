@@ -27,7 +27,7 @@ However, we now have access to many more languages than were available even fift
 2. Render intelligently on your screen in human-readable ways (or are just [cascading linguistic structures](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) meant to ensure other information is styled correctly).
 3. Transport information in the background (somewhat) irrespective of the particular language you speak.
 
-There are also things actually called [libraries](https://www.i18next.com/) which help you translate at scale the parts that do depend on your particular language. For everything else, there's [the actual Library of Babel](http://libraryofbabel.info/). 
+There are also things literally called [libraries](https://www.i18next.com/) which help you translate at scale the parts that do depend on your particular language. For everything else, there's [the actual Library of Babel](http://libraryofbabel.info/). 
 
 Books need to be alive to these sorts of possibilities. It’s not just about how many formats and e-publications you can put together, or the [grand marketing campaign](https://jsomers.net/DFW_TV.pdf). 
 
@@ -39,21 +39,21 @@ This open source framework must also render readable text on mobile phones (seei
 
 Not many “serious” authors are thinking about stuff like that...
 
-Anyway, I eventually just built my own site, and it seemed to work quite well. So I stripped my own linguistic patterns and published it as an [empty template with instructions](https://github.com/andytudhope/proofoflove), given in [Fugue I](../fugue-i/), so that anyone can use it to build whatever they’d like and express their idea of love.
+Anyway, I eventually just built this myself, and it seemed to work quite well. So I stripped my linguistic patterns and published it as an [empty template with instructions](https://github.com/andytudhope/proofoflove), given in [Fugue I](../fugue-i/), so that anyone can use it to build whatever they’d like and express their idea of love.
 
 ## No more audiences
 
 Books of today must be better able to represent the dynamic media their authors are increasingly connected to, more or less constantly. We exist within webs of influence, both digital and physical, and [all the wired places between](https://www.wired.com/1996/12/ffglass/). Our communication needs to reflect this more accurately. A simple fact: you cannot embed some cut-together scenes from _V for Vendetta_, overlaid with Tchaikovsky’s 1812 Overture, into your beautifully pristine, printed piece of poetry. “Embed” has an entirely different meaning.
 
-We could say that the context has changed, the signature expanded, the trace grown. Ever since I was forced to spend a good deal of time deciphering Jacques Derrida’s _Signature, Event, Context_, I’ve been a little obsessed with it. Possessed, some might say. 
-
-While merrily deconstructing everything - [vive la révolution](https://youtu.be/gpDbvlAI_A0?t=100) - he goes on at some length about [traces](https://twitter.com/cryptowanderer/status/1134017760466481153) and _differánce_ (basically “difference”, but French). Doing away with all the dry bits, I’ve always thought that - at [one layer further up the abstraction](http://worrydream.com/LadderOfAbstraction/) - the trace of poetry, in general, has to be music.
+We could say that the context has changed, the signature expanded, the trace grown. Ever since I was forced to spend a good deal of time deciphering Jacques Derrida’s _Signature, Event, Context_, I’ve been a little obsessed with it. Possessed, some might say. While merrily deconstructing everything - [vive la révolution](https://youtu.be/gpDbvlAI_A0?t=100) - he goes on at some length about [traces](https://twitter.com/cryptowanderer/status/1134017760466481153) and _differánce_. Doing away with all the dry bits, I’ve always thought that - at [one layer further up the abstraction](http://worrydream.com/LadderOfAbstraction/) - the trace of poetry, in general, has to be music.
 
 But, how to test this theory sensibly? While the best poems approach the condition of the best symphonies, it seems to me that _all_ poetry must contain a trace of music. And, I’m interested in hearing that. Really - what would the playlist for _Paradise Lost_ have been?
 
-Whenever I’m writing poetry, I’m not trying to capture some notable event, be it mundane or extraordinary - I want to render more accurately _the experience_ (some might say _feeling_, but I think the connotations are not worth fighting over). Often, such experiences happen while a song is a playing, or a song I stumbled over somehow expresses something similar to my own experiences. 
+Whenever I’m writing poetry, I’m not trying to capture some notable event, be it mundane or extraordinary - I want to render more accurately _the experience_. Often, such experiences happen while a song is a playing, or a song I stumbled over somehow expresses something similar to my own experiences. 
 
 I can’t answer the question about Milton, but I can [show you what the sound-trace for The Blue Book looks like](https://www.youtube.com/playlist?list=PL5ClmaG2tnPNgqWDBGCWAQxD0sYpbfPRK). And I can tell you that it’s mostly music, through no real intention of mine. I just read through all the poems and linked to the things of which they reminded me. It was only later that I realised how many went to YouTube, and thought about putting an ordered list there as another entry point to the book’s web.
+
+There's also a [GoodReads list](https://www.goodreads.com/review/list/98176865-andy-tudhope?shelf=the-blue-book) with the critical pieces of literature that are mentioned, or can be traced, through this book. Just for kicks.
 
 
 ## Let’s talk links

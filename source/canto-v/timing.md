@@ -56,4 +56,4 @@ a well-timed full stop.
 
 [Milton's Mad Epic](http://andytudhope.africa/playing-with-time-miltons-satan-similes-and-subversions/)
 
-[Maropeng](https://www.maropeng.co.za/)
+[Almost Human](https://www.goodreads.com/book/show/30719050-almost-human "Naledi == Star in Sotho")
