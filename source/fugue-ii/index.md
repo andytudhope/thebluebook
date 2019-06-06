@@ -53,7 +53,7 @@ Whenever I’m writing poetry, I’m not trying to capture some notable event, b
 
 I can’t answer the question about Milton, but I can [show you what the sound-trace for The Blue Book looks like](https://www.youtube.com/playlist?list=PL5ClmaG2tnPNgqWDBGCWAQxD0sYpbfPRK). And I can tell you that it’s mostly music, through no real intention of mine. I just read through all the poems and linked to the things of which they reminded me. It was only later that I realised how many went to YouTube, and thought about putting an ordered list there as another entry point to the book’s web.
 
-There's also a [GoodReads list](https://www.goodreads.com/review/list/98176865-andy-tudhope?utf8=%E2%9C%93&shelf=the-blue-book&utf8=%E2%9C%93&title=andy-tudhope&sort=date_pub&order=d&per_page=50) with the critical pieces of literature that are mentioned, or can be traced, through this book. Just for kicks.
+There's also a [GoodReads list](https://www.goodreads.com/review/list/98176865-andy-tudhope?utf8=%E2%9C%93&shelf=the-blue-book&utf8=%E2%9C%93&title=andy-tudhope&sort=date_pub&order=d&per_page=50) with the critical pieces of literature that are mentioned, or can be traced, through this book. Because bibliographies are, like, so 2000 and late.
 
 
 ## Let’s talk links

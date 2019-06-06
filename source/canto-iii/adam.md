@@ -32,4 +32,4 @@ repeated patiently.
 
 [Repeat, repeat](https://www.youtube.com/watch?v=VYyHAXZKaPQ&t=86 "Cloud Cult")
 
-[Cannon](https://poethead.wordpress.com/2010/10/30/a-saturday-woman-poet-moya-cannon/) or [string](https://www.youtube.com/watch?v=GQnip2alfAM "Vivaldi")?
+[Cannon](https://poethead.wordpress.com/2010/10/30/a-saturday-woman-poet-moya-cannon/) or [canon](https://www.youtube.com/watch?v=GQnip2alfAM "Vivaldi")?

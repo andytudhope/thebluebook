@@ -1488,18 +1488,6 @@ header{
             }
         }
     }
-    .home-wallet{
-        .inner{
-            padding-top: 50px;
-            img{
-                width: 80%;
-                margin-top: 50px;
-            }
-            .teaser-2{
-                margin-bottom: 10px;
-            }
-        }
-    }
     .section-2-right {
         .inner {
             padding: 50px 20px 50px 40px;
@@ -1655,22 +1643,21 @@ header{
             display: block;
         }
     }
-    .home-intro {
+    .home-intro{
         img{
             width: 100%;
             max-width: 400px;
             margin: 100px 0px;
         }
     }
-    .section-2-right {
+    .section-2-right{
         .inner{
             padding-right: 0;
         }
     }
-    .section-3{
-        a{
-            display: none;
-        }
+.section-2-left
+    iframe {
+        margin: 180px 16px 40px;        
     }
     footer{
         .get-started{

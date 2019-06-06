@@ -15,7 +15,7 @@ opening with a flat line
 _________________
 and empty space;
 then, the first alif,
-an ignorant man standing up,
+an ignorant man standing up
 and all the souls of seven worlds
 in silent wonder
 at her upright figure,
@@ -24,7 +24,7 @@ to light the lyrics of life;
 to place with love
 a label, not meant to hold
 a single, flaming letter,
-but simply so that,
+but simply so that
 another, as hungry as I,
 might find it one day
 in the back of a cupboard
