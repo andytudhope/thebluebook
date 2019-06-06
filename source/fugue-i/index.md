@@ -25,6 +25,8 @@ Johann actually focusses on games more than literature which, though appropriate
 
 Moreover, revolutions in publishing and disseminating text have also resulted in revolutions of wider social consciousness, which means books are also - in a very literal way - the original forms of social computation that memes have been using to build the [Seventh Kingdom](https://www.youtube.com/watch?v=TfkRZWFHpss "See also https://techgnosis.com/shots-of-awe-interview/").
 
+>"Books are our cultural record" — [Aaron Swartz](https://www.youtube.com/watch?v=yToh1PoYb6k&t=80 "Your theme song, wali")
+
 So, what if we could make it easier for people to publish digitally-native books, made by and born on the internet, as a means of spreading patterns of knowledge that can be used to tweak the automated algorithms we're building so that they can help bring us together and show us what really connects?
 
 What if the pattern of mind books have always carried, that particular piece of captured soul that can travel across time, could be literalised and fed to the machines we are building to augment our memories and imagine delightfully different ways of being?
@@ -49,9 +51,9 @@ Strange, isn't it, how the significance of words is constantly slipping?
 
 ## No, really, it's all about the sidebar!
 
-A key feature of a digital book must be that it's easy to _navigate_, no matter what device you're using. Which means that you need to have a clear and navigable structure that works for anyone, no matter the screen they use to read your book. And that means you need to have the ability to nest sections within chapters, and control the way links are created so that it all makes at least some common sense irrespective of the perspective it's seen through. To get to some poem in Canto XIII, you need simply [look](https://github.com/andytudhope/thebluebook/tree/book/source/fugue-i/index.md#) at the [url](../canto-xiii/exposure.html), and the nested sidebar works on both desktop and mobile screens with some nifty javascript and cascading style sheets. 
+A key feature of a digital book must be that it's easy to _navigate_, no matter what device you're using. Which means that you need to have a clear and navigable structure that works for anyone, no matter the screen they use to read your book. And that means you need to have the ability to nest sections within chapters, and control the way links are created so that it all makes at least some common sense irrespective of the perspective it's seen through. To get to some poem in Canto XIII, you need simply [look](https://github.com/andytudhope/thebluebook/tree/book/source/fugue-i/index.md#L52) at the [url](../canto-xiii/exposure.html), and the nested sidebar works on both desktop and mobile screens with some nifty javascript and cascading style sheets. 
 
-Such a structure also means people can share specific bits of your book easily with others. I cannot link you directly to a section of Ulysses that I thought particularly mind-bending, but someone can point to [the source of this very sentence](https://github.com/andytudhope/thebluebook/tree/book/source/fugue-i/index.md#54) and share that with their friends, if they so choose.
+Such a structure also means people can share specific bits of your book easily with others. I cannot link you directly to a section of Ulysses that I thought particularly mind-bending, but someone can point to [the source of this very sentence](https://github.com/andytudhope/thebluebook/tree/book/source/fugue-i/index.md#L54) and share that with their friends, if they so choose.
 
 ## The long and the short of it
 
@@ -61,7 +63,7 @@ I built my own framework by adapting one I helped build for a community called [
 
 1. Try get a Linux machine. I haven't tested this anywhere else. Mac should work fine, but Windows might be a problem ([OS](https://www.youtube.com/watch?v=4vW62KqKJ5A "Revolution!") with [training wheels](https://github.com/andytudhope/APerspectiveonTechnologyA) that it is).
 2. Download a good "code" editor. I use - wtih [tongue in cheek](https://www.reddit.com/r/QuotesPorn/comments/3i7e2v/do_i_contradict_myself_walt_whitman_1680x1050_oc/) after the OS video link - [VSCode](https://code.visualstudio.com/download); but Atom, Sublime, or even NoteBook++ will do, depending on if you already have a preference.
-3. Once that is set up, install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+3. Once that is set up, install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and sign up on [GitHub](https://github.com) if you don't already have an account there.
 4. Then install Node and NPM (the Node Package Manager). The easiest way to do this, imo, is through [nvm](https://github.com/nvm-sh/nvm).
 
 **Get going**
@@ -130,11 +132,11 @@ This will open the code editor with your project loaded into it's sidebar and al
 
 ![Lion](../img/lion.png)
 
-9. If you want to change the page layout, or the home page, or the header and footer and other common elements, then you'll need to adventure into the `themes/navy/layout` folder, where you will find the few extend-with-javascript `.ejs` files used to stitch it all together. Don't stress! This is just plain old HTML with a few fancy tags added to it to make fun things happen. If, for instance, you want to change the title of one the header items, all you need to do is go to this line in [themes/navy/layout/partial/header.ejs](https://github.com/andytudhope/proofoflove/tree/master/themes/navy/layout/partial/header.ejs#L27) and edit the text there. You can just leave the rest of it as is, or explore the patterns to build your own, unique navigation elements.
+9. If you want to change the page layout, or the home page, or the header and footer and other common elements, then you'll need to adventure into the `themes/navy/layout` folder, where you will find the few extend-with-javascript `.ejs` files used to stitch it all together. Don't stress! This is just plain old HTML with a few fancy tags added to it to make fun things happen. If, for instance, you want to change the title of one of the header items, all you need to do is go to this line in [themes/navy/layout/partial/header.ejs](https://github.com/andytudhope/proofoflove/tree/master/themes/navy/layout/partial/header.ejs#L27) and edit the text there. You can just leave the rest of it as is, or explore the patterns to build your own, unique navigation elements.
 
-10. If you want to change the styles, then you'll need to edit the CSS in `themes/navy/source/scss/main.scss`. I have tried to keep it as clean as possible, and suggest using the marked section at the bottom to insert your own styles so that you don't inadvertently break anything (or, more accurately, can find the problem easily when you do). We can get even more meta than linking to specific lines of code, though - I can show you how to edit CSS through [the commit trail](https://github.com/andytudhope/proofoflove/commits/master). **:mind_blown:**
+10. If you want to change the styles, then you'll need to edit the CSS in [themes/navy/source/scss/main.scss](https://github.com/andytudhope/proofoflove/blob/master/themes/navy/source/scss/main.scss#L1953). I have tried to keep it as clean as possible, and suggest using the marked section at the bottom to insert your own styles so that you don't inadvertently break anything (or, more accurately, can find the problem easily when you do). We can get even more meta than linking to specific lines of code, though - I can show you how to edit CSS through [the commit trail](https://github.com/andytudhope/proofoflove/commits/master). **:mind_blown:**
 
-11. The same goes for editing the JS in `themes/navy/source/js/dev.js`. Note that work should happen in the `dev.js` file, as that is how [build pipline](https://github.com/andytudhope/proofoflove/tree/master/gulpfile.js#L42) is set up. I think it's awesome if you can write custom JS, and it would be great to see developer-writers take this much further than I currently have.
+11. The same goes for editing the JS in [themes/navy/source/js/dev.js](https://github.com/andytudhope/proofoflove/blob/master/themes/navy/source/js/dev.js). Note that work should happen in the `dev.js` file, as that is how [build pipline](https://github.com/andytudhope/proofoflove/tree/master/gulpfile.js#L42) is set up. I think it's awesome if you can write custom JS, and it would be great to see developer-writers take this much further than I currently have.
 
 12. When you're ready, you'll need to create your own respository. Do this through Github in your browser, then return to the root of your project, and run the following commands:
 
