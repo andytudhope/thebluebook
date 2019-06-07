@@ -14,11 +14,10 @@ My place is placeless
 A trace of the traceless
 I belong to the beloved” — Rumi
 
-“Total acceptance of total necessity is his paradoxical definition of freedom. The question “free of what?” is thus replaced by “free for what?” Liberty coincides with heroism. It is the asceticism of the great man, “the bow bent to the breaking-point.” — Albert Camus
+{% iframe https://www.youtube.com/embed/rwvCEWWWt7Q 800 550 %}  
+  
 
-“The only people for me are the mad ones, the ones who are mad to live, mad to talk, mad to be saved, desirous of everything at the same time, the ones who never yawn or say a commonplace thing, but burn, burn, burn like fabulous yellow roman candles exploding like spiders across the stars” — Jack Kerouac
-
-“I speak about it in order to begin somewhere, and also to free you from the delusion that somewhere without or within there is something fixed or in some way established from the outset. Every so-called fixed and certain thing is only relative” — C. G. Jung, ‘Seven Sermons to the Dead’
+“I speak about it in order to begin somewhere, and also to free you from the delusion that somewhere without or within there is something fixed or in some way established from the outset. Every so-called fixed and certain thing is only relative” — C. G. Jung, _Septem Sermones_
 
 “Whether it is singing or dancing or play-acting or physical transport of love, or vengeance or cruelty, or whether it is work or sorrow or religion, the issue is always the same at last, into the radiant negation of eternity.” — D. H. Lawrence
 
@@ -46,6 +45,8 @@ The art of making possible.” — Nancy Scheibner
 “the freed ship sailed, and the man climbed back
 out of the marvelous as he had known it.” — Seamus Heaney
 
+“The only people for me are the mad ones, the ones who are mad to live, mad to talk, mad to be saved, desirous of everything at the same time, the ones who never yawn or say a commonplace thing, but burn, burn, burn like fabulous yellow roman candles exploding like spiders across the stars” — Jack Kerouac
+
 “I’ve spent late nights in hospitals
 watching EKG machines,
 realising that my heart has a skyline.
@@ -55,7 +56,7 @@ so they can watch their lives clearly pass them by
 which is why I try to make even the most mundane memories
 into monuments that mark my time as something more than simple moments” — Shane Koyczan
 
-“Crossing a bare common, in snow puddles, at twilight, under a clouded sky, without having in my thoughts any occurrence of special good fortune, I have enjoyed a perfect exhilaration. I am glad to the point of fear […] Standing on the bare ground,- my head bathed by the blithe air, and uplifted into infinite space,- all mean egotism vanishes. I become a transparent eyeball; I am nothing; I see all; the currents of Universal Being circulate through me; I am part and parcel of God” — Ralph Waldo Emerson
+“Total acceptance of total necessity is his paradoxical definition of freedom. The question “free of what?” is thus replaced by “free for what?” Liberty coincides with heroism. It is the asceticism of the great man, “the bow bent to the breaking-point.” — Albert Camus
 
 “Dance, when you’re broken open. Dance, if you’ve torn the bandage off. Dance in the middle of the fighting. Dance in your blood. Dance when you’re perfectly free.” — Rumi
 
@@ -97,6 +98,8 @@ I may have my moments of sadness or confusion, but above me is the great I, who 
 “Of course it is asking too much. The price of self-destiny is never cheap, and in certain situations it is unthinkable. But to achieve the marvelous, it is precisely the unthinkable that must be thought” — Tom Robbins
 
 “I do not know what I may appear to the world, but to myself I seem to have been only a like a boy playing on the sea-shore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me.” — Isaac Newton
+
+“Crossing a bare common, in snow puddles, at twilight, under a clouded sky, without having in my thoughts any occurrence of special good fortune, I have enjoyed a perfect exhilaration. I am glad to the point of fear […] Standing on the bare ground,- my head bathed by the blithe air, and uplifted into infinite space,- all mean egotism vanishes. I become a transparent eyeball; I am nothing; I see all; the currents of Universal Being circulate through me; I am part and parcel of God” — Ralph Waldo Emerson
 
 “So immersed in language did you become that eventually every word, every utterance became something entirely divine. And then you couldn't speak at all for fear that you might sully the feeling, deep within, that each piece of language fell not from you.
 But slowly, as you began to live again, to breathe the air of a shared reality, you came to understand that words are not divine in and of themselves. There is nothing inherently godlike about them at all. They only become other in the act of interpretation, which always implies some degree of misinterpretation. And, in fact, it is misinterpretation which makes of words bridges to something more than me and what I mean; which makes of human sound something worth living and dying for.” — Andy Tudhope
