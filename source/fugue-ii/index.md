@@ -33,7 +33,7 @@ Books need to be alive to these sorts of possibilities. It’s not just about ho
 
 I dream of digitally-native books that grow through your browser as you read them. Books that [alter your algorithms](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) as you experience them. Books that carry literal patterns through the network which readers can use to train automated machinery to produce better outputs, if they so choose. I dream, like [Engelbart](https://www.youtube.com/watch?v=fhEh3tEL1V4 "The Mother of All Demos"), of dynamic repositories of knowledge and cooperative computing at scales never before imagined.
 
-Moreover, it can’t be done on some kind of [closed platform](https://www.gitbook.com/pricing) that could take it away on a whim, or simply charge you out of your online practice. 
+Moreover, it can’t be done on some kind of closed platform that could take it away on a whim, or simply charge you out of your online practice. 
 
 This open source framework must also render readable text on mobile phones (seeing as most of the world is looking at this right now through a small screen). It must require only an elementary understanding of “code” to use, and anyone should be able to build with it following some simple instructions. It should be as clean and efficient as possible and use the best open source tech so that it loads fast, no matter where you are or what kind of connection you have.
 

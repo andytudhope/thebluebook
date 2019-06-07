@@ -5,7 +5,7 @@ title: Background Life
 
 # Background Life
 
-Take note, boy, 
+Take note 
 of the music that makes
 you hollow, an outline 
 in the starry night
@@ -17,7 +17,7 @@ what's real and pretend
 like we know where to go from 
 here.
 
-That was always the point, boy,
+That was always the point, 
 the wandering, the random walk, 
 the wayward,
 guardian of a path no-one can take,
@@ -29,12 +29,12 @@ come with love
 to guide you back, burning,
 from way beyond the sea.
 
-Through what dreams you'll waft, boy,
+Through what dreams you'll waft,
 walker of the misty edge 
 with but one wish
-when his time finally comes 
+when the time finally comes 
 to wake up:
-bury his heart with the tambotieboom
+bury this heart with a tambotieboom
 and drift like ash over the sun.
 
 Always the music 

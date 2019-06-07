@@ -7,7 +7,7 @@ title: Fugue I
 
 ## RTFM
 
-Why though?
+Why?
 
 Well, there are many rabbit holes to fall up, Alice. If you really pay attention, you can watch this one site grow into many others, follow its traces all across the great digital face in which we all partake.
 

@@ -40,4 +40,6 @@ to feel that we belong.
 
 #### TRACE
 
+[Peace seeds](https://www.youtube.com/watch?v=T6qA-4PWdsg "Tim Minchin")
+
 [Country of My Skull](http://andytudhope.africa/yours-sincerely-masters-thesis/#krog)

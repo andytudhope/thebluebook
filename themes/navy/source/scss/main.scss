@@ -1380,6 +1380,10 @@ header{
     }
 }
 
+.section-mobile{
+    display: none;
+}
+
 /*---- Media Queries -----*/
 
 @media (max-width: 1499px){
@@ -1683,6 +1687,12 @@ header{
 }
 
 @media screen and (max-width: 767px) {
+    .section-mobile{
+        display: block;
+        img {
+            margin: 0 40px;
+        }
+    }
     iframe {
         width: 280px;
         height: 180px;

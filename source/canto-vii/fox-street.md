@@ -36,3 +36,5 @@ broken though they seem.
 #### TRACE
 
 [Stimela](https://www.youtube.com/watch?v=FE1vSjikzEQ "Hugh Masekela")
+
+[Open Sesame](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt "A Manifesto")

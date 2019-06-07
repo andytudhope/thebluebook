@@ -24,8 +24,8 @@ broke to beat no more and beat forever
 on further shores than thought can find,
 where barefoot seekers dance 
 for sand mussels where you showed us,
-right between the tides 
-and all this time.
+right between the tides and 
+all this time.
 
 
 #### TRACE

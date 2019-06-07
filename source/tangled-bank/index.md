@@ -513,7 +513,7 @@ After studying Zen, men are men and mountains are mountains” — D. T. Suzuki
 
 “You are not IN the universe, you ARE the universe, an intrinsic part of it. Ultimately you are not a person, but a focal point where the universe is becoming conscious of itself. What an amazing miracle.” — Eckhart Tolle
 
-“You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.” — Alan Watts
+“You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.” — [Alan Watts](https://www.youtube.com/watch?v=zmkTIkO-TKM "Attention!")
 
 “You don’t reach Serendip by plotting a course for it. You have to set out in good faith for elsewhere and lose your bearings serendipitously” — John Barth
 

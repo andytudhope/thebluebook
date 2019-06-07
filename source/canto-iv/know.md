@@ -50,4 +50,6 @@ lived looking up.
 
 #### TRACE
 
-[No room for doubt](https://www.youtube.com/watch?v=f845_v41YFo)
+[No room for doubt](https://www.youtube.com/watch?v=f845_v41YFo "Lianne la Havas")
+
+[Thank You](https://www.youtube.com/watch?v=IZeWPScnolo "What is your measure?")

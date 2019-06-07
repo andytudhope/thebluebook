@@ -6,7 +6,8 @@ title: Humus
 # Humus
 
 Words, well used, have the air
-of sacrifice about them.
+of sacrifice about them
+. . .
 It sticks to the spaces between
 when you understand
 what I have given up
