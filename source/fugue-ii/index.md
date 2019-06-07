@@ -72,7 +72,7 @@ Links are an opportunity Leibniz never had. Take the “Society” link in _Who 
 
 One word; and a whole matrix of meaning comes with it.  I hope you enjoy finding and deciphering the many others in the book.
 
-> My personal favorite can be found in "[For Shame](https://www.youtube.com/watch?v=Qzm_1Tuor1A "Just like this")".
+> My personal favorite can be found in "[For Shame](https://www.youtube.com/watch?v=D3S81X8JBZQ "Just like this")".
 
 
 ## Encoding time

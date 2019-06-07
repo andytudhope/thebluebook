@@ -43,4 +43,4 @@ each other's all too human plight.
 
 [Susan Sontag](https://www.brainpickings.org/2016/07/22/susan-sontag-peter-hujar-portraits-in-life-and-death/)
 
-[Such meta](../canto-ii/start-again.html)
+[Such wow](../canto-ii/start-again.html)
