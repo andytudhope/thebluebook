@@ -88,7 +88,7 @@ Hopefully they’ll be as confused, exasperated, and exulting  as me.
 
 ## What to make of it all?
 
-It’s been a tonne of fun building all this, slipping between so many different languages to craft something that I can drop into the flow of life, something  that can be replicated by others, and remixed into better versions more appropriate to their spaces and times.
+It’s been a [tonne of fun](https://www.youtube.com/watch?v=OkpdMKZBlP8 "Troy and Abed in the morning") building all this, slipping between so many different languages to craft something that I can drop into the flow of life, something  that can be replicated by others, and remixed into better versions more appropriate to their spaces and times.
 
 I know not all artists have the luxury to simply open source their work and be done with it. I know that this is not the way everyone can survive, so I think it would be interesting to give people something like "conditional crypto transfers" and set them loose building stuff they love so we can better train our world, and all the wor(l)ds of our imagination.
 

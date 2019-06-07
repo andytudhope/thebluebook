@@ -38,6 +38,4 @@ of nothing.
 
 #### TRACE
 
-[Community](https://www.youtube.com/watch?v=OkpdMKZBlP8 "Troy and Abed in the morning")
-
 [Stoep Zen](https://www.stoepzen.co.za/)
