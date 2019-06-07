@@ -40,4 +40,4 @@ distant thunder.
 
 [The Frontier is Everywhere](https://www.youtube.com/watch?v=bYbGFSoDHLY "Carl Sagan")
 
-[Spaceman](https://www.youtube.com/watch?v=KODskj8gd74 "Chris de Burgh")
+[Spaceman](https://www.youtube.com/watch?v=CCLBHCTPwXw "Chris de Burgh")
