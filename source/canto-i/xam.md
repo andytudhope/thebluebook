@@ -41,4 +41,6 @@ we finally came home.
 
 #### TRACE
 
+[Good governance](https://www.youtube.com/watch?v=DonD68byO0o "Andy Dwyer!")
+
 [Conversation](https://www.youtube.com/watch?v=CCYw0QVoB_U "Paul Myburgh")
