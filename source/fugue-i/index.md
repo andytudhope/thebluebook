@@ -9,7 +9,7 @@ title: Fugue I
 
 Why?
 
-Well, there are many rabbit holes to fall up, Alice. If you really pay attention, you can watch this one site grow into many others, follow its traces all across the great digital face in which we all partake.
+Well, there are many rabbit holes to fall up, Alice. If you really pay attention, you can watch this one site [grow into many others](http://ada.evergreen.edu/~arunc/brun/paradigms.html), follow its traces all across the great digital face in which we all partake.
 
 One trace I want to follow explicitly is hidden deep in the tangled bank: that of _social computation_. If you look hard enough, you'll find a link to someone called [Johann van Benthem](https://www.illc.uva.nl/Research/Publications/Reports/PP-2013-03.text.pdf), who wrote a paper between Amsterdam and Stanford. He says this:
 
