@@ -14,8 +14,9 @@ My place is placeless
 A trace of the traceless
 I belong to the beloved” — Rumi
 
-{% iframe https://www.youtube.com/embed/rwvCEWWWt7Q 800 550 %}  
-  
+“I have always imagined that Paradise will be a kind of library.” — Jorge Luis Borges
+
+{% iframe https://www.youtube.com/embed/rwvCEWWWt7Q 800 550 %}
 
 “I speak about it in order to begin somewhere, and also to free you from the delusion that somewhere without or within there is something fixed or in some way established from the outset. Every so-called fixed and certain thing is only relative” — C. G. Jung, _Septem Sermones_
 
@@ -133,7 +134,7 @@ ready to welcome the ecstatic experience” — Emily Dickinson
 What seemed all irregular, he saw and shewed to be beautiful Constellations
 And he added to the Consciousness hidden worlds within worlds” — S. T. Coleridge, describing Galileo
 
-“But the spirit of the depths stepped up to me and said: ‘What you speak is. The greatness is, the intoxication is, the undignified, sick, paltry dailiness is. It runs in all the streets, lives in all the houses, and rules the day of all humanity. Even the eternal stars are commonplace. It is the great mistress and the one essence of God. One laughs about it, and laughter, too, is. Do you believe, man of this time, that laughter is lower than worship? Where is your measure, false measurer? The sum of life decides in laughter and worship, not your judgement” — C. G. Jung
+“But the spirit of the depths stepped up to me and said: ‘What you speak is. The greatness is, the intoxication is, the undignified, sick, paltry dailiness is. It runs in all the streets, lives in all the houses, and rules the day of all humanity. Even the eternal stars are commonplace. It is the great mistress and the one essence of God. One laughs about it, and laughter, too, is. Do you believe, man of this time, that laughter is lower than worship? Where is your measure, false measurer? The sum of life decides in [laughter](https://twitter.com/tumisole/status/1100028502043230208) and worship, not your judgement” — C. G. Jung
 
 “consciousness is not an emergent phenomenon that describes human experience (how chauvinistic how naive similar to having the entire universe revolved around this tiny planet) but rather the all-pervasive, multi-dimensional substrate of existence in all its multitudinous forms” — Diana Slattery
 
@@ -536,7 +537,7 @@ and I am not who I was” — Stanley Kunitz
 Love is free; it can dwell in no other atmosphere. In freedom it gives itself unreservedly, abundantly, completely. All the laws on the statutes, all the courts in the universe, cannot tear it from the soil, once love has taken root. Love needs no protection; it is its own protection.
 Some day, some day men and women will rise, they will reach the mountain peak, they will meet big and strong and free, ready to receive, to partake, and to bask in the golden rays of love. What fancy, what imagination, what poetic genius can foresee even approximately the potentialities of such a force in the life of men and women. If the world is ever to give birth to true companionship and oneness, not marriage, but love will be the parent.” — Emma Goldman
 
-“It is not death that we wish to avoid, but life that we wish to live. You, who have lost the concept of the difference, you who claim that fear and joy are incentives of equal power—and secretly add that fear is the more “practical”—you do not wish to live, and only fear of death still holds you to the existence you have damned.” — Ayn Rand
+“We were young, and we had no need for prophecies. Just living was itself an act of prophecy.” — Haruki Murakami
 
 “When the truncheon may be used in lieu of conversation,
 Words will always retain their power.
@@ -546,7 +547,7 @@ The enunciation of truth.” — V
 
 “Time is not a factor, by itself. Time is a consequence of cyclical movements in the physical reality” — Sadhguru
 
-“He would have known that there was something missing for the world to be right or he right in it and would have set forth to wander wherever it was needed for as long as it took until he came upon it and he would have known that that was what he sought and it would have been” — Cormac McCarthy
+“He would have known that there was something missing for the world to be right or he right in it and would have set forth to wander wherever it was needed for as long as it took until he came upon it and he would have known that that was what he sought and it would have been” — [Cormac McCarthy](https://twitter.com/greenbien/status/1088278348856467456)
 
 “The woods are lovely, dark and deep
 but I have promises to keep
@@ -654,7 +655,7 @@ To put it still more plainly: the desire for security and the feeling of insecur
 
 “We become lost in the tides of thought, which we mistake for realities. Above such delusion, the only undeniable knowledge is pure awareness, which is free of concepts, conceits, and representations. The primordial simplicity of pure awareness needs no proof but itself. It is the highest point of direct experience, both indescribable and unimaginable […] Concepts are powerless before the ultimate nature of the mind. Its nature consumes them, as fire burns birds’ feathers without leaving any ash” — Mathieu Ricard
 
-“Western civilization, it seems to me, stands by two great heritages. One is the scientific spirit of adventure–the adventure into the unknown, an unknown which must be recognized as being unknown in order to be explored; the demand that the unanswerable mysteries of the universe remain unanswered; the attitude that all is uncertain; to summarize it — the humility of the intellect. The other great heritage is Christian ethics — the basis of action on love, the brotherhood of all men, the value of the individual — the humility of the spirit. These two heritages are logically, thoroughly consistent. But logic is not all; one needs one’s heart to follow an idea. If people are going back to religion, what are they going back to? Is the modern church a place to give comfort to a man who doubts God — more, one who disbelieves in God? Is the modern church a place to give comfort and encouragement to the value of such doubts? So far, have we not drawn strength and comfort to maintain the one or the other of these consistent heritages in a way which attacks the values of the other? Is this unavoidable? How can we draw inspiration to support these two pillars of Western civilization so that they may stand together in full vigor, mutually unafraid? Is this not the central problem of our time?” — Richard Feynman
+“Western civilization, it seems to me, stands by two great heritages. One is the scientific spirit of adventure–the adventure into the unknown, an unknown which must be recognized as being unknown in order to be explored; the demand that the unanswerable mysteries of the universe remain unanswered; the attitude that all is uncertain; to summarize it — the humility of the intellect. The other great heritage is Christian ethics — the basis of action on love, the brotherhood of all men, the value of the individual — the humility of the spirit. These two heritages are logically, thoroughly consistent. But logic is not all; one needs one’s heart to follow an idea. If people are going back to religion, what are they going back to? Is the modern church a place to give comfort to a man who doubts God — more, one who disbelieves in God? Is the modern church a place to give comfort and encouragement to the value of such doubts? So far, have we not drawn strength and comfort to maintain the one or the other of these consistent heritages in a way which attacks the values of the other? Is this unavoidable? How can we draw inspiration to support these two pillars of Western civilization so that they may stand together in full vigor, mutually unafraid? Is this not the central problem of our time?” — [Richard Feynman](https://twitter.com/cryptowanderer/status/1108632506570600448)
 
 “But, my master and my brother, I believe you have completed your work, since the one who has given his life, his entire truth, all his love, his entire soul, has completed his work. What one individual can do for men, you have done and accomplished and fulfilled. The time has come when each must do his own work of redemption. Mankind has grown older and a new month has begun […] Philemon dissolved into the darkness and I decided to do what was required of me. I accepted all the joy and every torment of my nature and remained true to my love, to suffer what comes to everyone in their own way.” — C. G. Jung
 
@@ -768,3 +769,5 @@ And no one exists alone;
 Hunger allows no choice
 To the citizen or the police;
 We must love one another or die.” — W. H. Auden
+
+“The forgotten possibility of life as a gift suddenly becomes thinkable. The fire burns in the stove. One curls up to sleep and recognizes the silence and makes friends with oneself.” —
