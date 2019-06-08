@@ -43,7 +43,10 @@ the only recognition ever needed.
 It was all holy, always,
 and the sky is so blue here.
 
+#### TRACES
 
-#### TRACE
+[Sing the love](https://youtu.be/h--fvyPu5e4?t=580 "Corinne Bailey Rae")
 
-[Love Brain](https://www.brainpickings.org/2013/12/12/love-letters-allen-ginsberg-peter-orlovsky/)
+[With brain](https://www.brainpickings.org/2013/12/12/love-letters-allen-ginsberg-peter-orlovsky/)
+
+[And it's real](https://twitter.com/cryptowanderer/status/1110510569646370817)
