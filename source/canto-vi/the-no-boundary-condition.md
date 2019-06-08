@@ -46,6 +46,8 @@ all around.
 
 [A Brief History of Time](https://en.wikipedia.org/wiki/A_Brief_History_of_Time)
 
-[Language though...](http://andytudhope.africa/language-in-the-ether/)
+[Language is](http://andytudhope.africa/language-in-the-ether/)
+
+[Another way to say thanks](https://www.youtube.com/watch?v=IZeWPScnolo "What is your measure?")
 
 
