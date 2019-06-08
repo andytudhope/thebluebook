@@ -62,4 +62,4 @@ that was the point?
 
 #### TRACE
 
-[One last loop](./index.html)
+[A tight loop](./index.html)

@@ -34,4 +34,4 @@ in the most inanimate of scenes.
 
 [Subtitle](http://www.ahl-alquran.com/English/show_article.php?main_id=2890)
 
-[Golden](https://goldensufi.org/a_Love_LifesGreatestGift.html) [Sufi](https://www.youtube.com/watch?v=p4DJaTeg65c "Seyyed Hossein Nasr")
+[Golden Sufi](https://goldensufi.org/a_Love_LifesGreatestGift.html)
