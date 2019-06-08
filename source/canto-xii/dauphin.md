@@ -34,3 +34,9 @@ of their own coherence,
 so that it travels like that first concerto,
 all crashing wave, all soaring joy:
 the freedom of salt and singing life.
+
+
+
+#### TRACES
+
+[This pride is not rancor quad même](https://www.brainpickings.org/2015/06/08/dostoyevsky-george-sand/ "Duphin Sand")
