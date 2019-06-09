@@ -43,9 +43,9 @@ Anyway, I eventually just built this myself, and it seemed to work quite well. S
 
 ## No more audiences
 
-Books of today must be better able to represent the dynamic media their authors are increasingly connected to, more or less constantly. We exist within webs of influence, both digital and physical, and [all the wired places between](https://www.wired.com/1996/12/ffglass/). Our communication needs to reflect this more accurately. A simple fact: you cannot embed some cut-together scenes from _V for Vendetta_, overlaid with Tchaikovsky’s 1812 Overture, into your beautifully pristine, printed piece of poetry. “Embed” has an entirely different meaning.
+Books of today must be better able to represent the dynamic media their authors are increasingly connected to, more or less constantly. We exist within webs of influence, both digital and physical, and [all the wired places between](https://www.wired.com/1996/12/ffglass/). Our communication needs to reflect this more accurately. A simple fact: you cannot embed Shane Koyczan or Ursula le Guin or Leonard Bernstein into the frontispiece of a printed chapter of poetry. “Embed” has an entirely different meaning.
 
-We could say that the context has changed, the signature expanded, the trace grown. Ever since I was forced to spend a good deal of time deciphering Jacques Derrida’s _Signature, Event, Context_, I’ve been a little obsessed with it. Possessed, some might say. While merrily deconstructing everything - [vive la révolution](https://youtu.be/gpDbvlAI_A0?t=100) - he goes on at some length about [traces](https://twitter.com/cryptowanderer/status/1134017760466481153) and _differánce_. Doing away with all the dry bits, I’ve always thought that - at [one layer further up the abstraction](http://worrydream.com/LadderOfAbstraction/) - the trace of poetry, in general, has to be music.
+We could say that the context has changed, the signature expanded, the trace grown. Ever since I spent a good deal of time deciphering Jacques Derrida’s _Signature, Event, Context_, I’ve been a little obsessed with it. Possessed, some might say. While merrily deconstructing everything - [vive la révolution](https://youtu.be/gpDbvlAI_A0?t=100) - he goes on at some length about [traces](https://twitter.com/cryptowanderer/status/1134017760466481153) and _differánce_. It's a little dry, but I’ve always thought that - at [one layer further up the abstraction](http://worrydream.com/LadderOfAbstraction/) - the trace of poetry, in general, has to be music.
 
 But, how to test this theory sensibly? While the best poems approach the condition of the best symphonies, it seems to me that _all_ poetry must contain a trace of music. And, I’m interested in hearing that. Really - what would the playlist for _Paradise Lost_ have been?
 
@@ -53,7 +53,7 @@ Whenever I’m writing poetry, I’m not trying to capture some notable event, b
 
 I can’t answer the question about Milton, but I can [show you what the sound-trace for The Blue Book looks like](https://www.youtube.com/playlist?list=PL5ClmaG2tnPNgqWDBGCWAQxD0sYpbfPRK). And I can tell you that it’s mostly music, through no real intention of mine. I just read through all the poems and linked to the things of which they reminded me. It was only later that I realised how many went to YouTube, and thought about putting an ordered list there as another entry point to the book’s web.
 
-There's also a [GoodReads list](https://www.goodreads.com/review/list/98176865-andy-tudhope?utf8=%E2%9C%93&shelf=the-blue-book&utf8=%E2%9C%93&title=andy-tudhope&sort=date_pub&order=d&per_page=50) with the critical pieces of literature that are mentioned, or can be traced, through this book. Because bibliographies are, like, so 2000 and late.
+There's also a [GoodReads list](https://www.goodreads.com/review/list/98176865-andy-tudhope?utf8=%E2%9C%93&shelf=the-blue-book&utf8=%E2%9C%93&title=andy-tudhope&sort=date_pub&order=d&per_page=50) with the notable pieces of literature that are mentioned, or can be traced, through this book. Because bibliographies are, like, so 2000 and late.
 
 
 ## Let’s talk links
