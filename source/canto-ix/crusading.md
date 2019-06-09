@@ -31,7 +31,7 @@ to tell you what you
 already know:
 
 The horns were hung above
-our door long ago, _Numzaan_,
+our door some time ago, _Numzaan_,
 and we are all most welcome
 here.
 
