@@ -35,4 +35,6 @@ tell them I'm forgiven.
 
 [Scarborough Fair](https://www.youtube.com/watch?v=wiZJP_XLmrQ "Celtic Women")
 
-[Miss-reading](https://www.youtube.com/watch?v=iOdsAE8Mq7I "Natalie Merchant")
+[Miss-reading](https://www.youtube.com/watch?v=iOdsAE8Mq7I&t=1207 "Natalie Merchant")
+
+[Spirit](https://www.youtube.com/watch?v=g48_fqX7KJc "Johnny Clegg & friends")
