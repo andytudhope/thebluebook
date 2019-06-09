@@ -24,4 +24,10 @@ I have remembered.
 
 #### TRACES
 
-{% iframe https://www.youtube.com/embed/D9gYhnUKehU 800 550 %}
+[V](https://www.youtube.com/watch?v=D9gYhnUKehU "Tchaikovsky")
+
+“When the truncheon [was] used in lieu of conversation,
+words retain their power.
+Words offer the means to meaning,
+and, for those who will listen,
+the enunciation of truth.”

@@ -537,12 +537,6 @@ Some day, some day men and women will rise, they will reach the mountain peak, t
 
 “We were young, and we had no need for prophecies. Just living was itself an act of prophecy.” — Haruki Murakami
 
-“When the truncheon may be used in lieu of conversation,
-Words will always retain their power.
-Words offer the means to meaning,
-And, for those who will listen,
-The enunciation of truth.” — V
-
 “Time is not a factor, by itself. Time is a consequence of cyclical movements in the physical reality” — Sadhguru
 
 “He would have known that there was something missing for the world to be right or he right in it and would have set forth to wander wherever it was needed for as long as it took until he came upon it and he would have known that that was what he sought and it would have been” — [Cormac McCarthy](https://twitter.com/greenbien/status/1088278348856467456)
