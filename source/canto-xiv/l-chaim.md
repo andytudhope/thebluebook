@@ -28,4 +28,8 @@ just yesterday.
 
 [Every myth is](https://www.youtube.com/watch?v=6GFvUCcljkM "About stubborn love and")
 
-[A tower of song](https://www.youtube.com/watch?v=nceRfJJZcP4 "Doo dum-dum-dum do-do dum-dum")
+[A tower of song.](https://www.youtube.com/watch?v=nceRfJJZcP4 "Doo dum-dum-dum da-do dum-dum")
+
+**P.S.**
+
+[Sound floats in gravitational fields.](https://twitter.com/cryptowanderer/status/1105427639244914688 "For Bill Nye")
