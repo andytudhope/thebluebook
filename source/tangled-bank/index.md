@@ -661,6 +661,19 @@ To put it still more plainly: the desire for security and the feeling of insecur
 
 “When I see this way I see truly. As Thoreau says, I return to my senses. I am the man who watches the baseball game in silence in an empty stadium. I see the game purely; I’m abstracted and dazed. When it’s all over and the white-suited players lope off the green field to their shadowed dugouts, I leap to my feet; I cheer and cheer. But I can’t go out and try to see this way. I’ll fail, I’ll go mad. All I can do is try to gag the commentator, to hush the noise of useless interior babble that keeps me from seeing just as surely as a newspaper dangled before my eyes. The effort is really a discipline requiring a lifetime of dedicated struggle; it marks the literature of saints and monks of every order East and West, under every rule and no rule, discalced and shod. The world’s spiritual geniuses seem to discover universally that the mind’s muddy river, this ceaseless flow of trivia and trash, cannot be dammed, and that trying to dam it is a waste of effort that might lead to madness. Instead you must allow the muddy river to flow unheeded in the dim channels of consciousness; you raise your sights; you look along it, mildly, acknowledging its presence without interest and gazing beyond it into the realm of the real where subjects and objects act and rest purely, without utterance […] The secret of seeing is, then, the pearl of great price. If I thought he could teach me to find it and keep it forever I would stagger barefoot across a hundred deserts after any lunatic at all. But although the pearl may be found, it may not be sought. The literature of illumination reveals this above all: although it comes to those who wait for it, it is always, even to the most practiced and adept, a gift and a total surprise… I cannot cause light; the most I can do is try to put myself in the path of its beam. It is possible, in deep space, to sail on solar wind. Light, be it particle or wave, has force: you rig a giant sail and go. The secret of seeing is to sail on solar wind. Hone and spread your spirit till you yourself are a sail, whetted, translucent, broadside to the merest puff.” — Annie Dillard
 
+“So, if you're telling this story,
+especially this part,
+then you better wring out
+true.
+
+You passed down your blood
+line
+and you travelled through
+song
+
+in an honest remembrance of
+You.” — [The Wild Re(a)ds](../canto-ii/start-again.html)
+
 “It began in mystery, and it will end in mystery. However many of life’s large, captivating principles and small, captivating details we may explore, unpuzzle, and learn by heart, there will still be vast unknown realms to lure us. If uncertainty is the essence of romance, there will always be enough uncertainty to make life sizzle and renew our sense of wonder. It bothers some people that no matter how passionately they may delve, the universe remains inscrutable. “For my part,” Robert Louis Stevenson once wrote, “I travel not to go anywhere, but to go. I travel for travel’s sake. The great affair is to move.” The great affair, the love affair with life, is to live as variously as possible, to groom one’s curiosity like a high-spirited thoroughbred, climb aboard, and gallop over the thick, sun-struck hills every day. Where there is no risk, the emotional terrain is flat and unyielding, and, despite all its dimensions, valleys, pinnacles, and detours, life will seem to have none of its magnificent geography, only a length. It began in mystery, and it will end in mystery, but what a savage and beautiful country lies in between.” — Diane Ackerman
 
 “To the end of the way of the wandering star,
