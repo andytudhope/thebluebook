@@ -26,8 +26,6 @@ I have remembered.
 
 [V](https://www.youtube.com/watch?v=D9gYhnUKehU "Tchaikovsky")
 
-“When the truncheon [was] used in lieu of conversation,
-words retain their power.
-Words offer the means to meaning,
+“Words offer the means to meaning,
 and, for those who will listen,
 the enunciation of truth.”

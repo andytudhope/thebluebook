@@ -68,7 +68,7 @@ We can do even weirder things though, right? Each link can have a description, w
 
 The Blue Book's [source code awaits you here](https://github.com/andytudhope/thebluebook/tree/book/source/ "Dive in!"). Be sure to take the [grey pill](https://breakingsmart.substack.com/p/the-internet-is-one-big-grey-pill) if you find yourself disoriented.
 
-Links are an opportunity Leibniz never had. Take the “Society” link in _Who Are You?_ It refers to an Eddie Vedder song of the same name and explains a line in the poem - I really did sing Society to a bunch of sticks in a desert with a friend playing a ukulele. However, it actually links to the version of the song from the soundtrack of the movie of the book “Into the Wild” by Jon Krakauer, and it’s description tag reads “Alexander Supertramp” - the name Christopher McCandless takes on in his travels. 
+Links are an opportunity Leibniz never had. Take the “Society” link in _Who Are You?_ It refers to an Eddie Vedder song of the same name and explains a line in the poem - I really did sing that song to some stick art in a desert, with a friend playing a ukulele. However, it actually links to the version of the song from the soundtrack of the movie of the book “Into the Wild” by Jon Krakauer, and it’s description tag reads “Alexander Supertramp” - the name Christopher McCandless takes on in his travels. 
 
 One word; and a whole matrix of meaning comes with it.  I hope you enjoy finding and deciphering the many others in the book.
 
@@ -81,14 +81,14 @@ Two more important notes about links. Firstly: they can carry time. By adding a 
 
 But, by encoding time into the information I’ve collected to [share-alike](http://www.aaronsw.com/), I can hopefully direct people [where they need to go](https://www.youtube.com/watch?v=9vz06QO3UkQ "The internet's own boy"), as and when they need to go there. There’s no rush - you can just keep this book in a browser window of its own and watch it grow slowly as you remember to turn back to some trace that tracked to a tale of your own, knowing it will be [timed just right](../canto-v/timing.html).
 
-Secondly, you can do some really loopy stuff (in the Hofstadter sense). While it’s always great to have a lot of external links, sometimes even the most shy of us feel the need to reference ourselves. Luckily, I only succumbed to this need once, in a poem at the end of Canto XIII which talks about how I learn from my own poems, one by one, as I have to. It just so happens that there is another poem called “Start Again” at the beginning of Canto II, and so I could make a sneaky little snakes-and-ladders link which takes people who have slugged it out all the way to the end of thirteen of fourteen cantos right back to the start of the second one with the twitch of a finger…
+Secondly, you can do some really loopy stuff (in the Hofstadter sense). While it’s always great to have a lot of external links, sometimes even the most shy of us feel the need to reference ourselves. Luckily, I only succumbed to this need once, in a poem at the end of Canto XIII which talks about how I learn from my own poems, one by one, as I have to. It just so happens that the poem it felt best to link to, called “Start Again”, is at the beginning of Canto II, and so I could make a sneaky little snakes-and-ladders link which takes people who have slugged it out all the way to the end of thirteen of fourteen cantos right back to the start of the second one with the twitch of a finger…
 
-Hopefully they’ll be as confused, exasperated, and exulting  as me.
+Hopefully they’ll be as confused, exasperated, and exulting as me.
 
 
 ## What to make of it all?
 
-It’s been a [tonne of fun](https://www.youtube.com/watch?v=OkpdMKZBlP8 "Troy and Abed in the morning") building all this, slipping between so many different languages to craft something that I can drop into the flow of life, something  that can be replicated by others, and remixed into better versions more appropriate to their spaces and times.
+It’s been a [tonne of fun](https://www.youtube.com/watch?v=OkpdMKZBlP8 "Troy and Abed in the morning") building all this, slipping between different kinds of languages to craft something that I can drop into the flow of life. Something that can be replicated by others, and remixed into better versions more appropriate to their spaces and times.
 
 I know not all artists have the luxury to simply open source their work and be done with it. I know that this is not the way everyone can survive, so I think it would be interesting to give people something like "conditional crypto transfers" and set them loose building stuff they love so we can better train our world, and all the wor(l)ds of our imagination.
 
