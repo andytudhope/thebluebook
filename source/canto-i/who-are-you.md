@@ -6,9 +6,14 @@ title: Who Are You?
 # Who Are You?
 
 Who sat at the fire,
-last lighthouse of a dark race,
+lighthouse of a living race,
 and watched the world tumble
 all about them.
+
+Who came from a cut in Morningside
+in the middle of August
+and wandered from Egoli
+to the Wild Coast for love.
 
 Who found a way to forgive 
 himself for the role she played,

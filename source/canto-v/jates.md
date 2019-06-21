@@ -30,4 +30,6 @@ all this time.
 
 #### TRACE
 
+[Dearly Departed](https://www.youtube.com/watch?v=F3jk3pflofk&t=64 "Shakey Graves and Esme Patterson")
+
 [Septem Sermones](http://gnosis.org/library/7Sermons.htm)
