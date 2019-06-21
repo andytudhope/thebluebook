@@ -787,6 +787,8 @@ It was hid so carefully.” — G. K. Chesterton
 
 “The work of real religion is bewilderment” — Rumi
 
+“The forgotten possibility of life as a gift suddenly becomes thinkable. The fire burns in the stove. One curls up to sleep and recognizes the silence and makes friends with oneself.” — Tove Jansson
+
 “All I have is a voice
 To undo the folded lie,
 The romantic lie in the brain
@@ -799,4 +801,4 @@ Hunger allows no choice
 To the citizen or the police;
 We must love one another or die.” — W. H. Auden
 
-“The forgotten possibility of life as a gift suddenly becomes thinkable. The fire burns in the stove. One curls up to sleep and recognizes the silence and makes friends with oneself.” —
+“Finally, there must be an accompanying change of discourse from the rhetoric of oppression to that of process and exploration. This would imply an open-endedness in the use of language, a search for originality of expression and a senstitivty to dialogue [...] The aim is to extend the range of personal and social experience as far as possible in order to contribute to bringing about a highly conscious, sensistive new person in a new society. This, it seems to me, is the function of art in, and its contribution to, the ongoing revolution in South Africa.” — Njabulo S. Ndebele
