@@ -41,8 +41,8 @@ we finally came home.
 
 #### TRACE
 
-[Guardians of](https://www.youtube.com/watch?v=3Wf29RiKp70 "Mixed")
+[I follow](https://www.youtube.com/watch?v=vk31Zpi72e0 "Bongeziwe Mabandla")
 
-[Conversation](https://www.youtube.com/watch?v=CCYw0QVoB_U "Paul Myburgh")
+[conversation](https://www.youtube.com/watch?v=CCYw0QVoB_U "Paul Myburgh")
 
 [and good governance](https://www.youtube.com/watch?v=DonD68byO0o "Andy Dwyer!")
