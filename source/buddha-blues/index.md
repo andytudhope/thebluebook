@@ -5,5 +5,4 @@ title: The Buddha Blues
 
 # Buddha Blues
 
-{% img [budda-blues] /img/sofia.jpg [909] [1080] [The Aeon - Sofia] %}
-
+{% iframe https://www.youtube.com/embed/4e4eP_g2E7w 800 550 [Sonmi's Revelation] %}
