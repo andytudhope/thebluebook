@@ -51,6 +51,11 @@ The art of making possible.” — Nancy Scheibner
 
 “In their highest boughs the world rustles, their roots rest in infinity; but they do not lose themselves there, they struggle with all the force of their lives for one thing only: to fulfill themselves according to their own laws, to build up their own form, to represent themselves.” — Herman Hesse
 
+“What would the world be, once bereft
+Of wet and of wildness? Let them be left,
+O let them be left, wildness and wet;
+Long live the weeds and the wilderness yet.” — Gerald Manley Hopkins
+
 “the freed ship sailed, and the man climbed back
 out of the marvelous as he had known it.” — Seamus Heaney
 
