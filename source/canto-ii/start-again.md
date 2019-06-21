@@ -39,7 +39,7 @@ to amplify our obscure song.
 
 ## TRACE
 
-[Howling at Nothing](https://www.youtube.com/watch?v=MUnU-4SfRSI "Nathaniel Rateliffe & The Night Sweats")
+[The Wild Reeds](https://www.youtube.com/watch?v=0TiEO149Ydc "You passed down your blood line and you travelled through song")
 
 [Lineage and The Red Book](https://www.youtube.com/watch?v=GxVaxOco7kg "Tolkien and Jung")
 
