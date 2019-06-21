@@ -14,9 +14,15 @@ My place is placeless
 A trace of the traceless
 I belong to the beloved” — Rumi
 
+“As I am writing, a new hit is ringing in my mind. The lyrics tell school children to heed the school bell summoning them to go and learn how to read, write, count, and sing.” — Njabulo S. Ndebele
+
 “I have always imagined that Paradise will be a kind of library.” — Jorge Luis Borges
 
 {% iframe https://www.youtube.com/embed/rwvCEWWWt7Q 800 550 %}
+
+“child
+if you stop weeping, you may see
+because that is how knowledge begins” — Mongane Wally Serote
 
 “I speak about it in order to begin somewhere, and also to free you from the delusion that somewhere without or within there is something fixed or in some way established from the outset. Every so-called fixed and certain thing is only relative” — C. G. Jung, _Septem Sermones_
 
@@ -26,6 +32,8 @@ I belong to the beloved” — Rumi
 Seems any human nod,
 Where shift in strange democracy
 The million masks of God.” — G. K. Chesterton
+
+“The earth was once supposed to be flat. Well, so it is from Hlatini to Northam. That fact does not prevent science from proving that the earth as a whole is spherical. We are still at the stage that life is flat — the distance from birth to death. Yet the probability is that life, too, is spherical and much more extensive and capacious than the hemisphere we know.” — Joël Matlou
 
 “But this: that one can contain
 death, the whole of death, even before
@@ -216,6 +224,8 @@ But never doubt I love.” — William Shakespeare, Hamlet
 
 “The desire of monks and mystics is not unlike that of artists: to perceive the extraordinary within the ordinary by changing not the world but the eyes that look.” — Jane Hirschfield
 
+“The matter is simple: there is a difference between art that 'sells' ideas to the people, and that in which ideas are _embraced_ by the people, because they have been made to understand them through the evocation of lived experience in all its complexities.” — Njabulo S. Ndebele
+
 “Imagine breathing
 surrounded by
 the brilliant rinse
@@ -242,6 +252,8 @@ Very well then I contradict myself,
 
 “And if natural science, in pursuit of the ideal of determinism since Newton, has finally arrived at the stage of the fundamental “perhaps” of the statistical character of natural laws … then should there not be enough room for all those oddities that ultimately rob the distinction between “physics” and “psyche” of all its meaning…?” — Wolfgang Pauli
 
+“This demands an uncompromisingly toughminded creative will to build a new civilisation. And no civilisation worth the name will emerge without the payment of disciplined and rigorous attention to detail.” — Njabulo S. Ndebele
+
 “Instead of an intellectual search, there was suddenly a very deep gut feeling that something was different. It occurred when looking at Earth and seeing this blue-and-white planet floating there, and knowing it was orbiting the Sun, seeing that Sun, seeing it set in the background of the very deep black and velvety cosmos, seeing – rather, knowing for sure – that there was a purposefullness of flow, of energy, of time, of space in the cosmos – that it was beyond man’s rational ability to understand, that suddenly there was a nonrational way of understanding that had been beyond my previous experience.
 There seems to be more to the universe than random, chaotic, purposeless movement of a collection of molecular particles. On the return trip home, gazing through 240,000 miles of space toward the stars and the planet from which I had come, I suddenly experienced the universe as intelligent, loving, harmonious.” — Edgar Mitchell
 
@@ -250,6 +262,11 @@ There seems to be more to the universe than random, chaotic, purposeless movemen
 “I should think that many of our poets, the honest ones, will confess to having no manifesto. It is a painful confession but the art of poetry carries its own powers without having to break them down into critical listings. I do not mean that poetry should be raffish and irresponsible clown tossing off words into the void. But the very feeling of a good poem carries its own reason for being… Art is its own excuse, and it’s either Art or it’s something else. It’s either a poem or a piece of cheese.” — Charles Bukowski
 
 “From this I reach what I might call a philosophy; at any rate it is a constant idea of mine; that behind the cotton wool is hidden a pattern; that we — I mean all human beings — are connected with this; that the whole world is a work of art; that we are parts of the work of art. Hamlet or a Beethoven quartet is the truth about this vast mass that we call the world. But there is no Shakespeare, there is no Beethoven; certainly and emphatically there is no God; we are the words; we are the music; we are the thing itself. And I see this when I have a shock.” — Virginia Woolf
+
+“Beauty is to prepare us for work,
+and work is to raise us up.” — Cyprian Norwid
+
+“The necessary political villification of exploitation should be separated from the human triumph associated with work, a triumph which constitutes a positive value for the future.” — Njabulo S. Ndebele
 
 “[Stillness] strikes me. This bottle, this glass, a big stone on a deserted beach — these are motionless things, but they set loose great movements in my mind… People who go bathing on a beach and who move about, touch me much less than the [stillness] of a pebble. (Motionless things become grand, much grander than moving things.) [Stillness] makes me think of great spaces in which movements take place which do not stop at a given moment, movements which have no end. It is, as Kant said, the immediate eruption of the infinite in the finite. A pebble which is a finite and motionless object suggests to me not only movements, but movements without end […] What I am seeking, in fact, is a motionless movement, something equivalent to what is called the eloquence of silence, or what St. John of the Cross meant by the words, I believe, of dumb music” — Joan Miro
 
@@ -262,6 +279,8 @@ There seems to be more to the universe than random, chaotic, purposeless movemen
 “Time seemed to vanish. Urgency vanished. Any important difference between myself and all other things vanished. I knew that I belonged to the world, and felt comfortably my own containment in the totality. I did not feel that I understood any mystery, not at all; rather that I could be happy and feel blessed within the perplexity — the summer morning, its gentleness, the sense of the great work being done though the grass where I stood scarcely trembled. As I say, it was the most casual of moments, not mystical as the word is usually meant, for there was no vision, or anything extraordinary at all, but only a sudden awareness of the citizenry of all things within one world: leaves, dust, thrushes and finches, men and women. And yet it was a moment I have never forgotten, and upon which I have based many decisions in the years since” — Mary Oliver
 
 “The nature of reality that spills forth from Einstein’s physics is so much more startling than the simplistic, undergraduate-beloved shibboleth: everything is relative to subjective points of view. In Einstein’s physics, there is no passage of time, no unidirectional flow from the fixed past and toward the uncertain future. The temporal component of space-time is as static as its spatial components; physical time is as still as physical space. It is all laid out, the whole spread of events, in the tenseless four-dimensional space-time manifold.” — Rebecca Goldstein
+
+“It is an anayltical story; a story designed to deliberately break down the barriers of the obvious in order to reveal new possibilities of understanding and action.” — Njabulo S. Ndebele
 
 “Finally, let us return to Turing’s original contribution. The Universal Machine was, and remains, a crucial device for making our thinking about computation sharp, and allowing, for the first time in history, precise mathematical results on the power and limitations of what is computable. But there is a further question. Can there be a similar universal format for the behavior produced by social computation in the sense of this paper? We still lack a ‘new Turing’, but my guess is that the answer will come in the form of an abstract conceptual analysis of what it really means to be a game – beyond the details of current game theory.” — [Johann van Benthem](https://www.illc.uva.nl/Research/Publications/Reports/PP-2013-03.text.pdf)
 
@@ -304,9 +323,14 @@ Love gambles away every gift God bestows.
 Without cause God gave us Being;
 without cause, give it back again.” — Rumi
 
+
+“The _Turkish Tales_, I believe, contain the essence of what I believe is universal in the art of narrative.”— Njabulo S. Ndebele
+
 “It must be that when God speaketh he should communicate, not one thing, but all things; should fill the world with his voice, should scatter forth light, nature, time, souls, from the center of the present though; and new date and new create the whole. Whenever a mind is simple and receives a divine wisdom, old things pass away – means, teachers, texts, temples fall; it lives now and absorbs past and future into the present hour. All things are made sacred by relation to it – one as much as another. All things are dissolved to their center by their cause, and in the universal miracle, petty and particular miracles disappear […] Whence then this worship of the past? The centuries are conspirators against the sanity and authority of the Soul. Time and space are but physiological colors which the eye makes, but the soul is light, where it is, is day; where it was, is night; and history is an impertinence and an injury if it be any thing more than a cheerful apologue or parable of my being and becoming” — Ralph Waldo Emerson
 
 “It wasn’t even patriotism or a sense of duty or responsibility that prevented me from ever considering leaving South Africa. It was just unthinkable. If you transplant a fifty-year-old kameeldoring tree, it will wither and die. Its root system goes too deep to dig out. Just as I cannot change the colour of my skin, I cannot become an American, European, or Australian. I would be an alien forever, like a polar bear in the Pretoria Zoo. My soul is African. My skin colour is the only European thing about me […] The energy that I feel gushing from the soil, my African soil, through my foot soles and into my spirit tells me who I am. The ancient mountains and valleys around me whisper to me that I am where I belong. Forces much greater than the loud-mouthed politicians and my own fears and insecurities have placed me exactly here at this time. I am who I should be and where I should be.” — Max du Preez
+
+“They give African readers the opportunity to experience themselves as makers of culture. They make it possible for people to realise that in the making of culture, even thoise elements of life not _explicitly_ oritented to resistance, are valid.” —
 
 “So it is with the places preparing to teach us. It’s only when the heart begins to beat wildly and without pattern – when it begins to realize its boundlessness – that its newly adamant pulse bangs on the walls of its cage and is bruised by its enclosure. To feel the heart pound is only the beginning. Next is to feel the hurt – the tearing of the psyche – the prelude of entry into the place one has always feared. One fears that place because of being drawn to it, loving it, and wanting to be taught by it. Without the need to be taught, who would feel the psyche rip? Without the bruise, who would know where the walls are? […] Bruised and bloodied by throwing himself against the four walls of his enclosure, and deeply shaken by his shrieking emotions, Cage stopped pacing his confinement and realized that his container has no roof. Looking up, he could see the sky. Fascinated, he set out to explore this new dimension.
 What he found was a language of silence and immanence.” — Kay Larson
