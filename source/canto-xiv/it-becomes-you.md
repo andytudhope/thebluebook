@@ -33,7 +33,7 @@ down the famished road, rainbows
 and shipwrecks and sandy grace:
 all of it the most simple thing,
 a single thread set free by
-distant thunder.
+rolling thunder.
 
 
 #### TRACE
