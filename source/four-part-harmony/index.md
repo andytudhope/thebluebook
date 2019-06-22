@@ -17,9 +17,9 @@ The wind blows a rose,
 just petals all the way down,
 fold on folded gold.
 
-I have remembered,
+We have remembered,
 that is all there is to say.
-I have remembered.
+We have remembered.
 
 
 #### TRACES
