@@ -49,8 +49,8 @@ reserved for the dead.
 
 [Wind-up Bird Chronicles](http://www.harukimurakami.com/book/the-wind-up-bird-chronicle)
 
-[Toeing the line](https://www.youtube.com/watch?v=hHvM8yjrNao "Arrival of the Birds, Cinematic Orchestra")
+[By three](https://www.youtube.com/watch?v=4k2PJFPu57Y "Bob Marley")
 
-[And building](https://www.youtube.com/watch?v=bjjc59FgUpg "CO ft. Patrick Watson")
+[To build](https://www.youtube.com/watch?v=bjjc59FgUpg "Cinematic Orchestra ft. Patrick Watson")
 
-[Homes](https://www.youtube.com/watch?v=VyvCJPNP8RQ?t=20 "Passenger")
+[Homes](https://www.youtube.com/watch?v=VyvCJPNP8RQ?t=20 "Passenger").

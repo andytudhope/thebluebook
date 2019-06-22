@@ -35,4 +35,6 @@ their love makes them any better.
 
 #### TRACE
 
+[How I Became The Bomb](https://www.youtube.com/watch?v=q1LDGwIRoTA "Love Never Dies")
+
 [Earth Home](https://www.terrakhaya.co.za/)

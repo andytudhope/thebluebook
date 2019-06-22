@@ -48,10 +48,10 @@ to tell it all.
 
 #### TRACE
 
-[Wild Geese](http://www.phys.unm.edu/~tw/fas/yits/archive/oliver_wildgeese.html)
+[Follow the sun](https://www.youtube.com/watch?v=0E1bNmyPWww "Xavier Rudd")
 
-[Society](https://www.youtube.com/watch?v=cl4cLEToPfc "Alexander Supertramp")
+[Into the wild](https://www.youtube.com/watch?v=cl4cLEToPfc "Alexander Supertramp").
 
-[Parable of the Talents](https://www.youtube.com/watch?v=RxPZh4AnWyk "Susan Boyle")
+Look: [wild geese](http://www.phys.unm.edu/~tw/fas/yits/archive/oliver_wildgeese.html)
 
-[A Marriage of Heaven and Hell](https://www.poetryfoundation.org/poems/43687/the-tyger)
+[Burning bright](https://www.poetryfoundation.org/poems/43687/the-tyger)!

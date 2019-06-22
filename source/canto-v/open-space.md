@@ -41,8 +41,8 @@ fallen, broken, slowly filling up with light.
 
 [V](https://www.youtube.com/watch?v=ACUpr5GvVsE "Introductory Monologue")
 
-[The Bushmen Winter Has Come](https://www.goodreads.com/book/show/17884233-the-bushman-winter-has-come)
-
 [Kintsugi](https://www.youtube.com/watch?v=EBUTQkaSSTY "School of Life")
 
 [Yù Yī](https://www.youtube.com/watch?v=UuC-M-85ArY "Dictionary of Obscure Sorrows")
+
+[The Bushmen Winter Has Come](https://www.goodreads.com/book/show/17884233-the-bushman-winter-has-come)

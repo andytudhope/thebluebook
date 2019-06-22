@@ -38,4 +38,6 @@ a single drumbeat away.
 
 #### TRACE
 
-[Saving Books](https://www.brainpickings.org/2018/12/20/ursula-k-le-guin-national-book-award-speech/)
+[Appreciate irony](https://www.youtube.com/watch?v=L-JQ1q-13Ek "Simon and Garfunkel")
+
+[And save the books](https://www.brainpickings.org/2018/12/20/ursula-k-le-guin-national-book-award-speech/)

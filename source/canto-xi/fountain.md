@@ -6,7 +6,7 @@ title: Fountain
 ## Fountain
 
 Growing up, there were two
-pissing manicans by the front door,
+pissing manicans by our front door,
 perpetually filling the fountain
 as it fell into a long pool
 with a lion fixed to a wall
@@ -18,10 +18,14 @@ wayward as I then was.
 
 Though no cup
 can ever be more full than yours,
-ṣallā Allāhu ʿalayhi wa-ʿala āli-hi wa-sallam,
+_ṣallā Allāhu ʿalayhi wa-ʿala āli-hi wa-sallam_,
 those two small boys
 wetting my childhood dreams
 will always overflow.
 
 
 #### TRACES
+
+[Here Comes The Sun](https://www.youtube.com/watch?v=H3OhtUtqY7Q "The Beatles")
+
+[Shine On](https://www.youtube.com/watch?v=_c5G7BTWj_8 "Chris De Burgh")

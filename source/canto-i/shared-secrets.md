@@ -51,6 +51,8 @@ it sees just this.
 
 [The Secret](https://www.poetryfoundation.org/poems/48725/the-secret-56d22a326e5a8)
 
+[Special Star](https://www.youtube.com/watch?v=w4HJfcecgos "Mango Groove")
+
 [Fluid Dynamics](https://www.brainpickings.org/2014/11/13/van-gogh-starry-night-fluid-dynamics-animation/)
 
 [Blue vapour without end](https://www.poetryfoundation.org/poems/52577/monet-refuses-the-operation-56d231289e6db)

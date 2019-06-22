@@ -41,7 +41,7 @@ than swirling sand stirred
 forever by the current.
 
 This is bliss:
-see both this muddy ocean
+see both a muddy ocean
 and another means to dance
 with the divine.
 

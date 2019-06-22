@@ -46,8 +46,10 @@ all around.
 
 [A Brief History of Time](https://en.wikipedia.org/wiki/A_Brief_History_of_Time)
 
-[Language is](http://andytudhope.africa/language-in-the-ether/)
+[And everything else, too](https://www.youtube.com/watch?v=hHvM8yjrNao "Arrival of the Birds, Cinematic Orchestra").
 
-[Another way to say thanks](https://www.youtube.com/watch?v=IZeWPScnolo "What is your measure?")
+[Language offers](http://andytudhope.africa/language-in-the-ether/)
+
+[Another way to say thanks](https://www.youtube.com/watch?v=IZeWPScnolo "Measured in laughter").
 
 

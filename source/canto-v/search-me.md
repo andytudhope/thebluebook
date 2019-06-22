@@ -28,6 +28,8 @@ in the ordinariness of it all.
 
 #### TRACE
 
-[What Is Life?](http://www.whatislife.ie/downloads/What-is-Life.pdf)
+[What is life?](http://www.whatislife.ie/downloads/What-is-Life.pdf)
 
-But a [Rainbow and a Worm](https://www.researchgate.net/publication/241695402_The_rainbow_and_the_worm_Establishing_a_new_physics_of_life)
+Look to [rainbows and worms](https://www.researchgate.net/publication/241695402_The_rainbow_and_the_worm_Establishing_a_new_physics_of_life)
+
+And [rediscover the ordinary](https://www.goodreads.com/book/show/2203643.Rediscovery_of_the_Ordinary)

@@ -27,6 +27,8 @@ lived well.
 
 #### TRACE
 
+[New Slang](https://www.youtube.com/watch?v=u5qlF0SgFMU "The Shins")
+
 [God of Small Things](https://www.goodreads.com/book/show/9777.The_God_of_Small_Things)
 
 [The pilgrim at Tinker Creek](https://www.brainpickings.org/2015/03/04/annie-dillard-pilgrim-at-tinker-creek-seeing/)
