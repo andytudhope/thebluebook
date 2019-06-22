@@ -23,7 +23,7 @@ his whole heart back.
 Who could not kill the dream,
 for it seemed, somehow,
 more dramatic
-than another dance with death.
+to dance again with death.
 
 Who traced herself through time
 to a tune made up of every human 
