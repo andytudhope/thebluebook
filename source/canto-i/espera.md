@@ -24,7 +24,7 @@ to burst its sandy banks
 and return, before
 the sun's drumcrush dried it up again,
 the light's din something you can hear
-only here,
+here,
 where courageous scales cavort
 in the face of two breeding fish eagles
 and their ancient harmony.

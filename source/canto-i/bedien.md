@@ -45,12 +45,10 @@ with our kin.
 
 #### TRACE
 
-[The actual prayer](https://pinterest.com/pin/536561743079480402/) I thought was trash
+[The actual prayer](https://pinterest.com/pin/536561743079480402/) I thought was trash.
 
 [Surat At-Tin](https://www.youtube.com/watch?v=o6ebPSMzQ3U) (The Fig)
 
-["Dīn"](https://en.wikipedia.org/wiki/Din_(Arabic "meaning (Arabic)"), "dien" means "serve" in Afrikaans
-
-[A Key](http://sfhfoundation.com/keys-to-the-quran-volume-5-commentary-on-juz-amma/)
+["Dīn"](https://en.wikipedia.org/wiki/Din_(Arabic "meaning (Arabic)"). "Dien" means "serve" in Afrikaans.
 
 [Coleridge](https://www.poetryfoundation.org/poems/43991/kubla-khan) or [Nelson](https://thenewstack.io/ted-nelson-can-still-learn-xanadu/)?

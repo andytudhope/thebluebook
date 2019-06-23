@@ -15,7 +15,7 @@ born in the hot mines
 where still we find music,
 somehow, here,
 whispering of the _suikerbossie_
-that grow on sacred mountains
+that grows on sacred mountains
 and the succulents so beloved
 by elephants, grey and green
 held by memories much longer

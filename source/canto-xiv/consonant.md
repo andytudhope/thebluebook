@@ -35,10 +35,10 @@ for peace.
 
 So walk carefully
 if you're headed for
-the right hand side
+the South side
 of Mlambomkulu River,
 where once the old ones,
-first ones, last ones,
+last ones, first ones,
 wandered, wondered
 and came to a decision
 to dance through echoes in time,
@@ -52,8 +52,8 @@ and learn again the intricacies
 of ungulate, digitigrade and graviportal
 motion, feel again the warm camp fire
 and watch over it all night
-between dreams of diagonal streets
-and stranger stories with one, stark
+between dreams of elephantom
+forest streets and one, stark
 ring of power, thrown away
 after threading death's empty eye
 on a forgotten hill in the Transkei...
@@ -69,3 +69,4 @@ our shared canvas.
 
 #### TRACES
 
+[Real ghosts](https://www.goodreads.com/book/show/1178312.Elephantoms)

@@ -43,6 +43,4 @@ we finally came home.
 
 [I follow](https://www.youtube.com/watch?v=vk31Zpi72e0 "Bongeziwe Mabandla")
 
-[conversation](https://www.youtube.com/watch?v=CCYw0QVoB_U "Paul Myburgh")
-
-[and good governance](https://www.youtube.com/watch?v=DonD68byO0o "Andy Dwyer!")
+[good conversation](https://www.youtube.com/watch?v=CCYw0QVoB_U "Paul Myburgh").
