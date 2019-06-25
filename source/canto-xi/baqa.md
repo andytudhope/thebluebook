@@ -33,7 +33,7 @@ these ever-shifting sands.
 
 [Sufism and Vedanta](https://www.youtube.com/watch?v=QTjomW02un4&t=1673 "SHN")
 
-([Shūsaku Endō](https://en.wikipedia.org/wiki/Silence_(novel))
+[Shūsaku Endō](https://www.goodreads.com/book/show/25200.Silence)
 
 [There wasn't roaring](https://www.youtube.com/watch?v=-izLZ1g_U0o "Groban and Mahlasela, 2009")
 

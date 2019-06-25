@@ -34,7 +34,7 @@ walker of the misty edge
 with but one wish
 when the time finally comes 
 to wake up:
-bury this heart with a tambotieboom
+bury this heart with a _tambotieboom_
 and drift like ash over the sun.
 
 Always the music 

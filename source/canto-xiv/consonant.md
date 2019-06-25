@@ -12,10 +12,10 @@ to the Guardian's Face,
 gazing out over blue forevers
 turned to silver beneath the
 rhythmic syzygy
-of Jupiter, Antares and The Cross
+of Jupiter, Antares and The Crux
 playing a game of triangles,
 though I couldn't lead you
-exactly back until all the stars
+back until all the stars
 align just like they were
 so that it seemed as if
 we looked together,

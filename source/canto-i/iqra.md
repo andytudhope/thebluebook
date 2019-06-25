@@ -32,6 +32,6 @@ in the most inanimate of scenes.
 
 [Gӧdel, Escher, Bach](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach)
 
-[Subtitle](http://www.ahl-alquran.com/English/show_article.php?main_id=2890)
+[Read](http://www.ahl-alquran.com/English/show_article.php?main_id=2890)
 
 [Golden Sufi](https://goldensufi.org/a_Love_LifesGreatestGift.html)

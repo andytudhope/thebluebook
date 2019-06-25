@@ -8,32 +8,38 @@ title: Crusading
 There is a clearing
 where Jerusalem is constructed,
 its source code scribbled on a wall,
-once used for wailing,
-waiting…
-
-Crossed out and accused
+for everyone to see
+before being
+crossed out and accused
 by an unseeing soldier
 for the right case and
 correct phrase.
 
-Before we came home,
-and pled for forgiveness,
+Then, the years of wailing,
+waiting,
+before we could come home,
+and plead for forgiveness,
 willing what wafts between
-remembrance and all we lost;
+remembrance and all we lost:
 
-the roar itself
-just an ambigram
-for this rhythm outside time.
+an old story about a rabbi
+who would not repent,
+and a rhythm outside time.
 
 Travel with me back down
 to dance, to be daft,
 to tell you what you
-already know:
+already know.
 
 The horns were hung above
 our door some time ago, _Numzaan_,
-and we are all most welcome
-here.
+we honour our shadows here
+and share what we know,
+singing one simple truth:
+
+the greatest sin is also what redeems
+the whole thing,
+even Elisha Ben Abuyah.
 
 
 #### TRACES

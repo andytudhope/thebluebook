@@ -52,4 +52,4 @@ separate from me.
 
 [Dark Side of the Moon Solo](https://youtu.be/vi7cuAjArRs?t=363 "David Gilmour, Comfortably Numb")
 
-[Special Star](https://www.youtube.com/watch?v=aNSL1zstAFE "PJ Powers")
+[Pure power](https://www.youtube.com/watch?v=aNSL1zstAFE "PJ Powers")

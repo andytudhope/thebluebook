@@ -6,7 +6,7 @@ title: Dhât al-asmâ’
 # Dhât al-asmâ’
 
 It was the great master who taught me
-the asmâ’ al-asmâ’, 
+the _asmâ’ al-asmâ’_, 
 the names of the names,
 through yellowed wreaths 
 carrying the weight of coffee stains 
