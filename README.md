@@ -10,3 +10,22 @@ This repo hosts the code for [The Blue Book](https://thebluebook.co.za). With Gi
 More than anything else, we need to **get rid of audiences**. We need participation. So now you, too, can build your own book!
 
 Good luck! Read well.
+
+### Run It Yourself
+
+Enter these commands in your terminal:
+
+```bash
+mkdir mybook
+git clone https://github.com/andytudhope/thebluebook.git mybook/
+cd mybook/
+npm i
+./node_modules/.bin/gulp build
+```
+
+Open a new terminal, navigate back to the root of the folder and run:
+
+```bash
+cd mybook/
+./node_modules/.bin/hexo serve
+```
