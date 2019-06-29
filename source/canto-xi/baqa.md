@@ -31,7 +31,7 @@ these ever-shifting sands.
 
 #### TRACE
 
-[Sufism and Vedanta](https://www.youtube.com/watch?v=QTjomW02un4&t=1673 "SHN")
+[Sufism and Vedanta](https://www.youtube.com/watch?v=QTjomW02un4&t=1900 "SHN")
 
 [Shūsaku Endō](https://www.goodreads.com/book/show/25200.Silence)
 

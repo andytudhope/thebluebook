@@ -30,9 +30,9 @@ the river of silk singing a duet
 with the near-static tongue of sunset
 in a melody it takes a lifetime to hear.
 
-A nimbus-clouded voice, 
+Nimbus-clouded voices, 
 we get to dance with floating water,
-we get to be the wildness and the wet
+we get to be wildness and wet
 every time we fall, 
 every time we are drawn 
 back up into the blue; 

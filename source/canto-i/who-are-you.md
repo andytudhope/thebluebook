@@ -35,10 +35,15 @@ from a war-torn place
 once called home,
 and raised hell for the chance to atone.
 
+Who wrote a journey through song,
+a grail quest caught on green notes
+and reflected in Cape stone, still
+echoing our first sound.
+
 Who sat with an old friend now found,
 strumming Eddie Vedder to some sticks
-destined for flame
-and cried their heart to this desert sky.
+destined for divine reality
+and cried their heart to this true sky.
 
 Who looked that lion in the eye,
 and knew complete terror:

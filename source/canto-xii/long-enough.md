@@ -19,7 +19,7 @@ A simple beat,
 
 And somehow you saw with my eyes
 a filamental fabric behind the stars,
-even here, where poetry falls apart,
+even here, where poetry falls to pieces,
 too crude to capture what is shared
 before words, 
 in places where it makes perfect

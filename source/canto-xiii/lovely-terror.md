@@ -12,7 +12,7 @@ and dreams of barefoot dancers
 come to squeeze the last heady juices
 from plump globes, each a thing itself,
 each a song you taught me,
-a concerto that brought me to tears
+a symphony that brought me to tears
 and bade me plant this for you, dear.
 
 A lily for remembering how to praise
@@ -39,7 +39,5 @@ to feel that we belong.
 
 
 #### TRACE
-
-[Peace seeds](https://www.youtube.com/watch?v=T6qA-4PWdsg "Tim Minchin")
 
 [Country of My Skull](http://andytudhope.africa/yours-sincerely-masters-thesis/#krog)

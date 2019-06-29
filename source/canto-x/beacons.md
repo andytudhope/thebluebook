@@ -25,7 +25,7 @@ when really it is the angles
 that are rising into light,
 the last of our fallen friends,
 so full of forgiveness
-they flame for the briefest moment
+they flame for a whole moment
 before tracking the edge
 that is always rising with colour,
 the ledge, the golden layer;
