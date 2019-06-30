@@ -55,8 +55,8 @@ to tell it all.
 
 [Follow the sun](https://www.youtube.com/watch?v=0E1bNmyPWww "Xavier Rudd")
 
-[Into the wild](https://www.youtube.com/watch?v=cl4cLEToPfc "Alexander Supertramp").
+[Into the wild](https://www.youtube.com/watch?v=cl4cLEToPfc "Alexander Supertramp")
 
 Look: [wild geese](http://www.phys.unm.edu/~tw/fas/yits/archive/oliver_wildgeese.html)
 
-[Burning bright](https://www.poetryfoundation.org/poems/43687/the-tyger)!
+[Burning bright](https://www.poetryfoundation.org/poems/43687/the-tyger)

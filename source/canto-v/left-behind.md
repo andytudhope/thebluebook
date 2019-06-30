@@ -40,8 +40,6 @@ lost in the ocean.
 
 #### TRACE
 
-[Teen Spirit](https://www.youtube.com/watch?v=9VSp_4bHyAo "J. S. Ondara")
+[Love Generation](https://www.youtube.com/watch?v=v0NSeysrDYw "Bob Sinclair")
 
 [Given](https://www.giventhemovie.com/the-goodwins)
-
-[Aloha Ke Akua](https://www.youtube.com/watch?v=YsgP8LkEopM "Medicine for the People")

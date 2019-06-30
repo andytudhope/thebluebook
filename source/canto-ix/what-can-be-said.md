@@ -15,3 +15,5 @@ how to pray.
 #### TRACE
 
 [The Summer Day](http://www.phys.unm.edu/~tw/fas/yits/archive/oliver_thesummerday.html)
+
+[Aloha Ke Akua](https://www.youtube.com/watch?v=YsgP8LkEopM "Medicine for the People")

@@ -25,9 +25,9 @@ just yesterday.
 
 #### TRACES
 
-[The heart goes on](https://www.youtube.com/watch?v=6GFvUCcljkM "About stubborn love and")
+["I'll only live for you"](https://www.youtube.com/watch?v=eCIHPdx1OAs "Mumford and Baaba Maal")
 
-Through [a tower of song](https://www.youtube.com/watch?v=nceRfJJZcP4 "Doo dum-dum-dum da-do dum-dum").
+And [your tower of song](https://www.youtube.com/watch?v=nceRfJJZcP4 "Doo dum-dum-dum da-do dum-dum").
 
 **P.S.**
 

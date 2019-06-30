@@ -28,5 +28,3 @@ to talk about the same silk.
 ## TRACE
 
 [The Meaning of Life](https://www.youtube.com/watch?v=aSO9OFJNMBA "Monty Python")
-
-[Humanity's Real Hive Mind](https://twitter.com/dogfather/status/744010878379507713 "See also @vgr")

@@ -15,9 +15,10 @@ each a song you taught me,
 a symphony that brought me to tears
 and bade me plant this for you, dear.
 
-A lily for remembering how to praise
-our mutilated world made graceful
-by what we have learnt to love again,
+Another lily for remembering 
+how to praise our mutilated world 
+made graceful by what we have learnt 
+to love again,
 you and I, explorers of the infinite,
 enlarged by the beauty of every day.
 

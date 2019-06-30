@@ -39,9 +39,9 @@ What if everyone could easily build something about what they love? What happens
 
 ## Where would you start? ... [start, start](https://www.youtube.com/watch?v=E-QGkYNc0Ls)
 
-At first, I thought Gitbook might be the way to go. But, they've moved away from their old static site generator to a rich JSON format that is far more propietary and cannot be hosted anywhere but their servers, which is not cool. I don't want to have to "sign in" to my own book, I don't want to have to pay a fee to collaborate with more than two other people, and I want a site that I can transport easily, and host anywhere at the click of a few buttons. I am a [part-time mathemetician](https://observablehq.com/@andytudhope/embedded-discover) after all, and the domain you choose really matters.
+At first, I thought Gitbook might be the way to go. But, they've moved away from their old static site generator to a rich JSON format that is propietary and cannot be hosted anywhere but their servers, which is not cool. I don't want to have to "sign in" to my own book, I don't want to have to pay a fee to collaborate with more than two other people, and I want a site that I can transport easily, and host anywhere at the click of a few buttons. I am a [part-time mathemetician](https://observablehq.com/@andytudhope/embedded-discover) after all, and the domain you choose really matters.
 
-So, I downloaded the legacy editor and `gitbook-cli` and, while these are great tools, there was a glaring problem. The legacy gitbook software doesn't let you nest your sidebar content and structure the links properly - and that really matters.
+So, I downloaded the legacy editor and `gitbook-cli` and, while these are great tools, there was a glaring problem. The legacy software doesn't let you nest your sidebar content and structure the links properly - and that really matters.
 
 ## Sidebar
 
@@ -51,9 +51,9 @@ Strange, isn't it, how the significance of words is constantly slipping?
 
 ## No, really, it's all about the sidebar!
 
-A key feature of a digital book must be that it's easy to _navigate_, no matter what device you're using. Which means that you need to have a clear and navigable structure that works for anyone, no matter the screen they use to read your book. And that means you need to have the ability to nest sections within chapters, and control the way links are created so that it all makes at least some common sense irrespective of the perspective it's seen through. To get to some poem in Canto XIII, you need simply [look](https://github.com/andytudhope/thebluebook/tree/book/source/fugue-i/index.md#L52) at the [url](../canto-xiii/exposure.html), and the nested sidebar works on both desktop and mobile screens with some nifty javascript and cascading style sheets. 
+A key feature of a digital book must be that it's easy to _navigate_, no matter what device you're using. Which means that you need to have a clear and navigable structure that works for anyone, no matter the screen they use to read your book. And that means you need to have the ability to nest sections within chapters, and control the way links are created so that it all makes at least some common sense irrespective of the perspective it's seen through. To get to some poem in Canto XIII, you need simply [look](https://github.com/andytudhope/thebluebook/tree/book/source/fugue-i/index.md#L54) at the [url](../canto-xiii/exposure.html), and the nested sidebar works on both desktop and mobile screens with some nifty javascript and cascading style sheets. 
 
-Such a structure also means people can share specific bits of your book easily with others. I cannot link you directly to a section of Ulysses that I thought particularly mind-bending, but someone can point to [the source of this very sentence](https://github.com/andytudhope/thebluebook/tree/book/source/fugue-i/index.md#L54) and share that with their friends, if they so choose.
+Such a structure also means people can share specific bits of your book easily with others. I cannot link you directly to a section of Ulysses that I thought particularly mind-bending, but someone can point to [the source of this very sentence](https://github.com/andytudhope/thebluebook/tree/book/source/fugue-i/index.md#L56) and share that with their friends, if they so choose.
 
 ## The long and the short of it
 

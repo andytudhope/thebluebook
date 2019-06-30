@@ -46,6 +46,6 @@ even Elisha Ben Abuyah.
 
 [Romani ite domi](https://www.youtube.com/watch?v=M3gNdGHsEIk "Management training")
 
-[Afri-kan](https://www.youtube.com/watch?v=2AviyoyvK3k "Jessica Mbangeni")
+[We're on African](https://www.youtube.com/watch?v=2AviyoyvK3k "Jessica Mbangeni")
 
-[Ubuntu](https://www.youtube.com/watch?v=gW2E9HP5mc4 "Only through others")
+[Time](https://www.youtube.com/watch?v=gW2E9HP5mc4 "Only through others")

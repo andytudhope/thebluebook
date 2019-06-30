@@ -12,14 +12,14 @@ This site has nothing to do with publishers, or “the industry”, or “EvilCo
 
 “Books are proof that humanity is capable of magic”, Carl Sagan tells us, and yet if you are bound to thinking of books as just a bunch of pages stuck together this may sound profound, but not ring true with experience. While I love the smell and feel of physical books and am convinced by Sagan either way, I find no less wonder - or variety of expression, mutation and interpretation - in our genetic code, or the beautiful mathematical statements it discovered and the physical symmetries it keeps on finding. Books are more than what can be bound between a cover.
 
-Moreover, some books are perhaps better termed “language events” - in that they achieve a kind of singular communication which allows people who use the same language to relate with, and describe, their experience of consciousness more deeply than previously possible. Such singular books seem to recur throughout time, and are the [foundation of all myth](https://twitter.com/cryptowanderer/status/1126860487969447936). They are, in the words of Tolkien, the authors of **applicability** rather than allegory, and serve - like good fairy tales - as a door onto Other Time.
+Moreover, some books are perhaps better termed “language events” - in that they achieve a kind of singular communication which allows people who use the same language to relate with, and describe, their experience of consciousness more deeply than previously possible. Such singular books seem to recur throughout time, and are the [foundation of all myth](https://twitter.com/cryptowanderer/status/1126860487969447936). They are penned by, in the words of Tolkien, authors of **applicability** rather than allegory, and serve - like good fairy tales - as a door onto Other Time.
 
 What would such a book look like today? How would you render Middle Earth online?
 
 
 ## Open source
 
-The first problem the above thoughts present is that people need to speak “[the language of revelation](https://xkcd.com/224/)” (or whatever name you prefer) in order to _really get it_, and it helps a lot if they’re in the same cultural context as the author(s). The Quran is beautiful, there’s no two ways about it, but some of its deeper gems are only really accessible if you can decode information natively in Arabic and understand the culture and history within which it was written.
+The first problem the above thoughts present is that people need to speak “[the language of revelation](https://xkcd.com/224/)” (or whatever name you prefer) in order to _really get it_, and it helps a lot if they’re in the same cultural context as the author(s). The Quran is beautiful, there’s no two ways about it, but some of its deeper gems are only really accessible if you can decode information natively in Arabic, and understand in some detail the culture and history within which it was written.
 
 However, we now have access to many more languages than were available even fifty years ago, and a lot of these languages
 
@@ -27,7 +27,7 @@ However, we now have access to many more languages than were available even fift
 2. Render intelligently on your screen in human-readable ways (or are just [cascading linguistic structures](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) meant to ensure other information is styled correctly).
 3. Transport information in the background (somewhat) irrespective of the particular language you speak.
 
-There are also things literally called [libraries](https://www.i18next.com/) which help you translate at scale the parts that do depend on your particular language. For everything else, there's [the actual Library of Babel](http://libraryofbabel.info/). 
+There are also things literally called [libraries](https://www.i18next.com/) which help you translate at scale the parts that do depend on your particular language. For everything else, there's [the actual, digital Library of Babel](http://libraryofbabel.info/). 
 
 Books need to be alive to these sorts of possibilities. It’s not just about how many formats and e-publications you can put together, or the [grand marketing campaign](https://jsomers.net/DFW_TV.pdf). 
 
@@ -39,7 +39,7 @@ This open source framework must also render readable text on mobile phones (seei
 
 Not many “serious” authors are thinking about stuff like that...
 
-Anyway, I eventually just built this myself, and it seemed to work quite well. So I stripped my linguistic patterns and published it as an [empty template with instructions](https://github.com/andytudhope/proofoflove), given in [Fugue I](../fugue-i/), so that anyone can use it to build whatever they’d like and express their idea of love.
+Anyway, I eventually just built a first approximation myself, and it seemed to work quite well. So I stripped my linguistic patterns and published it as an [empty template with instructions](https://github.com/andytudhope/proofoflove), given in [Fugue I](../fugue-i/), so that anyone can use it to build whatever they’d like and express their idea of love.
 
 ## No more audiences
 
@@ -68,7 +68,7 @@ We can do even weirder things though, right? Each link can have a description, w
 
 The Blue Book's [source code awaits you here](https://github.com/andytudhope/thebluebook/tree/book/source/ "Dive in!"). Be sure to take the [grey pill](https://breakingsmart.substack.com/p/the-internet-is-one-big-grey-pill) if you find yourself disoriented.
 
-Links are an opportunity Leibniz never had. Take the “Society” link in _Who Are You?_ It refers to an Eddie Vedder song of the same name and explains a line in the poem - I really did sing that song to some stick art in a desert, with a friend playing a ukulele. However, it actually links to the version of the song from the soundtrack of the movie of the book “Into the Wild” by Jon Krakauer, and it’s description tag reads “Alexander Supertramp” - the name Christopher McCandless takes on in his travels. 
+Links are an opportunity Leibniz never had. Take the "Into the Wild" link in _Who Are You?_ It refers to an Eddie Vedder song called "Society" and explains a line in the poem - I really did sing that song to some stick art in a desert, with a friend playing a ukulele. However, it actually links to the version of the song from the soundtrack of the movie of the book “Into the Wild” by Jon Krakauer, and it’s description tag reads “Alexander Supertramp” - the name Christopher McCandless takes on in his travels. 
 
 One word; and a whole matrix of meaning comes with it.  I hope you enjoy finding and deciphering the many others in the book.
 
@@ -81,7 +81,7 @@ Two more important notes about links. Firstly: they can carry time. By adding a 
 
 But, by encoding time into the information I’ve collected to [share-alike](http://www.aaronsw.com/), I can hopefully direct people [where they need to go](https://www.youtube.com/watch?v=9vz06QO3UkQ "The internet's own boy"), as and when they need to go there. There’s no rush - you can just keep this book in a browser window of its own and watch it grow slowly as you remember to turn back to some trace that tracked to a tale of your own, knowing it will be [timed just right](../canto-v/timing.html).
 
-Secondly, you can do some really loopy stuff (in the Hofstadter sense). While it’s always great to have a lot of external links, sometimes even the most shy of us feel the need to reference ourselves. Luckily, I only succumbed to this need once, in a poem at the end of Canto XIII which talks about how I learn from my own poems, one by one, as I have to. It just so happens that the poem it felt best to link to, called “Start Again”, is at the beginning of Canto II, and so I could make a sneaky little snakes-and-ladders link which takes people who have slugged it out all the way to the end of thirteen of fourteen cantos right back to the start of the second one with the twitch of a finger…
+Secondly, you can do some really loopy stuff (in the Hofstadter sense). While it’s always great to have a lot of external links, sometimes even the most shy of us feel the need to reference ourselves. Luckily, I only succumbed to this need once, in a poem one from the end of Canto XIII which talks about our "all too human plight", dramatist that I am. It just so happens that there is one poem it felt best to link to, called “Start Again”, because it is about how I learn from my own poems, one by one, as I have to. Happily, "Start Again" is at the beginning of Canto II, and so I -by accident - I made a sneaky snakes-and-ladders link which takes people who have slugged it out all the way to the end of thirteen of fourteen cantos right back to the start of the second one with the twitch of a finger…
 
 Hopefully they’ll be as confused, exasperated, and exulting as me.
 
@@ -90,6 +90,6 @@ Hopefully they’ll be as confused, exasperated, and exulting as me.
 
 It’s been a [tonne of fun](https://www.youtube.com/watch?v=OkpdMKZBlP8 "Troy and Abed in the morning") building all this, slipping between different kinds of languages to craft something that I can drop into the flow of life. Something that can be replicated by others, and remixed into better versions more appropriate to their spaces and times.
 
-I know not all artists have the luxury to simply open source their work and be done with it. I know that this is not the way everyone can survive, so I think it would be interesting to give people something like "conditional crypto transfers" and set them loose building stuff they love so we can better train our world, and all the wor(l)ds of our imagination.
+I know not all artists have the luxury to simply open source their work and be done with it. I know that this is not the way everyone can survive, so I think it would be interesting to give people something like "conditional cryptocurrency transfers" and set them loose building stuff they love so we can better train our world, and all the wor(l)ds of our imagination.
 
 What words are left can be found in a [tangled web](../tangled-web/).

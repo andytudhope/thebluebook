@@ -34,6 +34,4 @@ you and I - castaway - miraculously.
 
 [Soul-friend](https://www.brainpickings.org/2015/08/12/anam-cara-john-o-donohue-soul-friend/)
 
-[When you really don't know](https://www.youtube.com/watch?v=nrnssha1sq8 "Watts Remixed")
-
 [In vino veritas](https://www.youtube.com/watch?v=i0h_uI-Dmb4 "How Richard Feynman drinks wine")
