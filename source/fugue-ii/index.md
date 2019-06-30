@@ -49,9 +49,7 @@ We could say that the context has changed, the signature expanded, the trace gro
 
 But, how to test this theory sensibly? While the best poems approach the condition of the best symphonies, it seems to me that _all_ poetry must contain a trace of music. And, I’m interested in hearing that. Really - what would the playlist for _Paradise Lost_ have been?
 
-Whenever I’m writing poetry, I’m not trying to capture some notable event, be it mundane or extraordinary - I want to render more accurately _the experience_. Often, such experiences happen while a song is a playing, or a song I stumbled over somehow expresses something similar to my own experiences. 
-
-I can’t answer the question about Milton, but I can [show you what the sound-trace for The Blue Book looks like](https://www.youtube.com/playlist?list=PL5ClmaG2tnPNgqWDBGCWAQxD0sYpbfPRK). And I can tell you that it’s mostly music, through no real intention of mine. I just read through all the poems and linked to the things of which they reminded me. It was only later that I realised how many went to YouTube, and thought about putting an ordered list there as another entry point to the book’s web.
+I can’t answer the question about Milton, but I can [show you what the sound-trace for The Blue Book looks like](https://www.youtube.com/playlist?list=PL5ClmaG2tnPNgqWDBGCWAQxD0sYpbfPRK). And I can tell you that it’s mostly music, through no real intention of mine. I just read through all the poems and linked to the things of which they reminded me. It was only later that I realised how many went to songs on YouTube, and thought about putting an ordered list there as another entry point to the book’s web.
 
 There's also a [GoodReads list](https://www.goodreads.com/review/list/98176865-andy-tudhope?utf8=%E2%9C%93&shelf=the-blue-book&utf8=%E2%9C%93&title=andy-tudhope&sort=date_pub&order=d&per_page=50) with the notable pieces of literature that are mentioned, or can be traced, through this book. Because bibliographies are, like, so 2000 and late.
 

@@ -36,6 +36,6 @@ still moving out to sea.
 
 #### TRACE
 
-[Same Parts, Same Heart](https://www.youtube.com/watch?v=hUOdnjPVirM "Matthew Mole")
+[Same parts, same heart](https://www.youtube.com/watch?v=hUOdnjPVirM "Matthew Mole")
 
-[Open For Play](https://www.youtube.com/watch?v=9yVOd9TXNks "Robbin Williams and Jonathan Winters")
+[Open for play](https://www.youtube.com/watch?v=9yVOd9TXNks "Robbin Williams and Jonathan Winters")
