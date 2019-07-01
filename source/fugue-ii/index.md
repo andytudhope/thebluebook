@@ -79,12 +79,28 @@ Two more important notes about links. Firstly: they can carry time. By adding a 
 
 But, by encoding time into the information I’ve collected to [share-alike](http://www.aaronsw.com/), I can hopefully direct people [where they need to go](https://www.youtube.com/watch?v=9vz06QO3UkQ "The internet's own boy"), as and when they need to go there. There’s no rush - you can just keep this book in a browser window of its own and watch it grow slowly as you remember to turn back to some trace that tracked to a tale of your own, knowing it will be [timed just right](../canto-v/timing.html).
 
-Secondly, you can do some really loopy stuff (in the Hofstadter sense). While it’s always great to have a lot of external links, sometimes even the most shy of us feel the need to reference ourselves. Luckily, I only succumbed to this need once, in a poem one from the end of Canto XIII which talks about our "all too human plight", dramatist that I am. It just so happens that there is one poem it felt best to link to, called “Start Again”, because it is about how I learn from my own poems, one by one, as I have to. Happily, "Start Again" is at the beginning of Canto II, and so I -by accident - I made a sneaky snakes-and-ladders link which takes people who have slugged it out all the way to the end of thirteen of fourteen cantos right back to the start of the second one with the twitch of a finger…
+Secondly, you can do some really loopy stuff (in the Hofstadter sense). While it’s always great to have a lot of external links, sometimes even the most shy of us feel the need to reference ourselves. Luckily, I only succumbed to this need once, in a poem one from the end of Canto XIII which talks about our "all too human plight", dramatist that I am. It just so happens that there is one poem it felt best to link to, called “Start Again”, because it is about how I learn from my own poems, one by one, as I have to. Happily, "Start Again" is at the beginning of Canto II, and so I - by accident - I made a sneaky snakes-and-ladders link which takes people who have slugged it out all the way to the end of thirteen of fourteen cantos right back to the start of the second one with the twitch of a finger…
 
 Hopefully they’ll be as confused, exasperated, and exulting as me.
 
 
 ## What to make of it all?
+
+What is love, to me? I've tried to leave as many different definitions lying around as I can because you should never trust a poet about his own work.
+
+My best "technical definition": any consciously unitive act.
+
+"Consciously" implies intentional and self-reflexive thought, because it is the very fact of thought and action airising mutually which gives any choice-enacted-in-the-world the appearance of unity.
+
+The Latin root of "religion" is _religio_, meaning an obligation or bond. It is that which binds us to God. The same is true for the Arabic word _dīn_, though it's meaning is more expansive and specifically transactional. A _hadith_ (saying of The Prophet) sometimes quoted in this regard is: "Trust in Allah and tether your camel."
+
+If the camel is understood as your ego and the tether as the limitations of being human, then roughly, this can be taken to mean we should BOTH exhibit responsibility for the world in which we can act (tie the camel up, because you know it will wander in the night and be difficult to find tomorrow) AND, once you've checked the knot, let go the binding meant for the-one-who-tethers. 
+
+In other words, don't - out of fear or attachment - bind the part of you which watches to what it sees: that most dear and vulnerable core of your heart you must leave entirely in the hands of Allah/the pattern/whatever you wish to call it.
+
+You may find yourself floating in empty space, by some strange grace still wrapped in the golden loop that leads to animate matter arising from inanimate potential.
+
+## So long, and thanks for all the fish
 
 It’s been a [tonne of fun](https://www.youtube.com/watch?v=OkpdMKZBlP8 "Troy and Abed in the morning") building all this, slipping between different kinds of languages to craft something that I can drop into the flow of life. Something that can be replicated by others, and remixed into better versions more appropriate to their spaces and times.
 
