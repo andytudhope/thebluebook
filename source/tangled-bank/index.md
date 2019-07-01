@@ -100,6 +100,12 @@ beloved on the earth.” — Raymond Carver
 
 “The aleph was about two to three centimeters in diameter, but all of cosmic space was there, with no diminution in size. Each thing was infinite, because I could clearly see it from every point on the universe” — Jorge Luis Borges
 
+“Since what else is a loop but a way of representing an endless process in a finite way?” — Douglas R. Hofstadter
+
+“Books are proof that humanity is capable of magic.” — Carl Sagan
+
+“Before Avery had established the connection between genes and DNA, the physicist Erwin Schrödinger predicted, on purely theoretical grounds, that genetic information would have to be stored in 'apreiodic crystals', in his influential book _What Is Life?_ In fact, books themselves are aperiodic crystals contained inside neat geometrical forms.” — Douglas R. Hofstadter
+
 “I have lots of things to teach you now, in case we ever meet, concerning the message that was transmitted to me under a pine tree in North Carolina on a cold winter moonlit night. It said that Nothing Ever Happened, so don’t worry. It’s all like a dream. Everything is ecstasy, inside. We just don’t know it because of our thinking-minds. But in our true blissful essence of mind it is known that everything is alright forever and forever and forever. Close your eyes, let your hands and nerve-ends drop, stop breathing for 3 seconds, listen to the silence inside the illusion of the world, and you will remember the lesson you forgot, which was taught in immense milky way soft cloud innumerable worlds long ago and not even at all. It is all one vast awakened thing. I call it the golden eternity. It is perfect.” — Jack Kerouac
 
 “For so far as we can know by natural Philosophy what is the first Cause; what Power he has over us, and what benefits we receive from him, so far our Duty toward him, as well as that toward one another, will appear to us by the Light of Nature. And no doubt, if the Worship of false Gods had not blinded the Heathen, their moral Philosophy would have gone farther than to the four Cardinal Virtues; and instead of teaching the Transmigration of Souls, and to worship the Sun and Moon, and dead Heroes, they would have taught us to worship our true Author and Benefactor, as their Ancestors did under the Government of Noah and his Sons before they corrupted themselves.” — Isaac Newton
@@ -159,6 +165,8 @@ In some divine eternity” — Oscar Wilde
 “So much of what you had experienced you said, would be counted as sheer lunacy that if it were published you would lose out altogether not only as a scientist, but as a human being, but not I said if you went at it from the _Dichtung and Warheit_ angle, then people could make their own selection as to which was which […] Yes, you said, it was something like that. Perhaps it cannot yet be done. As you talked I grew more and more aware of the immeasurability of the ideas which were filling you. You said they had the shadow of eternity upon them and I could feel the truth of it […] because [The Red Book](https://www.goodreads.com/book/show/6454477-the-red-book) told of a battle between the world of reality and the world of the spirit. You said in that battle you had very nearly been torn asunder but that you had managed to keep your feet on the earth and make an effect on reality. That you said for you was the test of any idea, and that you had no respect for any ideas however winged that had to exist off in space and were unable to make an impression on reality” — Cary Fink to C. G. Jung
 
 “Poets and beggars, musicians and prophets, warriors and scoundrels, all creatures of that unbridled reality, we have had to ask but little of imagination, for our crucial problem has been a lack of conventional means to render our lives believable. This, my friends, is the crux of our solitude.” — Gabriel Garcia Marquez
+
+“To confront the apparent contradiction, to savor it, to turn it over, to take it apart, to wallow in it, so that in the end the reader might emerge with new insights into the seemingly unbreachable gulf between the formal and the informal, the animate and the inanimate, the flexible and the inflexible” — Douglas R. Hofstadter
 
 “No sooner am I alone than shapes of epic greatness are stationed around me, and serve my Spirit the office which is equivalent to a King’s body guard… I melt into the air with a voluptuousness so delicate that I am content to be alone… I have written this that you might see I have my share of the highest pleasures and that though I may choose to pass my days alone I shall be no Solitary… I am as happy as a Man can be… with the yearning Passion I have for the beautiful, connected and made one with the ambition of my intellect […] Some think me middling, others silly, others foolish — every one thinks he sees my weak side against my will; when in truth it is with my will — I am content to be thought all this because I have in my own breast so great a resource.” — John Keats
 
@@ -287,6 +295,8 @@ and work is to raise us up.” — Cyprian Norwid
 
 “It is an anayltical story; a story designed to deliberately break down the barriers of the obvious in order to reveal new possibilities of understanding and action.” — Njabulo S. Ndebele
 
+“Consistency is not a property of a formal system per se, but depends on the interpretation which is proposed for it [...] Suitably complicated recursive systems might be strong enough to break out of any predetermined patterns.” — Douglas R. Hofstadter
+
 “Finally, let us return to Turing’s original contribution. The Universal Machine was, and remains, a crucial device for making our thinking about computation sharp, and allowing, for the first time in history, precise mathematical results on the power and limitations of what is computable. But there is a further question. Can there be a similar universal format for the behavior produced by social computation in the sense of this paper? We still lack a ‘new Turing’, but my guess is that the answer will come in the form of an abstract conceptual analysis of what it really means to be a game – beyond the details of current game theory.” — [Johann van Benthem](https://www.illc.uva.nl/Research/Publications/Reports/PP-2013-03.text.pdf)
 
 “That is precisely the biochemical picture we now have of the living system: compartments, micro-compartments and micro-domains, right down to molecular machines, each functioning autonomously, doing very different things at their own rates, generating flow patterns and cycles of different spatial extensions, yet all coupled together, syncopating and harmonising in complex rhythms, a veritable quantum jazz of life” — Mae-Won Ho
@@ -308,6 +318,8 @@ the only life you could save.” — Mary Oliver
 
 “Life is as infinitely great and profound as the immensity of the stars above us. One can only look at it through the narrow keyhole of one’s personal existence. But through it one perceives more than one can see. So above all one must keep the keyhole clean.” — Franz Kafka
 
+“But if there is a defect anywhere, it is not in _them_, but in your expectations of what they should be able to do!” — Douglas R. Hofstadter
+
 “I turned again to the child, the ugliest but the latest and therefore, biologically, the most advanced human being on earth. What did he know? It is our knowledge — the things we are sure of — that makes the world go wrong and keeps us from seeing and learning from God’s everyday revelations of the truth. This “knowledge and belief” that is so false and so impious is said to be inborn. Is it? I asked my new-born baby boy and he answered; and his answer is the best news I, a veteran reporter, have ever had to report […] I can afford to let the mother, with her brains, provide the science and the business side of my child’s up-bringing; I, the father, will furnish the love (which women call “spoiling”), the art, the sport, the doubt divine. She can impart knowledge, I the highly cultivated ignorance. As I explained to Pete one day when we lay back bloated and contemplative after a deep feed of mother’s milk, his dear mamma will make of him a strong, knowing, successful man, I will leave him a fine fellow, who, whether he is a poet or a politician, a businessman, a reporter or a lounge lizard, can play the game and win, without believing in it or in his own lies: a humorous man of the world, a true prophet of the beautiful life to come on this earth and, perhaps, if he is good, the father of a girl baby.” — Lincoln Steffens
 
 “Our several senses, which feel so personal and impromptu, and seem at times to divorce us from other people, reach far beyond us. They’re an extension of the genetic chain that connects us to everyone who has ever lived; they bind us to other people and to animals, across time and country and happenstance. They bridge the personal and the impersonal, the one private soul with its many relatives, the individual with the universe, all of life on Earth. In REM sleep, our brain waves range between eight and thirteen hertz, a frequency at which flickering light can trigger epileptic seizures. The tremulous earth quivers gently at around ten hertz. So, in our deepest sleep, we enter synchrony with the trembling of the earth. Dreaming, we become the Earth’s dream.” — Diane Ackerman
@@ -328,6 +340,7 @@ Love gambles away every gift God bestows.
 Without cause God gave us Being;
 without cause, give it back again.” — Rumi
 
+“The fact that truth transcends theoremhood, in any given formal system, is called the 'incompleteness' of that system.” — Douglas R. Hofstadter
 
 “The _Turkish Tales_, I believe, contain the essence of what I believe is universal in the art of narrative.”— Njabulo S. Ndebele
 
@@ -805,5 +818,7 @@ And no one exists alone;
 Hunger allows no choice
 To the citizen or the police;
 We must love one another or die.” — W. H. Auden
+
+“Reqviescat in constantia, ergo, repræsentatio cvpidi avtoris religionis” — Douglas R. Hofstadter (They rest in their consistency, in all, therefore, the representation of the interests of the author of religion)
 
 “Finally, there must be an accompanying change of discourse from the rhetoric of oppression to that of process and exploration. This would imply an open-endedness in the use of language, a search for originality of expression and a senstitivty to dialogue [...] The aim is to extend the range of personal and social experience as far as possible in order to contribute to bringing about a highly conscious, sensistive new person in a new society. This, it seems to me, is the function of art in, and its contribution to, the ongoing revolution in South Africa.” — Njabulo S. Ndebele
