@@ -5,7 +5,7 @@ title: Chicken Soup
 
 # Chicken Soup
 
-I made this in a week, while walking
+I made it in a week, while walking
 the random ways
 between,
 slurping chicken soup for a soul.

@@ -27,7 +27,7 @@ Moreover, revolutions in publishing and disseminating text have also resulted in
 
 >"Books are our cultural record" — [Aaron Swartz](https://www.youtube.com/watch?v=yToh1PoYb6k&t=80 "Your theme song, wali")
 
-So, what if we could make it easier for people to publish digitally-native books, made by and born on the internet, as a means of spreading patterns of knowledge that can be used to tweak the automated algorithms we're building so that they can help bring us together and show us what really connects?
+So, what if we could make it easier for people to publish digitally-native books, made by and born on the internet, as a means of spreading patterns of knowledge that can be used to tweak our automated algorithms so that they can help bring us together and show us what really connects?
 
 What if the pattern of mind books have always carried, that particular piece of captured soul that can travel across time, could be literalised and fed to the machines we are building to augment our memories and imagine delightfully different ways of being?
 

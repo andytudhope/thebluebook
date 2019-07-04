@@ -21,13 +21,13 @@ more like starlight than scales.
 I know these two well, 
 have seen them with me everywhere, 
 in meadows, churches, quiet garden lots; 
-places where the sky goes on indefinitely, 
+places where the sky goes on forever, 
 or where the seas meet and twirl 
 a whitewind tango way out past forever;
 places where there is no sky at all, 
 just darkness and the hint 
-of an ancient elephant before whom
-Naledi gathered to bury her dead.
+of an ancient elephant
+Naledi gathered by to bury the dead.
 
 Before whom I fell last night 
 and scraped my knee,

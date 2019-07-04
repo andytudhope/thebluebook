@@ -43,4 +43,4 @@ we finally came home.
 
 [I follow](https://www.youtube.com/watch?v=vk31Zpi72e0 "Bongeziwe Mabandla")
 
-[good conversation](https://www.youtube.com/watch?v=CCYw0QVoB_U "Paul Myburgh").
+[good conversation](https://www.youtube.com/watch?v=CCYw0QVoB_U "Paul Myburgh")

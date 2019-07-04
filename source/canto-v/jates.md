@@ -13,7 +13,7 @@ to the places we will be from,
 those old places you showed us 
 beneath endless stars
 and so many neighbouring eternities,
-as if we all belonged to each other 
+as if we all belong to each other 
 in some boundless and beckoning uncertainty,
 something you can only sense on this beach
 as I walk out into the cold water 
@@ -23,7 +23,7 @@ when your great heart burst into light,
 broke to beat no more and beat forever 
 on further shores than thought can find,
 where barefoot seekers dance 
-for sand mussels where you showed us,
+for sand mussels like you showed us,
 right between the tides and 
 all this time.
 
