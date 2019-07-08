@@ -45,7 +45,7 @@ Anyway, I eventually just built a first approximation myself, and it seemed to w
 
 Books of today must be better able to represent the dynamic media their authors are increasingly connected to, more or less constantly. We exist within webs of influence, both digital and physical, and [all the wired places between](https://www.wired.com/1996/12/ffglass/). Our communication needs to reflect this more accurately. A simple fact: you cannot embed Shane Koyczan or Ursula le Guin or Leonard Bernstein into the frontispiece of a printed chapter of poetry. “Embed” has an entirely different meaning.
 
-We could say that the context has changed, the signature expanded, the trace grown. Ever since I spent a good deal of time deciphering Jacques Derrida’s _Signature, Event, Context_, I’ve been a little obsessed with it. Possessed, some might say. While merrily deconstructing everything - [vive la révolution](https://youtu.be/gpDbvlAI_A0?t=100) - he goes on at some length about [traces](https://twitter.com/cryptowanderer/status/1134017760466481153) and _differánce_. It's a little dry, but I’ve always thought that - at [one layer further up the abstraction](http://worrydream.com/LadderOfAbstraction/) - the trace of poetry, in general, has to be music.
+We could say that the context has changed, the signature expanded, the trace grown. Ever since I spent a good deal of time deciphering Jacques Derrida’s _Signature, Event, Context_, I’ve been a little obsessed with it. While merrily deconstructing everything - [vive la révolution](https://youtu.be/gpDbvlAI_A0?t=100) - he goes on at some length about [traces](https://twitter.com/cryptowanderer/status/1134017760466481153) and _differánce_. It's a little dry, but I’ve always thought that - at [one layer further up the abstraction](http://worrydream.com/LadderOfAbstraction/) - the trace of poetry, in general, has to be music.
 
 But, how to test this theory sensibly? While the best poems approach the condition of the best symphonies, it seems to me that _all_ poetry must contain a trace of music. And, I’m interested in hearing that. Really - what would the playlist for _Paradise Lost_ have been?
 
@@ -75,7 +75,7 @@ One word; and a whole matrix of meaning comes with it.  I hope you enjoy finding
 
 ## Encoding time
 
-Two more important notes about links. Firstly: they can carry time. By adding a simple query string to the end of the URLs that compose the work, I can pass time information along with content. I can be conscious of the amount of attention each link I add requires from any reader. This goes to the heart of producing a digitally-native book. People’s attention spans online are probably just not long enough to go through fourteen cantos and some added blues in their browser.
+Two more important notes about links. Firstly: they can carry time. By adding a simple query string to the end of the URLs that compose the work, I can pass time information along with content. I can be conscious of the amount of attention each link I add requires from any reader. This goes to the heart of producing a digitally-native book. People’s attention spans online are probably just not long enough to go through fourteen cantos, some blues and four haikus in their browser.
 
 But, by encoding time into the information I’ve collected to [share-alike](http://www.aaronsw.com/), I can hopefully direct people [where they need to go](https://www.youtube.com/watch?v=9vz06QO3UkQ "The internet's own boy"), as and when they need to go there. There’s no rush - you can just keep this book in a browser window of its own and watch it grow slowly as you remember to turn back to some trace that tracked to a tale of your own, knowing it will be [timed just right](../canto-v/timing.html).
 
@@ -90,7 +90,7 @@ What is love, to me? I've tried to leave as many different definitions lying aro
 
 My best "technical definition": any consciously unitive act.
 
-"Consciously" implies intentional and self-reflexive thought, because it is the very fact of thought and action airising mutually which gives any choice-enacted-in-the-world the appearance of unity.
+"Consciously" implies intentional and self-reflexive thought, because it is the very fact of thought and action airising mutually which gives any choice-enacted-in-the-world the appearance of unity. In other words, consciousness is what binds thought and action, and love is its religious practice.
 
 The Latin root of "religion" is _religio_, meaning an obligation or bond. It is that which binds us to God. The same is true for the Arabic word _dīn_, though it's meaning is more expansive and specifically transactional. A _hadith_ (saying of The Prophet) sometimes quoted in this regard is: "Trust in Allah and tether your camel."
 
@@ -106,4 +106,4 @@ It’s been a [tonne of fun](https://www.youtube.com/watch?v=OkpdMKZBlP8 "Troy a
 
 I know not all artists have the luxury to simply open source their work and be done with it. I know that this is not the way everyone can survive, so I think it would be interesting to give people something like "conditional cryptocurrency transfers" and set them loose building stuff they love so we can better train our world, and all the wor(l)ds of our imagination.
 
-What words are left can be found in a [tangled web](../tangled-web/).
+What words are left can be found in a [tangled bank](../tangled-bank/).

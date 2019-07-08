@@ -5,6 +5,8 @@ title: Fugue I
 
 >“Regis Iussu Cantio Et Reliqua Canonica Arte Refolula”
 
+{% iframe https://www.youtube.com/embed/3QtklTXbKUQ?start=555 800 550 %}
+
 ## RTFM
 
 Why?
@@ -17,11 +19,11 @@ One trace I want to follow explicitly is hidden deep in the tangled bank: that o
 
 ## Social computation
 
-Honestly, the rest of the paper is a little technical for me, but that one question stuck with me: 
+Honestly, the rest of the paper is a little technical for me, but that last sentence stuck with me: 
 
-`Can there be a similar universal format for the behavior produced by social computation?`
+`an abstract conceptual analysis of what it really means to be a game – beyond the details of current game theory.`
 
-Johann actually focusses on games more than literature which, though appropriate for our times, is not in line with my own interests. Either way, I think that books are the original MMORPG games, and have been being played since at least the invention of the [playdough protocols](https://nakamotoinstitute.org/the-playdough-protocols/).
+Johann actually focusses on computer games more than literature which, though appropriate for our times, is not in line with my own interests. Either way, I think that books are the original MMORPG games, and have been being played since at least the invention of the [playdough protocols](https://nakamotoinstitute.org/the-playdough-protocols/).
 
 Moreover, revolutions in publishing and disseminating text have also resulted in revolutions of wider social consciousness, which means books are also - in a very literal way - the original forms of social computation that memes have been using to build the [Seventh Kingdom](https://www.youtube.com/watch?v=TfkRZWFHpss "See also https://techgnosis.com/shots-of-awe-interview/").
 
@@ -31,7 +33,7 @@ So, what if we could make it easier for people to publish digitally-native books
 
 What if the pattern of mind books have always carried, that particular piece of captured soul that can travel across time, could be literalised and fed to the machines we are building to augment our memories and imagine delightfully different ways of being?
 
-What if everyone could easily build something about what they love? What happens if we open source the language(s) they used to create it? 
+What if everyone could easily build something about what they love? What happens if we open source the language(s) they use to create it? 
 
 **It's a critical point**: I'm not suggesting that this particular book is anything like the works it references and tries to imitate, what I am actually interested in is the experiment itself, and the theological question it raises, 
 
@@ -51,9 +53,9 @@ Strange, isn't it, how the significance of words is constantly slipping?
 
 ## No, really, it's all about the sidebar!
 
-A key feature of a digital book must be that it's easy to _navigate_, no matter what device you're using. Which means that you need to have a clear and navigable structure that works for anyone, no matter the screen they use to read your book. And that means you need to have the ability to nest sections within chapters, and control the way links are created so that it all makes at least some common sense irrespective of the perspective it's seen through. To get to some poem in Canto XIII, you need simply [look](https://github.com/andytudhope/thebluebook/tree/book/source/fugue-i/index.md#L54) at the [url](../canto-xiii/exposure.html), and the nested sidebar works on both desktop and mobile screens with some nifty javascript and cascading style sheets. 
+A key feature of a digital book must be that it's easy to _navigate_, no matter what device you're using. Which means that you need to have a clear and navigable structure that works for anyone, no matter the screen they use to read your book. And that means you need to have the ability to nest sections within chapters, and control the way links are created so that it all makes at least some common sense irrespective of the perspective it's seen through. To get to some poem in Canto XIII, you need simply [look](https://github.com/andytudhope/thebluebook/tree/book/source/fugue-i/index.md#L56) at the [url](../canto-xiii/exposure.html), and the nested sidebar works on both desktop and mobile screens with some nifty javascript and cascading style sheets. 
 
-Such a structure also means people can share specific bits of your book easily with others. I cannot link you directly to a section of Ulysses that I thought particularly mind-bending, but someone can point to [the source of this very sentence](https://github.com/andytudhope/thebluebook/tree/book/source/fugue-i/index.md#L56) and share that with their friends, if they so choose.
+Such a structure also means people can share specific bits of your book easily with others. I cannot link you directly to a section of Ulysses that I thought particularly mind-bending, but someone can point to [the source of this very sentence](https://github.com/andytudhope/thebluebook/tree/book/source/fugue-i/index.md#L58) and share that with their friends, if they so choose.
 
 ## The long and the short of it
 
@@ -61,8 +63,8 @@ I built my own framework by adapting one I helped build for a community called [
 
 **Dependencies**
 
-1. Try get a Linux machine. I haven't tested this anywhere else. Mac should work fine, but Windows might be a problem ([OS](https://www.youtube.com/watch?v=4vW62KqKJ5A "Revolution!") with [training wheels](https://github.com/andytudhope/APerspectiveonTechnologyA) that it is).
-2. Download a good "code" editor. I use - wtih [tongue in cheek](https://www.reddit.com/r/QuotesPorn/comments/3i7e2v/do_i_contradict_myself_walt_whitman_1680x1050_oc/) after the OS video link - [VSCode](https://code.visualstudio.com/download); but Atom, Sublime, or even NoteBook++ will do, depending on if you already have a preference.
+1. Try get a Linux machine. I haven't tested this anywhere else. Mac should work fine, but Windows might be a problem ([OS](https://www.youtube.com/watch?v=4vW62KqKJ5A "Revolution!") with [training wheels](https://github.com/andytudhope/APerspectiveonTechnology) that it is).
+2. Download a good code editor. I use - wtih [tongue in cheek](https://www.reddit.com/r/QuotesPorn/comments/3i7e2v/do_i_contradict_myself_walt_whitman_1680x1050_oc/) after the OS video link - [VSCode](https://code.visualstudio.com/download); but Atom, Sublime, or even NoteBook++ will do, depending on if you already have a preference.
 3. Once that is set up, install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and sign up on [GitHub](https://github.com) if you don't already have an account there.
 4. Then install Node and NPM (the Node Package Manager). The easiest way to do this, imo, is through [nvm](https://github.com/nvm-sh/nvm).
 

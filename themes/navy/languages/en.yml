@@ -11,8 +11,8 @@ sidebar:
     index: Canto I
     xam: Xam
     espera: Espera
-    iqra: Iqra
     bedien: Bedien
+    iqra: Iqra'
     tir-nan-nog: Tír na nÓg
     who-are-you: Who Are You?
     moth-light: Moth Light
@@ -102,14 +102,14 @@ sidebar:
     funereal: Funereal
     program-me: Program Me
     slow-dance: Slow Dance
-    lupa: Lupa
     beacons: Beacons
+    lupa: Lupa
   
   canto-xi: 
     index: Canto XI
-    fountain: Perennial Stream
     baqa: Baqāʾ
     fana: Fanāʾ
+    perennial-stream: Perennial Stream
   
   canto-xii: 
     index: Canto XII
@@ -129,13 +129,12 @@ sidebar:
   
   canto-xiv: 
     index: Canto XIV
-    consonant: Consonant
     lullaby: Lullaby
+    consonant: Consonant
     it-becomes-you: It Becomes You
     be-again: Be Again
     pebbles: Pebbles
     pattern: Pattern
-    chicken-soup: Chicken Soup
     l-chaim: L'Chaim
   
   the-buddha-blues: 

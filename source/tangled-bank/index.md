@@ -18,8 +18,6 @@ I belong to the beloved” — Rumi
 
 “I have always imagined that Paradise will be a kind of library.” — Jorge Luis Borges
 
-{% iframe https://www.youtube.com/embed/rwvCEWWWt7Q 800 550 %}
-
 “child
 if you stop weeping, you may see
 because that is how knowledge begins” — Mongane Wally Serote
@@ -104,7 +102,7 @@ beloved on the earth.” — Raymond Carver
 
 “Books are proof that humanity is capable of magic.” — Carl Sagan
 
-“Before Avery had established the connection between genes and DNA, the physicist Erwin Schrödinger predicted, on purely theoretical grounds, that genetic information would have to be stored in 'apreiodic crystals', in his influential book _What Is Life?_ In fact, books themselves are aperiodic crystals contained inside neat geometrical forms.” — Douglas R. Hofstadter
+“Before Avery had established the connection between genes and DNA, the physicist Erwin Schrödinger predicted, on purely theoretical grounds, that genetic information would have to be stored in 'aperiodic crystals', in his influential book _What Is Life?_ In fact, books themselves are aperiodic crystals contained inside neat geometrical forms.” — Douglas R. Hofstadter
 
 “I have lots of things to teach you now, in case we ever meet, concerning the message that was transmitted to me under a pine tree in North Carolina on a cold winter moonlit night. It said that Nothing Ever Happened, so don’t worry. It’s all like a dream. Everything is ecstasy, inside. We just don’t know it because of our thinking-minds. But in our true blissful essence of mind it is known that everything is alright forever and forever and forever. Close your eyes, let your hands and nerve-ends drop, stop breathing for 3 seconds, listen to the silence inside the illusion of the world, and you will remember the lesson you forgot, which was taught in immense milky way soft cloud innumerable worlds long ago and not even at all. It is all one vast awakened thing. I call it the golden eternity. It is perfect.” — Jack Kerouac
 

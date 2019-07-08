@@ -28,7 +28,7 @@ forever.
 
 I gathered your face in my hands 
 and kissed you
-and said, _just like this_,
+and said, _like this_,
 whispering the secret 
 against your neck
 in a language you cannot hear 

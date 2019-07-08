@@ -50,8 +50,10 @@ another remembrance of god.
 
 #### TRACE
 
+[Old heart](https://www.youtube.com/watch?v=rwvCEWWWt7Q "The Oh Hellos")
+
+[Eyona Indala](https://vimeo.com/104907983)
+
 [Beams](https://www.goodreads.com/book/show/830737.Beams_of_Illumination_from_the_Divine_Revelation "Be carefull with this!")
 
 [Elogio de la Nada](https://salamancartvaldia.es/not/165067/elogio-de-la-nada/)
-
-[Eyona Indala](https://vimeo.com/104907983)

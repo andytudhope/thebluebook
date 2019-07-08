@@ -39,6 +39,6 @@ the freedom of salt and singing life.
 
 #### TRACES
 
-[This pride is not rancor quad même](https://www.brainpickings.org/2015/06/08/dostoyevsky-george-sand/ "Duphin Sand")
+[This pride is not rancor quad même](https://www.brainpickings.org/2015/06/08/dostoyevsky-george-sand/ "Dupin Sand")
 
 [Face fear to feel it](https://www.youtube.com/watch?v=1wJxAuduE_E "VV Brown")

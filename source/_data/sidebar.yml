@@ -3,8 +3,8 @@ book:
     canto-i: / (Canto I)
     xam: xam.html
     espera: espera.html
-    iqra: iqra.html
     bedien: bedien.html
+    iqra: iqra.html (Iqra')
     tir-nan-nog: tir-na-nog.html (Tír na nÓg)
     who-are-you: who-are-you.html (Who Are You?)
     moth-light: moth-light.html (Moth Light)
@@ -85,13 +85,13 @@ book:
     funereal: funereal.html
     program-me: program-me.html (Program Me)
     slow-dance: slow-dance.html (Slow Dance)
-    lupa: lupa.html
     beacons: beacons.html
+    lupa: lupa.html
   canto-xi:
     canto-xi: / (Canto XI)
-    perennial-stream: perennial-stream.html (Perennial Stream)
     fana: fana.html (Fanāʾ)
     baqa: baqa.html (Baqāʾ)
+    perennial-stream: perennial-stream.html (Perennial Stream)
   canto-xii:
     canto-xii: / (Canto XII)
     spring: spring.html
@@ -108,13 +108,12 @@ book:
     mars-and-the-moon: mars-and-the-mmon.html (Mars And The Moon)
   canto-xiv:
     canto-xiv: / (Canto XIV)
-    consonant: consonant.html
     lullaby: lullaby.html
+    consonant: consonant.html
     it-becomes-you: it-becomes-you.html (It Becomes You)
     be-again: be-again.html (Be Again)
     pebbles: pebbles.html
     pattern: pattern.html
-    chicken-soup: chicken-soup.html (Chicken Soup)
     l-chaim: l-chaim.html (L'Chaim)
   buddha-blues:
     buddha-blues: / (Buddha Blues)

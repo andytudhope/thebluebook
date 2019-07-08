@@ -37,7 +37,7 @@ from under the shade,
 seeing it for what it is,
 no longer able to hide beneath
 that which the sun itself
-has created:
+has created?
 
 Light becomes wood;
 wood, paper;

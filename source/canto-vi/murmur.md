@@ -12,7 +12,7 @@ sky were silently pointing to a space
 between two mountains
 where pinkred sounds resound
 once we have turned, rising,
-past it's direct rays
+past its direct rays
 into stilted tense which looped
 back to find an eagle
 and some strange pigeon

@@ -43,6 +43,6 @@ to feel how you love.
 
 #### TRACE
 
-[Put it in a proper book, boy!](https://www.youtube.com/watch?v=cTVpoT82toY "Scrubs & Peter Gabriel")
+[The Book](https://www.youtube.com/watch?v=cTVpoT82toY "Scrubs & Peter Gabriel")
 
-[The First Stories](http://www.nb.co.za/Books/19525)
+Has many [storytellers](http://www.nb.co.za/Books/19525)
