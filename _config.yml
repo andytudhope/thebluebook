@@ -12,8 +12,8 @@ permalink_defaults:
   lang: en
 i18n_dir: :lang
 
-url: https://thebluebook.co.za/
-root: /
+url: https://andytudhope.github.io/
+root: /proofoflove/
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
 code_dir: downloads/code

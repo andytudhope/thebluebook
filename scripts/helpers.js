@@ -30,16 +30,16 @@ hexo.extend.helper.register('sidebar', function(type) {
         title = generateSidebarTitle(menu[category]);
       }
       if(category == 'tangled-bank'){
-        result += '<li class="'+ checkIfActive(path, category+'/') +'"><a href="/'+ category + '/index.html">' + title + '</a>';
+        result += '<li class="'+ checkIfActive(path, category+'/') +'"><a href="/proofoflove/'+ category + '/index.html">' + title + '</a>';
       }else{
-        result += '<li class="'+ checkIfActive(path, category+'/') +'"><a href="/'+ category + '/">' + title + '</a>';
+        result += '<li class="'+ checkIfActive(path, category+'/') +'"><a href="/proofoflove/'+ category + '/">' + title + '</a>';
       }
       if(typeof menu == 'object'){
           result += '<ul class="sidebar-submenu">';
           _.each(menu, function(title, link) {
               if(menu[category] != title){
                 var href = '';
-                href = '/'+ category +'/'+ link +'.html';
+                href = '/proofoflove/'+ category +'/'+ link +'.html';
                 if(title.startsWith("..")){
                   href = title.replace("..","");
                   href = href.substring(0, href.indexOf(' '));
