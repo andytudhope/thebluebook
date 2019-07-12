@@ -10,20 +10,10 @@ lighthouse of a living race,
 and watched the world tumble
 all about them.
 
-Who came from a cut in Morningside
-in the middle of August
-and wandered from Egoli
-to the Wild Coast for love.
-
 Who found a way to forgive 
 himself for the role she played,
 figured out how to give
 his whole heart back.
-
-Who could not kill the dream,
-for it seemed, somehow,
-more dramatic
-to dance again with death.
 
 Who traced herself through time
 to a tune made up of every human 
@@ -44,6 +34,11 @@ Who sat with an old friend now found,
 strumming Eddie Vedder to some sticks
 destined for divine reality
 and cried their heart to this true sky.
+
+Who could not kill the dream,
+for it seemed, somehow,
+more dramatic
+to dance again with death.
 
 Who looked that lion in the eye,
 and knew complete terror:
