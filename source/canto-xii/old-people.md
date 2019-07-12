@@ -34,5 +34,3 @@ and the wonders of our soul.
 #### TRACE
 
 [Trapeze Swinger](https://www.youtube.com/watch?v=USom8PhOXgs "Gregory Alan Isakov")
-
-[Source?](https://www.youtube.com/watch?v=-Pl4ELdieIk "Terrence McKenna")

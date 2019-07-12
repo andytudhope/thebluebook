@@ -5,105 +5,152 @@ title: Fugue II
 
 >“Regis Iussu Cantio Et Reliqua Canonica Arte Refolula”
 
+{% iframe https://www.youtube.com/embed/3QtklTXbKUQ?start=555 800 550 %}
 
-## Strange loops building
+## RTFM
 
-This site has nothing to do with publishers, or “the industry”, or “EvilCorp”, or any in-born aversion to using more “traditional channels” to get a book before people’s eyes. After a winter in England spent studying The Book as Object, the real problem is knowing that books, rightly seen, have always been the cutting edge when it comes to technologies of [communication](http://lab404.com/misc/ltdinc.pdf).
+Why?
 
-“Books are proof that humanity is capable of magic”, Carl Sagan tells us, and yet if you are bound to thinking of books as just a bunch of pages stuck together this may sound profound, but not ring true with experience. While I love the smell and feel of physical books and am convinced by Sagan either way, I find no less wonder - or variety of expression, mutation and interpretation - in our genetic code, or the beautiful mathematical statements it discovered and the physical symmetries it keeps on finding. Books are more than what can be bound between a cover.
+Well, there are many rabbit holes to fall up, Alice. If you really pay attention, you can watch this one site [grow into many others](http://ada.evergreen.edu/~arunc/brun/paradigms.html), follow its traces all across the great digital face in which we all partake.
 
-Moreover, some books are perhaps better termed “language events” - in that they achieve a kind of singular communication which allows people who use the same language to relate with, and describe, their experience of consciousness more deeply than previously possible. Such singular books seem to recur throughout time, and are the [foundation of all myth](https://twitter.com/cryptowanderer/status/1126860487969447936). They are penned by, in the words of Tolkien, authors of **applicability** rather than allegory, and serve - like good fairy tales - as a door onto Other Time.
+One trace I want to follow explicitly is hidden deep in the tangled bank: that of _social computation_. If you look hard enough, you'll find a link to someone called [Johann van Benthem](https://www.illc.uva.nl/Research/Publications/Reports/PP-2013-03.text.pdf), who wrote a paper between Amsterdam and Stanford. He says this:
 
-What would such a book look like today? How would you render Middle Earth online?
+> “Finally, let us return to Turing’s original contribution. The Universal Machine was, and remains, a crucial device for making our thinking about computation sharp, and allowing, for the first time in history, precise mathematical results on the power and limitations of what is computable. But there is a further question. Can there be a similar universal format for the behavior produced by social computation in the sense of this paper? We still lack a ‘new Turing’, but my guess is that the answer will come in the form of an abstract conceptual analysis of what it really means to be a game – beyond the details of current game theory.”
 
+## Social computation
 
-## Open source
+Honestly, the rest of the paper is a little technical for me, but that last sentence stuck with me: 
 
-The first problem the above thoughts present is that people need to speak “[the language of revelation](https://xkcd.com/224/)” (or whatever name you prefer) in order to _really get it_, and it helps a lot if they’re in the same cultural context as the author(s). The Quran is beautiful, there’s no two ways about it, but some of its deeper gems are only really accessible if you can decode information natively in Arabic, and understand in some detail the culture and history within which it was written.
+`an abstract conceptual analysis of what it really means to be a game – beyond the details of current game theory.`
 
-However, we now have access to many more languages than were available even fifty years ago, and a lot of these languages
+Johann actually focusses on computer games more than literature which, though appropriate for our times, is not in line with my own interests. Either way, I think that books are the original MMORPG games, and have been being played since at least the invention of the [playdough protocols](https://nakamotoinstitute.org/the-playdough-protocols/).
 
-1. Compile down to something common.
-2. Render intelligently on your screen in human-readable ways (or are just [cascading linguistic structures](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) meant to ensure other information is styled correctly).
-3. Transport information in the background (somewhat) irrespective of the particular language you speak.
+Moreover, revolutions in publishing and disseminating text have also resulted in revolutions of wider social consciousness, which means books are also - in a very literal way - the original forms of social computation that memes have been using to build the [Seventh Kingdom](https://www.youtube.com/watch?v=TfkRZWFHpss "See also https://techgnosis.com/shots-of-awe-interview/").
 
-There are also things literally called [libraries](https://www.i18next.com/) which help you translate at scale the parts that do depend on your particular language. For everything else, there's [the actual, digital Library of Babel](http://libraryofbabel.info/). 
+>"Books are our cultural record" — [Aaron Swartz](https://www.youtube.com/watch?v=yToh1PoYb6k&t=80 "Your theme song, wali")
 
-Books need to be alive to these sorts of possibilities. It’s not just about how many formats and e-publications you can put together, or the [grand marketing campaign](https://jsomers.net/DFW_TV.pdf). 
+So, what if we could make it easier for people to publish digitally-native books, made by and born on the internet, as a means of spreading patterns of knowledge that can be used to tweak our automated algorithms so that they can help bring us together and show us what really connects?
 
-I dream of digitally-native books that grow through your browser as you read them. Books that [alter your algorithms](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) as you experience them. Books that carry literal patterns through the network which readers can use to train automated machinery to produce better outputs, if they so choose. I dream, like [Engelbart](https://www.youtube.com/watch?v=fhEh3tEL1V4 "The Mother of All Demos"), of dynamic repositories of knowledge and cooperative computing at scales never before imagined.
+What if the pattern of mind books have always carried, that particular piece of captured soul that can travel across time, could be literalised and fed to the machines we are building to augment our memories and imagine delightfully different ways of being?
 
-Moreover, it can’t be done on some kind of closed platform that could take it away on a whim, or simply charge you out of your online practice. 
+What if everyone could easily build something about what they love? What happens if we open source the language(s) they use to create it? 
 
-This open source framework must also render readable text on mobile phones (seeing as most of the world is looking at this right now through a small screen). It must require only an elementary understanding of “code” to use, and anyone should be able to build with it following some simple instructions. It should be as clean and efficient as possible and use the best open source tech so that it loads fast, no matter where you are or what kind of connection you have.
+**It's a critical point**: I'm not suggesting that this particular book is anything like the works it references and tries to imitate, what I am actually interested in is the experiment itself, and the theological question it raises, 
 
-Not many “serious” authors are thinking about stuff like that...
+`What could we do with the results?`
 
-Anyway, I eventually just built a first approximation myself, and it seemed to work quite well. So I stripped my linguistic patterns and published it as an [empty template with instructions](https://github.com/andytudhope/proofoflove), given in [Fugue I](../fugue-i/), so that anyone can use it to build whatever they’d like and express their idea of love.
+## Where would you start? ... [start, start](https://www.youtube.com/watch?v=E-QGkYNc0Ls)
 
-## No more audiences
+At first, I thought Gitbook might be the way to go. But, they've moved away from their old static site generator to a rich JSON format that is propietary and cannot be hosted anywhere but their servers, which is not cool. I don't want to have to "sign in" to my own book, I don't want to have to pay a fee to collaborate with more than two other people, and I want a site that I can transport easily, and host anywhere at the click of a few buttons. I am a [part-time mathemetician](https://observablehq.com/@andytudhope/embedded-discover) after all, and the domain you choose really matters.
 
-Books of today must be better able to represent the dynamic media their authors are increasingly connected to, more or less constantly. We exist within webs of influence, both digital and physical, and [all the wired places between](https://www.wired.com/1996/12/ffglass/). Our communication needs to reflect this more accurately. A simple fact: you cannot embed Shane Koyczan or Ursula le Guin or Leonard Bernstein into the frontispiece of a printed chapter of poetry. “Embed” has an entirely different meaning.
+So, I downloaded the legacy editor and `gitbook-cli` and, while these are great tools, there was a glaring problem. The legacy software doesn't let you nest your sidebar content and structure the links properly - and that really matters.
 
-We could say that the context has changed, the signature expanded, the trace grown. Ever since I spent a good deal of time deciphering Jacques Derrida’s _Signature, Event, Context_, I’ve been a little obsessed with it. While merrily deconstructing everything - [vive la révolution](https://youtu.be/gpDbvlAI_A0?t=100) - he goes on at some length about [traces](https://twitter.com/cryptowanderer/status/1134017760466481153) and _differánce_. It's a little dry, but I’ve always thought that - at [one layer further up the abstraction](http://worrydream.com/LadderOfAbstraction/) - the trace of poetry, in general, has to be music.
+## Sidebar
 
-But, how to test this theory sensibly? While the best poems approach the condition of the best symphonies, it seems to me that _all_ poetry must contain a trace of music. And, I’m interested in hearing that. Really - what would the playlist for _Paradise Lost_ have been?
+Strange, isn't it, how the significance of words is constantly slipping?
 
-I can’t answer the question about Milton, but I can [show you what the sound-trace for The Blue Book looks like](https://www.youtube.com/playlist?list=PL5ClmaG2tnPNgqWDBGCWAQxD0sYpbfPRK). And I can tell you that it’s mostly music, through no real intention of mine. I just read through all the poems and linked to the things of which they reminded me. It was only later that I realised how many went to songs on YouTube, and thought about putting an ordered list there as another entry point to the book’s web.
+[Author exits, stage left](http://www.tbook.constantvzw.org/wp-content/death_authorbarthes.pdf "Roland Barthes")
 
-There's also a [GoodReads list](https://www.goodreads.com/review/list/98176865-andy-tudhope?utf8=%E2%9C%93&shelf=the-blue-book&utf8=%E2%9C%93&title=andy-tudhope&sort=date_pub&order=d&per_page=50) with the notable pieces of literature that are mentioned, or can be traced, through this book. Because bibliographies are, like, so 2000 and late.
+## No, really, it's all about the sidebar!
 
+A key feature of a digital book must be that it's easy to _navigate_, no matter what device you're using. Which means that you need to have a clear and navigable structure that works for anyone, no matter the screen they use to read your book. And that means you need to have the ability to nest sections within chapters, and control the way links are created so that it all makes at least some common sense irrespective of the perspective it's seen through. To get to some poem in Canto XIII, you need simply [look](https://github.com/andytudhope/thebluebook/tree/book/source/fugue-i/index.md#L56) at the [url](../canto-xiii/exposure.html), and the nested sidebar works on both desktop and mobile screens with some nifty javascript and cascading style sheets. 
 
-## Let’s talk links
+Such a structure also means people can share specific bits of your book easily with others. I cannot link you directly to a section of Ulysses that I thought particularly mind-bending, but someone can point to [the source of this very sentence](https://github.com/andytudhope/thebluebook/tree/book/source/fugue-i/index.md#L58) and share that with their friends, if they so choose.
 
-[Others have written](https://inference-review.com/article/the-perfect-language) about the perfect language and Gottfried Leibniz, so let me summarise here by saying that I, too, am interested in how to shove the most ontological complexity into the simplest possible set of symbols. Real genius is simplicity; there's a truism for you.
+## The long and the short of it
 
-Links, consciously mapped, take on many added layers of significance. Rather than linking exact words or phrases I’ve borrowed to the context they come from, I’ve “traced” each poem out. This has given me the opportunity to add a few, stray words to the bottom of each piece, and have those words then form a track from the poem to just about any other place on our motherEarth_motherBoard. 
+I built my own framework by adapting one I helped build for a community called [Status](https://status.im). It's not perfect, but it provides me with all the above, and it's fairly easy to use. Here's how you can get started today.
 
-The result of “coding” the links by hand is that I’ve got to look at the actual URLs quite closely, and there are many hidden delights in them. Like the fact that an Ibn ‘Arabi link points to Plato, Stanford, and education in general; or how only one poem lacks any trace, and only one other uses a link in it’s actual body, and that link goes to Twitter (of all places!) for the definition of a Greek word.
+**Dependencies**
 
-We can do even weirder things though, right? Each link can have a description, which is great, because I can add metalinguistic significance to my words (which only shows up if you hover above the links on certain screens). This served a practical purpose at first - I’m worried about decaying YouTube links, so need to leave notes for myself about what links to what in case the content disappears in the future. Links to other places are often self-explanatory, and carry treasures that are best left to discover on your own, so I have left those undescribed. 
+1. Try get a Linux machine. I haven't tested this anywhere else. Mac should work fine, but Windows might be a problem ([OS](https://www.youtube.com/watch?v=4vW62KqKJ5A "Revolution!") with [training wheels](https://github.com/andytudhope/APerspectiveonTechnology) that it is).
+2. Download a good code editor. I use - wtih [tongue in cheek](https://www.reddit.com/r/QuotesPorn/comments/3i7e2v/do_i_contradict_myself_walt_whitman_1680x1050_oc/) after the OS video link - [VSCode](https://code.visualstudio.com/download); but Atom, Sublime, or even NoteBook++ will do, depending on if you already have a preference.
+3. Once that is set up, install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and sign up on [GitHub](https://github.com) if you don't already have an account there.
+4. Then install Node and NPM (the Node Package Manager). The easiest way to do this, imo, is through [nvm](https://github.com/nvm-sh/nvm).
 
-The Blue Book's [source code awaits you here](https://github.com/andytudhope/thebluebook/tree/book/source/ "Dive in!"). Be sure to take the [grey pill](https://breakingsmart.substack.com/p/the-internet-is-one-big-grey-pill) if you find yourself disoriented.
+**Get going**
 
-Links are an opportunity Leibniz never had. Take the "Into the Wild" link in _Who Are You?_ It refers to an Eddie Vedder song called "Society" and explains a line in the poem - I really did sing that song to some stick art in a desert, with a friend playing a ukulele. However, it actually links to the version of the song from the soundtrack of the movie of the book “Into the Wild” by Jon Krakauer, and it’s description tag reads “Alexander Supertramp” - the name Christopher McCandless takes on in his travels. 
+1. Make a new directory, using the name for your book. Open a terminal - `ctrl + alt + t` on [Ubuntu](https://www.ubuntu.com/download/desktop) - and run:
 
-One word; and a whole matrix of meaning comes with it.  I hope you enjoy finding and deciphering the many others in the book.
+```bash
+mkdir my-book-name
+```
 
-> My personal favorite can be found in "[For Shame](https://www.youtube.com/watch?v=D3S81X8JBZQ "Just like this")".
+2. Clone the template repository and switch into the directory once created. In your same terminal, run:
 
+```bash
+git clone https://github.com/andytudhope/proofoflove.git my-book-name && cd my-book-name/
+```
 
-## Encoding time
+3. Install the required packages to build and run the site. Make sure you are in the root directory of the project and, in your terminal, run:
 
-Two more important notes about links. Firstly: they can carry time. By adding a simple query string to the end of the URLs that compose the work, I can pass time information along with content. I can be conscious of the amount of attention each link I add requires from any reader. This goes to the heart of producing a digitally-native book. People’s attention spans online are probably just not long enough to go through fourteen cantos, some blues and four haikus in their browser.
+````bash
+npm i
+````
 
-But, by encoding time into the information I’ve collected to [share-alike](http://www.aaronsw.com/), I can hopefully direct people [where they need to go](https://www.youtube.com/watch?v=9vz06QO3UkQ "The internet's own boy"), as and when they need to go there. There’s no rush - you can just keep this book in a browser window of its own and watch it grow slowly as you remember to turn back to some trace that tracked to a tale of your own, knowing it will be [timed just right](../canto-v/timing.html).
+4. Build and start the site to see what you're dealing with. This is a three step process:
+    1. from the same place, run 
+    ```bash
+    ./node_modules/.bin/gulp build
+    ```
+    2. _Open a new terminal while gulp watches for file changes and live reloads for you_
+    3. Now run 
+    ```bash
+    cd my-book-name/ # Just to make sure your new session is in the correct place
+    ./node_modules/.bin/hexo serve
+    ```
 
-Secondly, you can do some really loopy stuff (in the Hofstadter sense). While it’s always great to have a lot of external links, sometimes even the most shy of us feel the need to reference ourselves. Luckily, I only succumbed to this need once, in a poem one from the end of Canto XIII which talks about how I learn from my own poems, one by one, as I have to. It just so happens that there is a poem called "Start Again" at the beginning of Canto II, and so I - by accident - made a sneaky snakes-and-ladders link which takes people who have slugged it out all the way to the end of thirteen of fourteen cantos right back to the start of the second one with the twitch of a finger…
+With just four global dependencies, and four quick steps, we have a template for an online book! While I appreciate that this process is nowhere near as smooth as a professional platform like Gitbook, I still think that's pretty cool.
 
-Hopefully they’ll be as confused, exasperated, and exulting as me.
+## How to edit stuff - a 12 step program
 
+Now that you have the site up and running, you'll need to know where to go to change, add, and edit things.
 
-## What to make of it all?
+1. If you installed VSCode, then, from the project root in your terminal, simply run:
 
-What is love, to me? I've tried to leave as many different definitions lying around as I can because you should never trust a poet about his own work.
+```bash
+code .
+```
 
-My best "technical definition": any consciously unitive act.
+This will open the code editor with your project loaded into it's sidebar and allow you to see it visually, rather than just in a terminal.
 
-"Consciously" implies intentional and self-reflexive thought, because it is the very fact of thought and action airising mutually which gives any choice-enacted-in-the-world the appearance of unity. In other words, consciousness is what binds thought and action, and love is its religious practice.
+2. Go to the `source` [folder](https://github.com/andytudhope/proofoflove/tree/master/source/) - this is where you will put all of your chapters, sections and content. You can create as many chapters (folders) as you like, and put as many files beneath each chapter as you like, each of which will appear in it's own place on the sidebar.
 
-The Latin root of "religion" is _religio_, meaning an obligation or bond. It is that which binds us to God. The same is true for the Arabic word _dīn_, though it's meaning is more expansive and specifically transactional. A _hadith_ (saying of The Prophet) sometimes quoted in this regard is: "Trust in Allah and tether your camel."
+3. The sidebar will expand for the content beneath each specific chapter. So, if you go to [Canto I](../canto-i/), for instance, you'll see that only the files beneath the `canto-i` [folder](https://github.com/andytudhope/thebluebook/tree/book/source/canto-i/) appear, and the rest of the Cantos are flattened. This is for easier navigation, and becomes even more important on mobile.
 
-If the camel is understood as your ego and the tether as the limitations of being human, then roughly, this can be taken to mean we should BOTH exhibit responsibility for the world in which we can act (tie the camel up, because you know it will wander in the night and be difficult to find tomorrow) AND, once you've checked the knot, let go the binding meant for the-one-who-tethers. 
+4. To control sidebar content, you need to adjust 2 files: 
+    1. `source/_data/sidebar.yml`, which is where you control what each link resolves to, and 
+    2. `themes/navy/languages/en.yml`, which is where you control the text that is shown to the reader. 
+    Follow the patterns set up in those 2 files already and you should be fine.
+    3. Happily, the whole process can be condensed into a [single link](https://github.com/andytudhope/proofoflove/commit/dad3ad50e3b7ce5bcc5e7aef6e06b732836b3288) that will show you exactly what files to change to add a new page to a specific chapter.
 
-In other words, don't - out of fear or attachment - bind the part of you which watches to what it sees: that most dear and vulnerable core of your heart you must leave entirely in the hands of Allah/the pattern/whatever you wish to call it.
+5. One note about that `languages` folder - it can be used to handle translations quite elegantly, check out the [Hexo](https://hexo.io/docs/internationalization) docs for more on that.
 
-You may find yourself floating in empty space, by some strange grace still wrapped in the golden loop that leads to animate matter arising from inanimate potential.
+6. Speaking of Hexo, the framework beneath this site, you'll need to edit the information in the `_config.yml` file in the root of the project to reflect your own book. A guide to doing this can be found [here](https://hexo.io/docs/configuration), but I suggest you stick as closely to the pattern already in that file as possible to avoid weird errors which I won't be able to help you fix. 
 
-## So long, and thanks for all the fish
+7. Oh, there are also [some great plugins and tricks](https://hexo.io/docs/tag-plugins) that come with Hexo by default to help you enrich your MD files with everything from quotes to images, videos and more.
 
-It’s been a [tonne of fun](https://www.youtube.com/watch?v=OkpdMKZBlP8 "Troy and Abed in the morning") building all this, slipping between different kinds of languages to craft something that I can drop into the flow of life. Something that can be replicated by others, and remixed into better versions more appropriate to their spaces and times.
+8. If you want to add images, do it in `themes/navy/source/img` - the gulp build pipeline will put them in the right place so that you can simply link to them like [this](https://github.com/andytudhope/thebluebook/tree/book/source/fugue-i/index.md#L130):
 
-I know not all artists have the luxury to simply open source their work and be done with it. I know that this is not the way everyone can survive, so I think it would be interesting to give people something like "conditional cryptocurrency transfers" and set them loose building stuff they love so we can better train our world, and all the wor(l)ds of our imagination.
+![Lion](../img/lion.png)
 
-What words are left can be found in a [tangled bank](../tangled-bank/).
+9. If you want to change the page layout, or the home page, or the header and footer and other common elements, then you'll need to adventure into the `themes/navy/layout` folder, where you will find the few extend-with-javascript `.ejs` files used to stitch it all together. Don't stress! This is just plain old HTML with a few fancy tags added to it to make fun things happen. If, for instance, you want to change the title of one of the header items, all you need to do is go to this line in [themes/navy/layout/partial/header.ejs](https://github.com/andytudhope/proofoflove/tree/master/themes/navy/layout/partial/header.ejs#L27) and edit the text there. You can just leave the rest of it as is, or explore the patterns to build your own, unique navigation elements.
+
+10. If you want to change the styles, then you'll need to edit the CSS in [themes/navy/source/scss/main.scss](https://github.com/andytudhope/proofoflove/blob/master/themes/navy/source/scss/main.scss#L1953). I have tried to keep it as clean as possible, and suggest using the marked section at the bottom to insert your own styles so that you don't inadvertently break anything (or, more accurately, can find the problem easily when you do). We can get even more meta than linking to specific lines of code, though - I can show you how to edit CSS through [the commit trail](https://github.com/andytudhope/proofoflove/commits/master). **:mind_blown:**
+
+11. The same goes for editing the JS in [themes/navy/source/js/dev.js](https://github.com/andytudhope/proofoflove/blob/master/themes/navy/source/js/dev.js). Note that work should happen in the `dev.js` file, as that is how [build pipline](https://github.com/andytudhope/proofoflove/tree/master/gulpfile.js#L42) is set up. I think it's awesome if you can write custom JS, and it would be great to see developer-writers take this much further than I currently have.
+
+12. When you're ready, you'll need to create your own respository. Do this through Github in your browser, then return to the root of your project, and run the following commands:
+
+```bash
+cd my-book-name/
+git remote remove origin
+git remote add origin https://github.com/<your_username>/<your_repo_name>.git
+git add .
+git commit -m "Initial setup done"
+git push -u origin master
+```
+
+## Traced Out
+
+“The [literature of illumination](https://www.ted.com/talks/katie_bouman_what_does_a_black_hole_look_like "Katie Bouman") reveals this above all: although it comes to those who wait for it, it is always, even to the most practiced and adept, a gift and a total surprise… I cannot cause light; the most I can do is try to put myself in the path of its beam. It is possible, in deep space, to sail on solar wind. Light, be it particle or wave, has force: you rig a giant sail and go. The secret of seeing is to sail on solar wind. Hone and spread your spirit till you yourself are a sail, whetted, translucent, broadside to the merest puff.” — Annie Dillard

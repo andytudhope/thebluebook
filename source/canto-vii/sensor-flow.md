@@ -30,6 +30,6 @@ I had thought forgotten.
 
 #### TRACE
 
-[I think I found a Way](https://www.youtube.com/watch?v=znMRdQMxA0g "Noah Kahan, Passenger")
+[Find a Way](https://www.youtube.com/watch?v=znMRdQMxA0g "Noah Kahan, Passenger")
 
-[Or will the machines learn faster?](https://www.tensorflow.org/)
+[Because even machines can learn now](https://www.tensorflow.org/)

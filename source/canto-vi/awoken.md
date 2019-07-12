@@ -47,6 +47,6 @@ here is waking in the dreaming.
 
 #### TRACE
 
-[Awake](https://www.youtube.com/watch?v=ZYNZWHF4e6M "Roo Panes")
+[#woke](https://www.youtube.com/watch?v=ZYNZWHF4e6M "Roo Panes")
 
 [Lucie de Tocquelain](http://gutenberg.net.au/ebooks06/0602001h.html)

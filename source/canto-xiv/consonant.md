@@ -71,4 +71,4 @@ our shared canvas.
 
 [Baba Yetu](https://www.youtube.com/watch?v=PCa8RxaOPW8 "Stellenbosch Choir, 2018")
 
-[Real ghosts](https://www.goodreads.com/book/show/1178312.Elephantoms)
+[Hidden giants](https://www.goodreads.com/book/show/1178312.Elephantoms)
