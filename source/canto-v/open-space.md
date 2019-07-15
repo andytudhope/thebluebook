@@ -41,7 +41,7 @@ fallen, broken, slowly filling up with light.
 
 [V](https://www.youtube.com/watch?v=ACUpr5GvVsE "Introductory Monologue")
 
-[Kintsugi](https://www.youtube.com/watch?v=EBUTQkaSSTY "School of Life")
+[Magnetic fire](https://www.youtube.com/watch?v=08WeoqWilRQ "Edward Sharpe and the Magnetic Zeros")
 
 [Yù Yī](https://www.youtube.com/watch?v=UuC-M-85ArY "Dictionary of Obscure Sorrows")
 

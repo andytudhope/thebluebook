@@ -58,7 +58,7 @@ There's also a [GoodReads list](https://www.goodreads.com/review/list/98176865-a
 
 Links, consciously mapped, take on many added layers of significance. Rather than linking exact words or phrases I’ve borrowed to the context they come from, I’ve “traced” each poem out. This has given me the opportunity to add a few, stray words to the bottom of each piece, and have those words then form a track from the poem to just about any other place on our motherEarth_motherBoard. 
 
-The result of “coding” the links by hand is that I’ve got to look at the actual URLs quite closely, and there are many hidden delights in them. Like the fact that an Ibn ‘Arabi link points to Plato, Stanford, and education in general; or how only one poem lacks any trace, and only one other uses a link in it’s actual body, and that link goes to Twitter (of all places!) for the definition of a Greek word.
+The result of “coding” the links by hand is that I’ve got to look at the actual URLs quite closely, and there are many hidden delights in them. Like the fact that an Ibn ‘Arabi link points to Plato, Stanford, and education in general; or a hidden reference to Gutenberg that takes you to a favourite sci-fi short story of mine; or how only one poem lacks any trace, and only one other uses a link in it’s actual body, and that link goes to Twitter (of all places!) for the definition of a Greek word.
 
 We can do even weirder things though, right? Each link can have a description, which is great, because I can add metalinguistic significance to my words (which only shows up if you hover above the links on certain screens). This served a practical purpose at first - I’m worried about decaying YouTube links, so need to leave notes for myself about what links to what in case the content disappears in the future. Links to other places are often self-explanatory, and carry treasures that are best left to discover on your own, so I have left those undescribed. 
 
@@ -66,7 +66,7 @@ The Blue Book's [source code awaits you here](https://github.com/andytudhope/the
 
 Links are an opportunity Leibniz never had. Take the "Into the Wild" link in _Who Are You?_ It refers to an Eddie Vedder song called "Society" and explains a line in the poem - I really did sing that song to some stick art in a desert, with a friend playing a ukulele. However, it actually links to the version of the song from the soundtrack of the movie of the book “Into the Wild” by Jon Krakauer, and it’s description tag reads “Alexander Supertramp” - the name Christopher McCandless takes on in his travels. 
 
-One word; and a whole matrix of meaning comes with it.  I hope you enjoy finding and deciphering the many others in the book.
+One phrase; and a whole matrix of meaning comes with it. I hope you enjoy finding and deciphering the many others in the book.
 
 > My personal favorite can be found in "[For Shame](https://www.youtube.com/watch?v=D3S81X8JBZQ "Just like this")".
 
@@ -103,5 +103,3 @@ You may find yourself floating in empty space, by some strange grace still wrapp
 It’s been a [tonne of fun](https://www.youtube.com/watch?v=OkpdMKZBlP8 "Troy and Abed in the morning") building all this, slipping between different kinds of languages to craft something that I can drop into the flow of life. Something that can be replicated by others, and remixed into better versions more appropriate to their spaces and times.
 
 I know not all artists have the luxury to simply open source their work and be done with it. I know that this is not the way everyone can survive, so I think it would be interesting to give people something like "conditional cryptocurrency transfers" and set them loose building stuff they love so we can better train our world, and all the wor(l)ds of our imagination.
-
-What words are left can be found in a [tangled bank](../tangled-bank/).
