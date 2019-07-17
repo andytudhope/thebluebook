@@ -34,4 +34,4 @@ you and I - castaway - miraculously.
 
 [Soul-friend](https://www.brainpickings.org/2015/08/12/anam-cara-john-o-donohue-soul-friend/)
 
-[In vino veritas](https://www.youtube.com/watch?v=i0h_uI-Dmb4 "How Richard Feynman drinks wine")
+[Of the sun](https://www.youtube.com/watch?v=HQVFjXxWslw "Starring the microphone as saxophone")

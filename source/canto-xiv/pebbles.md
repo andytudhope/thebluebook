@@ -53,8 +53,6 @@ by a few kind birds.
 
 #### TRACES
 
-[The sun](https://www.youtube.com/watch?v=HQVFjXxWslw "The microphone as saxophone")
+[Baba Yetu](https://www.youtube.com/watch?v=PCa8RxaOPW8 "Stellenbosch Choir, 2018")
 
 [All the tuneful turning](https://poets.org/poem/fern-hill "Dylan Thomas")
-
-[Union](https://www.youtube.com/watch?v=ortUGS_WEFc "A year after the real miracle")

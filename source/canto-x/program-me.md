@@ -35,3 +35,5 @@ Where, then, does the laughter come from? **/
 [The world's first computer](https://www.brainpickings.org/2013/12/10/ada-lovelace-science-religion-letter/)
 
 [Open source religion](https://rushkoff.com/books/nothing-sacred/)
+
+[We listen together](https://www.youtube.com/watch?v=xUBYzpCNQ1I "Bright Eyes")
