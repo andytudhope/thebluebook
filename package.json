@@ -6,9 +6,9 @@
     "version": "3.8.0"
   },
   "scripts": {
-    "clean": "rm -rf public/*",
-    "build": "gulp run",
-    "index": "gulp index",
+    "clean": "./node_modules/.bin/hexo clean",
+    "build": "./node_modules/.bin/gulp build",
+    "serve": "./node_modules/.bin/hexo serve",
     "eslint": "eslint .",
     "deploy": "hexo deploy"
   },

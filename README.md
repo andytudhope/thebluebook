@@ -20,12 +20,12 @@ mkdir mybook
 git clone https://github.com/andytudhope/thebluebook.git mybook/
 cd mybook/
 npm i
-./node_modules/.bin/gulp build
+npm run build
 ```
 
 Open a new terminal, navigate back to the root of the folder and run:
 
 ```bash
 cd mybook/
-./node_modules/.bin/hexo serve
+npm run serve
 ```
