@@ -91,13 +91,13 @@ npm i
 4. Build and start the site to see what you're dealing with. This is a three step process:
     1. from the same place, run 
     ```bash
-    ./node_modules/.bin/gulp build
+    npm run build
     ```
     2. _Open a new terminal while gulp watches for file changes and live reloads for you_
     3. Now run 
     ```bash
     cd my-book-name/ # Just to make sure your new session is in the correct place
-    ./node_modules/.bin/hexo serve
+    npm run serve
     ```
 
 With just four global dependencies, and four quick steps, we have a template for an online book! While I appreciate that this process is nowhere near as smooth as a professional platform like Gitbook, I still think that's pretty cool.

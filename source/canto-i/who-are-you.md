@@ -50,7 +50,7 @@ to tell it all.
 
 [Follow the sun](https://www.youtube.com/watch?v=0E1bNmyPWww "Xavier Rudd")
 
-[Into the wild](https://www.youtube.com/watch?v=cl4cLEToPfc "Alexander Supertramp")
+[Or call it dreaming](https://www.youtube.com/watch?v=cl4cLEToPfc "You can have mine")
 
 Look: [wild geese](http://www.phys.unm.edu/~tw/fas/yits/archive/oliver_wildgeese.html)
 
