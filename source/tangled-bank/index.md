@@ -3,7 +3,7 @@ id: tangled-bank
 title: Tangled Bank
 ---
 
-# Build You Own Indra's Net
+# Build Your Own Indra's Net
 
 “But there is one kind of knowledge — infinitely precious, time-resistant more than monuments, here to be passed between the generations in any way it may be: never to be used. And that is poetry.” — Muriel Rukeyser
 
