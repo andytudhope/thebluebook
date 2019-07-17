@@ -41,6 +41,6 @@ this here and now forever.
 
 [Timewave Zero](https://www.youtube.com/watch?v=nf4QTtnPEWg "Terrence McKenna")
 
-[What?](https://www.youtube.com/watch?v=PlGL0RsQvaw?t=90 "Alan Watts")
+[What?](https://www.youtube.com/watch?v=PlGL0RsQvaw&t=90 "Alan Watts")
 
 
