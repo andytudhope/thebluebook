@@ -5,7 +5,7 @@ title: Thanks
 
 # A Vote of Thanks
 
-Digital thanks for a digital-native book have been done [here](https://twitter.com/cryptowander).
+Digital thanks for a digital-native book have been done [here](https://twitter.com/cryptowanderer/status/1151778816416768003).
 
 However, it also appropriate to thank the flesh-and-blood heart-people so intimately involved in the crafting of this work.
 
