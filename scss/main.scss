@@ -981,15 +981,36 @@ footer{
 .yt-p-link {
     text-align: center;
     a {
+        color: $light-grey;
         &:hover{
             color: $purple;
         }
-        color: $light-grey;
     }
 }
 
 .yt-link {
     margin-top: -170px;
+}
+
+.docs-footer {
+    a {
+        text-decoration: none;
+        font-weight: bold;
+        text-transform: uppercase;
+        position: absolute;
+        color: $purple;
+        &:hover{
+            color: $dark-purple;
+        }
+    }
+}
+
+.article-footer-prev {
+    left: 15px;
+}
+
+.article-footer-next {
+    right: 15px;
 }
 
 /*==== Book Pages ----*/
