@@ -2,7 +2,8 @@
 
 'use strict';
 
-var pathFn = require('path');
+var join = require('path').join;
+const { basename } = require('path');
 var _ = require('lodash');
 var cheerio = require('cheerio');
 var lunr = require('lunr');
@@ -15,75 +16,36 @@ function startsWith(str, start) {
   return str.substring(0, start.length) === start;
 }
 
-hexo.extend.helper.register('sidebar', function(type) {
-    
-  var self = this,
-      path = this.page.path,
-      sidebar = this.site.data.sidebar[type],
-      result = '<ul class="sidebar-menu">';
-
-  _.each(sidebar, function(menu, category) {
-      var title = generateSidebarTitle(category);
-      if(typeof menu[category] === 'undefined'){
-        title = self.__(title);
-      }else{
-        title = generateSidebarTitle(menu[category]);
-      }
-      if(category == 'tangled-bank'){
-        result += '<li class="'+ checkIfActive(path, category+'/') +'"><a href="/'+ category + '/index.html">' + title + '</a>';
-      }else{
-        result += '<li class="'+ checkIfActive(path, category+'/') +'"><a href="/'+ category + '/">' + title + '</a>';
-      }
-      if(typeof menu == 'object'){
-          result += '<ul class="sidebar-submenu">';
-          _.each(menu, function(title, link) {
-              if(menu[category] != title){
-                var href = '';
-                href = '/'+ category +'/'+ link +'.html';
-                if(title.startsWith("..")){
-                  href = title.replace("..","");
-                  href = href.substring(0, href.indexOf(' '));
-                }else if(title.startsWith("http")){
-                  href = title;
-                  href = href.substring(0, href.indexOf(' '));
-                }
-                title = generateSidebarTitle(title);
-                result += '<li class="'+ checkIfActive(path, category+'/'+link+'.html') +'"><a href="'+ href +'">' + title + '</a></li>';
-              }
-          });
-          result += '</ul>';
-      }
-  });
-
-  result += '</ul>';
-  return result;
+hexo.extend.helper.register('sidebar', function(path) {
+  return `
+    <ul class="sidebar-menu">
+      ${genSidebarList.call(this, "", this.site.data.sidebar[path])}
+    </ul>
+      `
 });
-
-function generateSidebarTitle(string){
-  var s = string.substring(
-      string.lastIndexOf("(") + 1, 
-      string.lastIndexOf(")")
-  );
-  if(s == ''){
-    s = string.replace(/_/g, " ");
-    s = s.replace(/.html/g, "");
-    s = toTitleCase(s);
-  }
-  return s;
-}
-
-function toTitleCase(str) {
-  return str.replace(/\w\S*/g, function(txt){
-      return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
-  });
-}
-
-function checkIfActive(path, link){
-  if(path.indexOf(link)){
-      return '';
-  }else{
-      return 'active';
-  }
+    
+function genSidebarList(parent, entries) {
+/* necessary due to changed context of map() */
+let self = this
+/* all languages except english needs a path prefix */
+let lang = (self.page.lang != 'en' && parent == "") ?  self.page.lang : ''
+return entries.map(entry => {
+  /* normally path needs to be prefixed with lang and parent path */
+  let fullPath = join('/', lang, parent, entry.path)
+  /* sometimes paths are full URLs instead of sub-paths */
+  if (entry.path.startsWith('http')) { fullPath = entry.path }
+  /* path is active when it's the one we are on currently */
+  let isActive = ('/'+self.path).startsWith(fullPath)
+  return `
+    <li class="${isActive ? "active" : ""}">
+      <a href="..${fullPath}">${entry.title}</a>
+      ${(entry.children != undefined) ? `
+      <ul class="sidebar-submenu">
+        ${genSidebarList.call(self, fullPath, entry.children)}
+      </ul>
+      ` : ''}
+    </li>`
+}).join('\n')
 }
 
 hexo.extend.helper.register('header_menu', function(className) {
@@ -102,8 +64,31 @@ hexo.extend.helper.register('header_menu', function(className) {
   return result;
 });
 
-hexo.extend.helper.register('page_nav', function(lang) {
-  return;
+hexo.extend.helper.register('page_nav', function() {
+  const sidebar = this.site.data.old_sidebar["docs"];
+  const path = basename(this.path);
+  const list = {};
+  const prefix = 'old_sidebar.docs.';
+
+  for (let i in sidebar) {
+    for (let j in sidebar[i]) {
+      list[sidebar[i][j]] = j;
+    }
+  }
+
+  const keys = Object.keys(list);
+  const index = keys.indexOf(path);
+  let result = '';
+
+  if (index > 0) {
+    result += `<a href="${keys[index - 1]}" class="article-footer-prev" title="${this.__(prefix + list[keys[index - 1]])}"><i class="fa fa-chevron-left"></i><span>Previous</span></a>`;
+  }
+
+  if (index < keys.length - 1) {
+    result += `<a href="${keys[index + 1]}" class="article-footer-next" title="${this.__(prefix + list[keys[index + 1]])}"><span>Next</span><i class="fa fa-chevron-right"></i></a>`;
+  }
+
+  return result;
 });
 
 hexo.extend.helper.register('url_for_lang', function(path) {
@@ -175,24 +160,4 @@ hexo.extend.helper.register('disqus_lang', function() {
 
 hexo.extend.helper.register('hexo_version', function() {
   return this.env.version;
-});
-
-function generateMenu(){
-  return fetch('https://raw.githubusercontent.com/status-im/status-global-elements/master/dist/html/header.html')
-  .then(function(response) {
-      return response.text();
-    })
-  .then(function(response) {
-      console.log('t2')
-      return 'abc';
-  })
-  .catch(error => console.error(`Fetch Error =\n`, error));
-}
-
-hexo.extend.helper.register('global_header', function() {
-  generateMenu().then(function(response){
-    console.log(response);
-    return response;
-  });
-  return 'asd';
 });

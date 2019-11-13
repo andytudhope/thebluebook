@@ -978,6 +978,41 @@ footer{
     }
 }
 
+.yt-p-link {
+    text-align: center;
+    a {
+        color: $light-grey;
+        &:hover{
+            color: $purple;
+        }
+    }
+}
+
+.yt-link {
+    margin-top: -170px;
+}
+
+.docs-footer {
+    a {
+        text-decoration: none;
+        font-weight: bold;
+        text-transform: uppercase;
+        position: absolute;
+        color: $purple;
+        &:hover{
+            color: $dark-purple;
+        }
+    }
+}
+
+.article-footer-prev {
+    left: 15px;
+}
+
+.article-footer-next {
+    right: 15px;
+}
+
 /*==== Book Pages ----*/
 
 .docs-content{
@@ -1142,47 +1177,42 @@ footer{
         list-style-type: none;
         margin: 0;
         padding: 0;
-        li{
-            margin-bottom: 20px;
-            &.active{
-                a{
-                    color: $purple;
-                }
-                .sidebar-submenu{
-                    display: block;
-                }
-            }
-            a{
+        li {
+            font-weight: $ibm-plex-sans-regular;
+            margin: 10px 0px;
+
+            a {
                 color: $black;
-                font-weight: $ibm-plex-sans-medium;
                 img{
                     margin-left: 10px;
                 }
             }
-            .sidebar-submenu{
-                list-style-type: none;
-                margin-top: 20px;
-                padding-left: 20px;
+
+            ul {
                 display: none;
-                li{
-                    margin-bottom: 10px;
-                    height:48px;
-                    &.active{
-                        a{
-                            color: $purple;
-                            font-weight: $ibm-plex-sans-medium;
-                        }
-                    }
-                    a{
-                        font-size: 15px;
-                        font-weight: $ibm-plex-sans-regular;
-                        color: $black;
-                        img{
-                            margin-left: 15px;
-                        }
-                    }
-                }
             }
+        }
+
+        >li {
+            margin-bottom: 20px;
+            font-weight: $ibm-plex-sans-medium;
+        }
+
+        li.active>a {
+            color: $purple;
+            font-weight: $ibm-plex-sans-medium;
+        }
+
+        li.active {
+            ul {
+                display: block;
+            }
+        }
+
+        .sidebar-submenu{
+            list-style-type: none;
+            padding-left: 20px;
+            font-size: 15px;
         }
     }
 }
@@ -1761,6 +1791,14 @@ header{
         .inner{
             padding: 50px 0;
         }
+    }
+    .section-2-left{
+        iframe{
+            margin: 40px auto;
+        }
+    }
+    .yt-link {
+        margin-top: -30px;
     }
     footer{
         padding: 0;

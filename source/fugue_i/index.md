@@ -1,5 +1,5 @@
 ---
-id: fugue-i
+id: fugue_i
 title: Fugue I
 ---
 
@@ -37,7 +37,7 @@ Moreover, it can’t be done on some kind of closed platform that could take it 
 
 This open source framework must also render readable text on mobile phones (seeing as most of the world is looking at this right now through a small screen). It must require only an elementary understanding of “code” to use, and anyone should be able to build with it following some simple instructions. It should be as clean and efficient as possible and use the best open source tech so that it loads fast, no matter where you are or what kind of connection you have.
 
-I couldn't find any software that fit the above, so I built a first approximation myself. I then stripped my linguistic patterns and published it as an [empty template with instructions](https://github.com/andytudhope/proofoflove), given in [Fugue II](../fugue-ii/), so that anyone can use it to build whatever they’d like and express their idea of love.
+I couldn't find any software that fit the above, so I built a first approximation myself. I then stripped my linguistic patterns and published it as an [empty template with instructions](https://github.com/andytudhope/proofoflove), given in [Fugue II](../fugue_ii/), so that anyone can use it to build whatever they’d like and express their idea of love.
 
 ## No more audiences
 

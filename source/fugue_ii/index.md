@@ -1,5 +1,5 @@
 ---
-id: fugue-ii
+id: fugue_ii
 title: Fugue II
 ---
 
@@ -53,9 +53,11 @@ Strange, isn't it, how the significance of words is constantly slipping?
 
 ## No, really, it's all about the sidebar!
 
-A key feature of a digital book must be that it's easy to _navigate_, no matter what device you're using. Which means that you need to have a clear and navigable structure that works for anyone, no matter the screen they use to read your book. And that means you need to have the ability to nest sections within chapters, and control the way links are created so that it all makes at least some common sense irrespective of the perspective it's seen through. To get to some poem in Canto XIII, you need simply [look](https://raw.githubusercontent.com/andytudhope/thebluebook/book/source/fugue-i/index.md) at the [url](../canto-xiii/exposure.html), and the nested sidebar works on both desktop and mobile screens with some nifty javascript and cascading style sheets. 
+A key feature of a digital book must be that it's easy to _navigate_, no matter what device you're using. Which means that you need to have a clear and navigable structure that works for anyone, no matter the screen they use to read your book. And that means you need to have the ability to nest sections within chapters, and control the way links are created so that it all makes at least some common sense irrespective of the perspective it's seen through. To get to some poem in Canto XIII, you need simply [look](https://raw.githubusercontent.com/andytudhope/thebluebook/book/source/fugue_ii/index.md) at the [url](../canto_xiii/exposure.html), and the nested sidebar works on both desktop and mobile screens with some nifty javascript and cascading style sheets. 
 
-Such a structure also means people can share specific bits of your book easily with others. I cannot link you directly to a section of Ulysses that I thought particularly mind-bending, but someone can point to [the source of this very sentence](https://raw.githubusercontent.com/andytudhope/thebluebook/book/source/fugue-i/index.md) and share that with their friends, if they so choose.
+Such a structure also means people can share specific bits of your book easily with others. I cannot link you directly to a section of Ulysses that I thought particularly mind-bending, but someone can point to [the source of this very sentence](https://raw.githubusercontent.com/andytudhope/thebluebook/book/source/fugue_ii/index.md) and share that with their friends, if they so choose.
+
+As for the rest, it can be found in a [tangled bank](../tangled_bank/index.html)
 
 ## The long and the short of it
 
@@ -130,7 +132,7 @@ This will open the code editor with your project loaded into it's sidebar and al
 
 7. Oh, there are also [some great plugins and tricks](https://hexo.io/docs/tag-plugins) that come with Hexo by default to help you enrich your MD files with everything from quotes to images, videos and more.
 
-8. If you want to add images, do it in `themes/navy/source/img` - the gulp build pipeline will put them in the right place so that you can simply link to them like [this](https://github.com/andytudhope/thebluebook/tree/book/source/fugue-i/index.md#L130):
+8. If you want to add images, do it in `themes/navy/source/img` - the gulp build pipeline will put them in the right place so that you can simply link to them like [this](https://github.com/andytudhope/thebluebook/tree/book/source/fugue_i/index.md#L130):
 
 ![Lion](../img/lion.png)
 
