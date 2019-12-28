@@ -978,6 +978,41 @@ footer{
     }
 }
 
+.yt-p-link {
+    text-align: center;
+    a {
+        color: $light-grey;
+        &:hover{
+            color: $purple;
+        }
+    }
+}
+
+.yt-link {
+    margin-top: -170px;
+}
+
+.docs-footer {
+    a {
+        text-decoration: none;
+        font-weight: bold;
+        text-transform: uppercase;
+        position: absolute;
+        color: $purple;
+        &:hover{
+            color: $dark-purple;
+        }
+    }
+}
+
+.article-footer-prev {
+    left: 15px;
+}
+
+.article-footer-next {
+    right: 15px;
+}
+
 /*==== Book Pages ----*/
 
 .docs-content{
@@ -1166,7 +1201,6 @@ footer{
                 display: none;
                 li{
                     margin-bottom: 10px;
-                    height:48px;
                     &.active{
                         a{
                             color: $purple;
@@ -1761,6 +1795,14 @@ header{
         .inner{
             padding: 50px 0;
         }
+    }
+    .section-2-left{
+        iframe{
+            margin: 40px auto;
+        }
+    }
+    .yt-link {
+        margin-top: -30px;
     }
     footer{
         padding: 0;

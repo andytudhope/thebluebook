@@ -2,7 +2,7 @@
 
 'use strict';
 
-var pathFn = require('path');
+const { basename } = require('path');
 var _ = require('lodash');
 var cheerio = require('cheerio');
 var lunr = require('lunr');
@@ -103,7 +103,29 @@ hexo.extend.helper.register('header_menu', function(className) {
 });
 
 hexo.extend.helper.register('page_nav', function(lang) {
-  return;
+  const sidebar = this.site.data.nav_sidebar["book"];
+  const path = basename(this.path);
+  const list = {};
+
+  for (let i in sidebar) {
+    for (let j in sidebar[i]) {
+      list[sidebar[i][j]] = j;
+    }
+  }
+
+  const keys = Object.keys(list);
+  const index = keys.indexOf(path);
+  let result = '';
+
+  if (index > 0) {
+    result += `<a href="${keys[index - 1]}" class="article-footer-prev" title="${this.__(list[keys[index - 1]])}"><i class="fa fa-chevron-left"></i><span>Previous</span></a>`;
+  }
+
+  if (index < keys.length - 1) {
+    result += `<a href="${keys[index + 1]}" class="article-footer-next" title="${this.__(list[keys[index + 1]])}"><span>Next</span><i class="fa fa-chevron-right"></i></a>`;
+  }
+
+  return result;
 });
 
 hexo.extend.helper.register('url_for_lang', function(path) {
@@ -166,33 +188,6 @@ hexo.extend.helper.register('lang_name', function(lang) {
   return data.name || data;
 });
 
-hexo.extend.helper.register('disqus_lang', function() {
-  var lang = this.page.lang;
-  var data = this.site.data.languages[lang];
-
-  return data.disqus_lang || lang;
-});
-
 hexo.extend.helper.register('hexo_version', function() {
   return this.env.version;
-});
-
-function generateMenu(){
-  return fetch('https://raw.githubusercontent.com/status-im/status-global-elements/master/dist/html/header.html')
-  .then(function(response) {
-      return response.text();
-    })
-  .then(function(response) {
-      console.log('t2')
-      return 'abc';
-  })
-  .catch(error => console.error(`Fetch Error =\n`, error));
-}
-
-hexo.extend.helper.register('global_header', function() {
-  generateMenu().then(function(response){
-    console.log(response);
-    return response;
-  });
-  return 'asd';
 });

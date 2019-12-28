@@ -112,7 +112,7 @@ gulp.task('watch', function() {
     gulp.watch(config.paths.src.scss, ['compress'])
 });
 
-gulp.task('build', function(cb) {
+gulp.task('run', function(cb) {
     runSequence( 'generate', 'compress', 'bundle', 'watch')
 });
 
@@ -120,7 +120,7 @@ gulp.task('exit', function(cb) {
     process.exit(0);
 });
 
-gulp.task('run', function(cb) {
+gulp.task('build', function(cb) {
     runSequence('generate', 'compress', 'bundle', 'exit')
     
 });
