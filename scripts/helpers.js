@@ -2,7 +2,10 @@
 
 'use strict';
 
+<<<<<<< HEAD
 var join = require('path').join;
+=======
+>>>>>>> origin/book
 const { basename } = require('path');
 var _ = require('lodash');
 var cheerio = require('cheerio');
@@ -64,11 +67,18 @@ hexo.extend.helper.register('header_menu', function(className) {
   return result;
 });
 
+<<<<<<< HEAD
 hexo.extend.helper.register('page_nav', function() {
   const sidebar = this.site.data.old_sidebar["docs"];
   const path = basename(this.path);
   const list = {};
   const prefix = 'old_sidebar.docs.';
+=======
+hexo.extend.helper.register('page_nav', function(lang) {
+  const sidebar = this.site.data.nav_sidebar["book"];
+  const path = basename(this.path);
+  const list = {};
+>>>>>>> origin/book
 
   for (let i in sidebar) {
     for (let j in sidebar[i]) {
@@ -81,11 +91,19 @@ hexo.extend.helper.register('page_nav', function() {
   let result = '';
 
   if (index > 0) {
+<<<<<<< HEAD
     result += `<a href="${keys[index - 1]}" class="article-footer-prev" title="${this.__(prefix + list[keys[index - 1]])}"><i class="fa fa-chevron-left"></i><span>Previous</span></a>`;
   }
 
   if (index < keys.length - 1) {
     result += `<a href="${keys[index + 1]}" class="article-footer-next" title="${this.__(prefix + list[keys[index + 1]])}"><span>Next</span><i class="fa fa-chevron-right"></i></a>`;
+=======
+    result += `<a href="${keys[index - 1]}" class="article-footer-prev" title="${this.__(list[keys[index - 1]])}"><i class="fa fa-chevron-left"></i><span>Previous</span></a>`;
+  }
+
+  if (index < keys.length - 1) {
+    result += `<a href="${keys[index + 1]}" class="article-footer-next" title="${this.__(list[keys[index + 1]])}"><span>Next</span><i class="fa fa-chevron-right"></i></a>`;
+>>>>>>> origin/book
   }
 
   return result;
@@ -151,13 +169,10 @@ hexo.extend.helper.register('lang_name', function(lang) {
   return data.name || data;
 });
 
-hexo.extend.helper.register('disqus_lang', function() {
-  var lang = this.page.lang;
-  var data = this.site.data.languages[lang];
-
-  return data.disqus_lang || lang;
-});
-
 hexo.extend.helper.register('hexo_version', function() {
   return this.env.version;
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> origin/book

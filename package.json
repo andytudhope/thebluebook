@@ -1,14 +1,14 @@
 {
   "name": "the-blue-book",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "hexo": {
     "version": "3.9.0"
   },
   "scripts": {
     "clean": "hexo clean",
-    "build": "gulp build",
     "watch": "gulp run",
+    "build": "gulp build",
     "serve": "hexo serve",
     "eslint": "eslint .",
     "deploy": "hexo deploy"
