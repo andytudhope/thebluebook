@@ -22,15 +22,15 @@ hexo.extend.helper.register('sidebar', function(type) {
       sidebar = this.site.data.sidebar[type],
       result = '<ul class="sidebar-menu">';
 
-  _.each(sidebar, function(menu, category) {
+    _.each(sidebar, function(menu, category) {
       var title = generateSidebarTitle(category);
       if(typeof menu[category] === 'undefined'){
         title = self.__(title);
       }else{
         title = generateSidebarTitle(menu[category]);
       }
-      if(category == 'tangled-bank'){
-        result += '<li class="'+ checkIfActive(path, category+'/') +'"><a href="/'+ category + '/index.html">' + title + '</a>';
+      if(category != 'tangled-bank'){
+        result += '<li class="'+ checkIfActive(path, category+'/') +'"><a href="../'+ category + '/">' + title + '</a>';
       }else{
         result += '<li class="'+ checkIfActive(path, category+'/') +'"><a href="/'+ category + '/">' + title + '</a>';
       }
@@ -39,7 +39,7 @@ hexo.extend.helper.register('sidebar', function(type) {
           _.each(menu, function(title, link) {
               if(menu[category] != title){
                 var href = '';
-                href = '/'+ category +'/'+ link +'.html';
+                href = '../'+ category +'/'+ link +'.html';
                 if(title.startsWith("..")){
                   href = title.replace("..","");
                   href = href.substring(0, href.indexOf(' '));
