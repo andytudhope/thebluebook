@@ -112,6 +112,10 @@ gulp.task('watch', function() {
     gulp.watch(config.paths.src.scss, ['compress'])
 });
 
+gulp.task('run', function(cb) {
+    runSequence( 'generate', 'compress', 'bundle', 'watch')
+});
+
 gulp.task('exit', function(cb) {
     process.exit(0);
 });

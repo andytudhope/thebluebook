@@ -4,7 +4,11 @@ book:
     espera: espera.html
     bedien: bedien.html
     iqra: iqra.html
+<<<<<<< HEAD
     tir-na-nog: tir-na-nog.html
+=======
+    tir-nan-nog: tir-na-nog.html
+>>>>>>> 4324defefc1777b43a316d7fcbd9274b31928903
     who-are-you: who-are-you.html
     moth-light: moth-light.html
     smallness: smallness.html
@@ -106,4 +110,9 @@ book:
     sit: sit.html
     lie: lie.html
     repeat: repeat.html
+<<<<<<< HEAD
   four-part-harmony:
+=======
+  four-part-harmony:
+  
+>>>>>>> 4324defefc1777b43a316d7fcbd9274b31928903
