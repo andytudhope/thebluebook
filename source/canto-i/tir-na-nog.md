@@ -1,5 +1,5 @@
 ---
-id: ti-nan-nog
+id: ti-na-nog
 title: Tír na nÓg
 ---
 

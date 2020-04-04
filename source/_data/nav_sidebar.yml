@@ -1,0 +1,109 @@
+book:
+  canto-i:
+    xam: xam.html
+    espera: espera.html
+    bedien: bedien.html
+    iqra: iqra.html
+    tir-na-nog: tir-na-nog.html
+    who-are-you: who-are-you.html
+    moth-light: moth-light.html
+    smallness: smallness.html
+    shared-secrets: shared-secrets.html
+  canto-ii:
+    start-again: start-again.html
+    kamal-pash: kamal-pash.html
+    beckoning: beckoning.html
+    de-noted: de-noted.html
+    for-shame: for-shame.html
+    weight: weight.html
+  canto-iii:
+    tell-me: tell-me.html
+    adam: adam.html
+    colour-in: colour-in.html
+    ikkyu: ikkyu.html
+    wonder: wonder.html
+    gravity: gravity.html
+  canto-iv:
+    dream: dream.html
+    how-you-love: how-you-love.html
+    breathe: breathe.html
+    know: know.html
+    ache: ache.html
+    carefull: carefull.html
+  canto-v:
+    open-space: open-space.html
+    background-life: background-life.html
+    passing-temple: passing-temple.html
+    timing: timing.html
+    jates: jates.html
+    search-me: search-me.html
+    left-behind: left-behind.html
+    content: content.html
+  canto-vi:
+    the-no-boundary-condition: the-no-boundary-condition.html
+    feast: feast.html
+    awoken: awoken.html
+    murmur: murmur.html
+    rock-art: rock-art.html
+    shelter-from-the-storm: shelter-from-the-storm.html
+    human-voices: human-voices.html
+    remember-to-breathe: remember-to-breathe.html
+    silence: silence.html
+  canto-vii:
+    sensor-flow: sensor-flow.html
+    castaway: castaway.html
+    sunninghill: sunninghill.html
+    limits: limits.html
+    fox-street: fox-street.html
+    all-the-birds: all-the-birds.html
+    reu-bin: reu-bin.html
+  canto-viii:
+    thandeka: thandeka.html
+    yours-sincerely: yours-sincerely.html
+    jozi: jozi.html
+    dennis-goldberg: dennis-goldberg.html
+    gaborone: gaborone.html
+  canto-ix:
+    bangkok: bangkok.html
+    crusading: crusading.html
+    poplar-grove: poplar-grove.html
+    adagietto: adagietto.html
+    i-wanna-hold-your-hand: i-wanna-hold-your-hand.html
+    dhat-al-asma: dhat-al-asma.html
+    what-can-be-said: what-can-be-said.html
+  canto-x:
+    funereal: funereal.html
+    program-me: program-me.html
+    slow-dance: slow-dance.html
+    beacons: beacons.html
+    lupa: lupa.html
+  canto-xi:
+    fana: fana.html
+    baqa: baqa.html
+    perennial-stream: perennial-stream.html
+  canto-xii:
+    spring: spring.html
+    tree-talks: tree-talks.html
+    dauphin: dauphin.html
+    old-people: old-people.html
+    sagrada-familia: sagrada-familia.html
+    long-enough: long-enough.html
+  canto-xiii:
+    lovely-terror: lovely-terror.html
+    ladybug-lamplight: ladybug-lamplight.html
+    exposure: exposure.html
+    mars-and-the-moon: mars-and-the-moon.html
+  canto-xiv:
+    lullaby: lullaby.html
+    consonant: consonant.html
+    it-becomes-you: it-becomes-you.html
+    pebbles: pebbles.html
+    pattern: pattern.html
+    be-again: be-again.html
+    l-chaim: l-chaim.html
+  buddha-blues:
+    stand: stand.html
+    sit: sit.html
+    lie: lie.html
+    repeat: repeat.html
+  four-part-harmony:

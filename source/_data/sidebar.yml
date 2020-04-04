@@ -1,233 +1,125 @@
 book:
-  - title: Canto I
-    path: canto_i
-    children:
-      - title: //Xam
-        path: xam.html
-      - title: Espera
-        path: espera.html
-      - title: Bedien
-        path: bedien.html
-      - title: Iqra'
-        path: iqra.html
-      - title: Tír na nÓg
-        path: tir-na-nog.html 
-      - title: Who Are You?
-        path: who-are-you.html
-      - title: Moth Light
-        path: moth-light.html
-      - title: Smallness
-        path: smallness.html
-      - title: Shared Secrets
-        path: shared-secrets.html
-  - title: Canto II
-    path: canto_ii
-    children:
-      - title: Start Again
-        path: start-again.html
-      - title: Kamal Pash 
-        path: kamal-pash.html
-      - title: Beckoning
-        path: beckoning.html
-      - title: De-Noted
-        path: de-noted.html
-      - title: For Shame
-        path: for-shame.html
-      - title: Weight
-        path: weight.html
-  - title: Canto III
-    path: canto_iii
-    children:
-      - title: Tell Me
-        path: tell-me.html
-      - title: Adam
-        path: adam.html
-      - title: Colour In
-        path: colour-in.html
-      - title: Ikkyu
-        path: ikkyu.html
-      - title: Wonder
-        path: wonder.html
-      - title: Gravity
-        path: gravity.html
-  - title: Canto IV
-    path: canto_iv
-    children:
-      - title: Dream
-        path: dream.html
-      - title: How You Love
-        path: how-you-love.html
-      - title: Breathe
-        path: breathe.html
-      - title: Know
-        path: know.html
-      - title: Ache
-        path: ache.html
-      - title: Carefull
-        path: carefull.html
-  - title: Canto V
-    path: canto_v
-    children:
-      - title: Open Space
-        path: open-space.html
-      - title: Background Life
-        path: background-life.html
-      - title: Passing Temple
-        path: passing-temple.html
-      - title: Timing
-        path: timing.html
-      - title: Jates
-        path: jates.html
-      - title: Search Me
-        path: search-me.html
-      - title: Left Behind
-        path: left-behind.html
-      - title: Content
-        path: content.html
-  - title: Canto VI
-    path: canto_vi
-    children:
-      - title: The No-Boundary Condition
-        path: the-no-boundary-condition.html
-      - title: Feast
-        path: feast.html
-      - title: Awoken
-        path: awoken.html
-      - title: Murmur
-        path: murmur.html
-      - title: Rock Art
-        path: rock-art.html
-      - title: Shelter From The Storm
-        path: shelter-from-the-storm.html
-      - title: Human Voices
-        path: human-voices.html
-      - title: Remember To Breathe
-        path: remember-to-breathe.html
-      - title: Silence
-        path: silence.html
-  - title: Canto VII
-    path: canto_vii
-    children:
-      - title: Sensor Flow
-        path: sensor-flow.html
-      - title: Castaway
-        path: castaway.html
-      - title: Sunninghill
-        path: sunninghill.html
-      - title: Limits
-        path: limits.html
-      - title: Fox Street
-        path: fox-street.html
-      - title: All The Birds
-        path: all-the-birds.html
-      - title: Reu-bin
-        path: reu-bin.html
-  - title: Canto VIII
-    path: canto_viii
-    children:
-      - title: Thandeka
-        path: thandeka.html
-      - title: Yours Sincerely
-        path: yours-sincerely.html
-      - title: Jozi
-        path: jozi.html
-      - title: Dennis Goldberg
-        path: dennis-goldberg.html
-      - title: Gaborone
-        path: gaborone.html
-  - title: Canto IX
-    path: canto_ix
-    children:
-      - title: Bangkok
-        path: bangkok.html
-      - title: Crusading
-        path: crusading.html
-      - title: Poplar Grove
-        path: poplar-grove.html
-      - title: Adagietto
-        path: adagietto.html
-      - title: I Wanna Hold Your Hand
-        path: i-wanna-hold-your-hand.html
-      - title: Dhât al-asmâ’
-        path: dhat-al-asma.html
-      - title: What Can Be Said?
-        path: what-can-be-said.html
-  - title: Canto X
-    path: canto_x
-    children:
-      - title: Funereal
-        path: funereal.html
-      - title: Program Me
-        path: program-me.html
-      - title: Slow Dance
-        path: slow-dance.html
-      - title: Beacons
-        path: beacons.html
-      - title: Lupa
-        path: lupa.html
-  - title: Canto XI
-    path: canto_xi
-    children:
-      - title: Fanāʾ
-        path: fana.html
-      - title: Baqāʾ
-        path: baqa.html
-      - title: Perennial Stream
-        path: perennial-stream.html
-  - title: Canto XII
-    path: canto_xii
-    children:
-      - title: Spring
-        path: spring.html
-      - title: Tree Talks
-        path: tree-talks.html
-      - title: Dauphin
-        path: dauphin.html
-      - title: Old People
-        path: old-people.html
-      - title: Sagrada Familia
-        path: sagrada-familia.html
-      - title: Long Enough
-        path: long-enough.html
-  - title: Canto XIII
-    path: canto_xiii
-    children:
-      - title: Lovely Terror
-        path: lovely-terror.html
-      - title: Ladybug Lamplight
-        path: ladybug-lamplight.html
-      - title: Exposure
-        path: exposure.html
-      - title: Mars And The Moon
-        path: mars-and-the-mmon.html
-  - title: Canto XIII
-    path: canto_xiii
-    children:
-      - title: Lullaby
-        path: lullaby.html
-      - title: Consonant
-        path: consonant.html
-      - title: It Becomes You
-        path: it-becomes-you.html
-      - title: Pebbles
-        path: pebbles.html
-      - title: Pattern
-        path: pattern.html
-      - title: Be Again
-        path: be-again.html
-      - title: L'Chaim
-        path: l-chaim.html
-  - title: Buddha Blues
-    path: buddha_blues
-    children:
-      - title: Stand
-        path: stand.html
-      - title: Sit
-        path: sit.html
-      - title: Lie
-        path: lie.html
-      - title: Repeat
-        path: repeat.html
-  - title: Four Part Harmony
-    path: four_part_harmony
-  
+  canto-i:
+    canto-i: / (Canto I)
+    xam: xam.html
+    espera: espera.html
+    bedien: bedien.html
+    iqra: iqra.html (Iqra')
+    tir-na-nog: tir-na-nog.html (Tír na nÓg)
+    who-are-you: who-are-you.html (Who Are You?)
+    moth-light: moth-light.html (Moth Light)
+    smallness: smallness.html
+    shared-secrets: shared-secrets.html (Shared Secrets)
+  canto-ii:
+    canto-ii: / (Canto II)
+    start-again: start-again.html (Start Again)
+    kamal-pash: kamal-pash.html (Kamal Pash)
+    beckoning: beckoning.html
+    de-noted: de-noted.html (De-Noted)
+    for-shame: for-shame.html (For Shame)
+    weight: weight.html
+  canto-iii:
+    canto-iii: / (Canto III)
+    tell-me: tell-me.html (Tell Me)
+    adam: adam.html
+    colour-in: colour-in.html (Colour In)
+    ikkyu: ikkyu.html
+    wonder: wonder.html
+    gravity: gravity.html
+  canto-iv:
+    canto-iv: / (Canto IV)
+    dream: dream.html
+    how-you-love: how-you-love.html (How You Love)
+    breathe: breathe.html
+    know: know.html
+    ache: ache.html
+    carefull: carefull.html
+  canto-v:
+    canto-v: / (Canto V)
+    open-space: open-space.html (Open Space)
+    background-life: background-life.html (Background Life)
+    passing-temple: passing-temple.html (Passing Temple)
+    timing: timing.html
+    jates: jates.html
+    search-me: search-me.html (Search Me)
+    left-behind: left-behind.html (Left Behind)
+    content: content.html
+  canto-vi:
+    canto-vi: / (Canto VI)
+    the-no-boundary-condition: the-no-boundary-condition.html (The No-Boundary Condition)
+    feast: feast.html
+    awoken: awoken.html
+    murmur: murmur.html
+    rock-art: rock-art.html (Rock Art)
+    shelter-from-the-storm: shelter-from-the-storm.html (Shelter From The Storm)
+    human-voices: human-voices.html (Human Voices)
+    remember-to-breathe: remember-to-breathe.html (Remember To Breathe)
+    silence: silence.html
+  canto-vii:
+    canto-vii: / (Canto VII)
+    sensor-flow: sensor-flow.html (Sensor Flow)
+    castaway: castaway.html
+    sunninghill: sunninghill.html
+    limits: limits.html
+    fox-street: fox-street.html (Fox Street)
+    all-the-birds: all-the-birds.html (All The Birds)
+    reu-bin: reu-bin.html
+  canto-viii:
+    canto-viii: / (Canto VIII)
+    thandeka: thandeka.html
+    yours-sincerely: yours-sincerely.html (Yours Sincerely)
+    jozi: jozi.html
+    dennis-goldberg: dennis-goldberg.html (Dennis Goldberg)
+    gaborone: gaborone.html
+  canto-ix:
+    canto-ix: / (Canto IX)
+    bangkok: bangkok.html
+    crusading: crusading.html
+    poplar-grove: poplar-grove.html (Poplar Grove)
+    adagietto: adagietto.html
+    i-wanna-hold-your-hand: i-wanna-hold-your-hand.html (I Wanna Hold Your Hand)
+    dhat-al-asma: dhat-al-asma.html (Dhât al-asmâ’)
+    what-can-be-said: what-can-be-said.html (What Can Be Said?)
+  canto-x:
+    canto-x: / (Canto X)
+    funereal: funereal.html
+    program-me: program-me.html (Program Me)
+    slow-dance: slow-dance.html (Slow Dance)
+    beacons: beacons.html
+    lupa: lupa.html
+  canto-xi:
+    canto-xi: / (Canto XI)
+    fana: fana.html (Fanāʾ)
+    baqa: baqa.html (Baqāʾ)
+    perennial-stream: perennial-stream.html (Perennial Stream)
+  canto-xii:
+    canto-xii: / (Canto XII)
+    spring: spring.html
+    tree-talks: tree-talks.html (Tree Talks)
+    dauphin: dauphin.html
+    old-people: old-people.html (Old People)
+    sagrada-familia: sagrada-familia.html (Sagrada Familia)
+    long-enough: long-enough.html (Long Enough)
+  canto-xiii:
+    canto-xiii: / (Canto XIII)
+    lovely-terror: lovely-terror.html (Lovely Terror)
+    ladybug-lamplight: ladybug-lamplight.html (Ladybug Lamplight)
+    exposure: exposure.html
+    mars-and-the-moon: mars-and-the-moon.html (Mars And The Moon)
+  canto-xiv:
+    canto-xiv: / (Canto XIV)
+    lullaby: lullaby.html
+    consonant: consonant.html
+    it-becomes-you: it-becomes-you.html (It Becomes You)
+    pebbles: pebbles.html
+    pattern: pattern.html
+    be-again: be-again.html (Be Again)
+    l-chaim: l-chaim.html (L'Chaim)
+  buddha-blues:
+    buddha-blues: / (Buddha Blues)
+    stand: stand.html
+    sit: sit.html
+    lie: lie.html
+    repeat: repeat.html
+  four-part-harmony:
+    four-part-harmony: / (Four Part Harmony)

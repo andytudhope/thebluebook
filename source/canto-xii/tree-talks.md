@@ -45,4 +45,4 @@ of what words sound like.
 
 [Budding Trees](https://www.youtube.com/watch?v=1LsabQV0Yjk "Nahko Bear and Friends")
 
-[Peace seeds](https://www.youtube.com/watch?v=T6qA-4PWdsg "Tim Minchin")
+[Peace seeds](https://www.youtube.com/watch?v=7yy9Y9guPdI "Tim Minchin")

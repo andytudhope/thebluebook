@@ -29,6 +29,6 @@ and the soaring of my heart.
 
 [The Last Question](https://www.youtube.com/watch?v=ojEq-tTjcc0 "Isaac Asimov")
 
-[Wolfram's Language](https://www.youtube.com/watch?v=GNfqsuk-yQA "The Computational Universe, SETI")
+[Wolfram's Language](https://www.youtube.com/watch?v=Re9eB_j6m-0 "The Computational Universe, SETI")
 
 [Arrival](https://www.youtube.com/watch?v=2ZpPMuvoaok "Facing the Fear of Existence")

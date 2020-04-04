@@ -29,7 +29,7 @@ and torn photograph you let me peel
 from your chest that night.
 
 To sit for a while,
-empty bowl in hand,
+empty bowl in hand
 and speak of a feast,
 just lately set,
 the gold centrepiece ablaze

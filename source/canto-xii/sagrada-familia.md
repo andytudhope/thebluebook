@@ -40,6 +40,6 @@ which built this place.
 
 #### TRACE
 
-[O Magnum Mysterium](https://www.youtube.com/watch?v=Q7ch7uottHU "Kings College Choir")
+[O Magnum Mysterium](https://www.youtube.com/watch?v=7KvrbYZB2vY "Kings College Choir")
 
 [The light side of life](https://www.youtube.com/watch?v=SJUhlRoBL8M "Eric Idle")

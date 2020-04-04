@@ -22,6 +22,6 @@ into ten thousand new colours.
 
 #### TRACE
 
-[Wild Ways](http://www.whitepine.org/wildways.pdf)
+[Wild Ways](https://web.archive.org/web/20181024152027/http://www.whitepine.org/wildways.pdf)
 
 [Arrive at nothing](https://www.youtube.com/watch?v=nbSUduKbIvE&t=5 "Villagers")
